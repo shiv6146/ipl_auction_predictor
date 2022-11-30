@@ -7,3 +7,4 @@ babel
 scikit-learn
 pandas
 numpy
+auto-sklearn
