@@ -3,3 +3,4 @@ lxml
 requests
 joblib
 altair
+babel
