@@ -4,3 +4,6 @@ requests
 joblib
 altair
 babel
+scikit-learn
+pandas
+numpy
