@@ -1,0 +1,764 @@
+name,country,age,height,role,bat_style,bowl_style,t20_no,t20_runs,t20_avg,t20_sr,t20_50,t20_4s,t20_6s,ipl_no,ipl_runs,ipl_avg,ipl_sr,ipl_50,ipl_4s,ipl_6s,t20_wkts,t20_bowl_econ,t20_bowl_avg,t20_bowl_sr,ipl_wkts,ipl_bowl_econ,ipl_bowl_avg,ipl_bowl_sr,team,year,price
+Chris Morris,South Africa,35,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,4,133,14.78,130.39,1,12,5,23,618,22.07,155.28,2,41,35,34,8.4,20.5,14.65,95,8.01,24.16,18.11,chennai-super-kings,2013,36250000
+Dirk Nannes,Australia,46,6.16828,bowler,right-handed-bat,left-arm-fast,3,22,11.0,122.22,0,1,1,2,4,4.0,30.77,0,0,0,28,7.52,16.39,13.07,28,7.3,28.04,23.04,chennai-super-kings,2013,34800000
+Ben Laughlin,Australia,40,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,2,5,2.5,38.46,0,0,0,2,9.97,59.0,35.5,10,10.13,28.2,16.7,chennai-super-kings,2013,1160000
+Akila Dananjaya,Sri Lanka,29,,bowler,left-handed-bat,right-arm-offbreak,7,61,7.62,85.92,0,6,0,1,4,0.0,80.0,0,0,0,28,8.2,32.46,23.75,0,11.75,0.0,0.0,chennai-super-kings,2013,1160000
+Jason Holder,West Indies,31,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,9,385,15.4,120.69,0,23,21,5,247,13.0,124.12,0,13,17,51,8.17,26.86,19.73,49,8.57,24.02,16.82,chennai-super-kings,2013,1160000
+Johan Botha,Australia,40,,bowling-allrounder,right-handed-bat,right-arm-offbreak,9,201,18.27,121.82,0,15,9,8,409,20.45,113.93,1,39,5,37,6.38,22.24,20.92,25,6.92,32.0,27.76,delhi-capitals,2013,26100000
+Jesse Ryder,New Zealand,38,,batting-allrounder,left-handed-bat,right-arm-medium,1,457,22.85,127.65,3,47,18,1,604,21.57,131.88,4,69,19,2,6.8,34.0,30.0,8,7.7,37.88,29.5,delhi-capitals,2013,15080000
+Jeevan Mendis,Sri Lanka,39,,bowling-allrounder,left-handed-bat,right-arm-legbreak,4,208,18.91,119.54,0,18,6,0,23,7.67,85.19,0,0,0,12,7.11,20.75,17.5,1,7.2,36.0,30.0,delhi-capitals,2013,2900000
+Manpreet Gony,India,38,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,7,99,9.9,139.44,0,6,8,-,-,-,-,37,8.7,34.78,24.0,punjab-kings,2013,29000000
+Luke Pomersbach,Australia,38,5.84018,batsman,left-handed-bat,right-arm-offbreak,0,15,15.0,214.29,0,1,1,5,302,27.45,122.76,1,25,13,-,-,-,-,-,-,-,-,punjab-kings,2013,17400000
+Sachithra Senanayake,Sri Lanka,37,,bowler,right-handed-bat,right-arm-offbreak,6,56,9.33,84.85,0,3,1,3,10,10.0,58.82,0,0,0,25,6.78,21.96,19.44,9,6.53,23.22,21.33,kolkata-knight-riders,2013,36250000
+Ryan McLaren,South Africa,39,,bowling-allrounder,left-handed-bat,right-arm-fast-medium,3,9,9.0,69.23,0,0,0,5,159,19.88,92.98,1,14,1,17,7.57,19.53,15.47,12,9.19,45.17,29.5,kolkata-knight-riders,2013,2900000
+Glenn Maxwell,Australia,34,,batting-allrounder,right-handed-bat,right-arm-offbreak,14,2159,28.41,150.98,10,176,106,15,2319,25.48,153.88,13,197,127,39,7.46,27.59,22.18,28,8.24,38.57,28.07,mumbai-indians,2013,58000000
+Nathan Coulter-Nile,Australia,35,,bowler,right-handed-bat,right-arm-fast,4,150,13.64,125.0,0,10,10,6,82,6.83,113.89,0,7,4,34,8.27,23.59,17.12,48,7.7,22.92,17.85,mumbai-indians,2013,26100000
+Ricky Ponting,Australia,47,5.84018,batsman,right-handed-bat,right-arm-medium,2,401,28.64,132.78,2,41,11,0,91,10.11,71.09,0,5,2,-,-,-,-,-,-,-,-,mumbai-indians,2013,23200000
+Jacob Oram,New Zealand,44,6.49638,bowling-allrounder,left-handed-bat,right-arm-fast-medium,7,474,20.61,139.82,2,38,22,4,106,13.25,98.15,0,6,5,19,8.73,41.79,28.74,9,8.84,38.78,26.33,mumbai-indians,2013,2900000
+James Faulkner,Australia,32,6.10266,bowling-allrounder,right-handed-bat,left-arm-fast-medium,7,159,14.45,115.22,0,7,5,20,527,21.08,135.82,0,36,23,36,7.97,19.0,14.31,59,8.69,30.14,20.8,rajasthan-royals,2013,23200000
+Fidel Edwards,West Indies,40,,bowler,right-handed-bat,right-arm-fast,4,11,5.5,78.57,0,1,0,1,4,4.0,80.0,0,0,0,20,8.24,30.85,22.45,5,6.6,30.8,28.0,rajasthan-royals,2013,12180000
+Jaydev Unadkat,India,31,,bowler,right-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,14,164,13.67,123.31,0,13,6,14,8.68,21.5,14.86,91,8.79,30.53,20.84,royal-challengers-bangalore,2013,30450000
+RP Singh,India,36,,bowler,right-handed-bat,left-arm-fast-medium,2,3,0.0,100.0,0,0,0,15,52,3.47,68.42,0,2,1,15,6.82,15.0,13.2,90,7.9,25.98,19.72,royal-challengers-bangalore,2013,23200000
+Moises Henriques,Australia,35,6.135470000000001,batting-allrounder,right-handed-bat,right-arm-fast-medium,4,355,20.88,124.56,2,17,15,18,1000,27.78,126.9,5,87,28,7,8.43,27.71,19.71,42,8.14,30.69,22.62,royal-challengers-bangalore,2013,17400000
+Ravi Rampaul,West Indies,38,,bowler,left-handed-bat,right-arm-fast-medium,5,15,7.5,51.72,0,0,0,2,51,10.2,102.0,0,3,2,31,8.38,25.9,18.55,14,6.82,21.29,18.71,royal-challengers-bangalore,2013,16820000
+Pankaj Singh,India,37,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,3,7,3.5,58.33,0,0,0,-,-,-,-,11,9.36,42.55,27.27,royal-challengers-bangalore,2013,8700000
+Daniel Christian,Australia,39,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,6,118,14.75,126.88,0,7,6,9,460,14.38,115.58,0,23,19,13,8.56,30.62,21.46,38,8.1,31.37,23.24,royal-challengers-bangalore,2013,5800000
+Thisara Perera,Sri Lanka,33,6.1,bowling-allrounder,left-handed-bat,right-arm-fast-medium,22,1204,23.15,151.64,3,88,64,8,422,19.18,137.46,0,23,26,51,9.35,33.67,21.61,31,8.73,32.77,22.52,sunrisers-hyderabad,2013,39150000
+Daren Sammy,West Indies,38,,batting-allrounder,right-handed-bat,right-arm-medium,18,587,17.26,147.49,0,45,31,5,295,19.67,122.41,1,15,18,44,7.31,25.36,20.82,11,8.9,31.82,21.45,sunrisers-hyderabad,2013,24650000
+Sudeep Tyagi,India,35,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,2,3,3.0,75.0,0,0,0,0,10.5,0.0,0.0,6,8.47,49.17,34.83,sunrisers-hyderabad,2013,5800000
+Clint McKay,Australia,39,6.36514,bowler,right-handed-bat,right-arm-fast-medium,2,19,9.5,86.36,0,1,1,0,8,8.0,53.33,0,0,0,4,8.07,45.75,34.0,1,8.57,60.0,42.0,sunrisers-hyderabad,2013,5800000
+Nathan McCullum,New Zealand,42,,bowling-allrounder,right-handed-bat,right-arm-offbreak,15,299,11.5,100.67,0,19,8,1,26,26.0,118.18,0,0,1,58,6.83,22.03,19.36,0,6.8,0.0,0.0,sunrisers-hyderabad,2013,5800000
+Quinton de Kock,South Africa,29,,wk-batsman,left-handed-bat,,9,2156,32.18,135.43,14,222,78,6,2764,32.14,133.91,19,277,106,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2013,1160000
+Faf du Plessis,South Africa,38,,batsman,right-handed-bat,right-arm-legbreak,7,1528,35.53,134.39,10,140,50,10,3403,34.37,130.58,25,314,109,0,2.25,0.0,0.0,0,16.0,0.0,0.0,chennai-super-kings,2014,47500000
+Dwayne Smith,West Indies,39,,batting-allrounder,right-handed-bat,right-arm-medium,0,582,18.19,122.27,3,62,31,5,2385,28.39,135.2,17,245,117,7,8.96,30.29,20.29,26,9.02,31.15,20.73,chennai-super-kings,2014,45000000
+Brendon McCullum,New Zealand,41,,wk-batsman,right-handed-bat,,10,2140,35.67,136.22,13,199,91,5,2880,27.69,131.75,13,293,130,-,-,-,-,-,-,-,-,chennai-super-kings,2014,32500000
+Ashish Nehra,India,43,,bowler,right-handed-bat,left-arm-fast-medium,0,28,5.6,71.79,0,1,2,15,41,5.86,66.13,0,3,1,34,7.73,22.29,17.29,106,7.85,23.54,18.0,chennai-super-kings,2014,20000000
+Mohit Sharma,India,34,,bowler,right-handed-bat,right-arm-fast-medium,2,3,0.0,42.86,0,0,0,12,122,8.13,104.27,0,8,4,6,8.04,30.83,23.0,92,8.45,26.85,19.07,chennai-super-kings,2014,20000000
+Ben Hilfenhaus,Australia,39,6.10266,bowler,right-handed-bat,right-arm-fast-medium,1,2,1.0,20.0,0,0,0,1,0,0.0,0.0,0,0,0,9,6.19,17.89,17.33,22,7.73,21.77,16.91,chennai-super-kings,2014,10000000
+John Hastings,Australia,37,6.39795,bowling-allrounder,right-handed-bat,right-arm-fast-medium,2,46,11.5,124.32,0,3,1,-,-,-,-,-,-,-,7,7.97,35.29,26.57,3,6.83,22.0,19.33,chennai-super-kings,2014,5000000
+Samuel Badree,West Indies,41,,bowler,right-handed-bat,right-arm-legbreak,10,43,7.17,66.15,0,1,1,0,13,2.6,56.52,0,0,0,56,6.18,21.07,20.46,11,7.42,29.0,23.45,chennai-super-kings,2014,3000000
+Matt Henry,New Zealand,30,,bowler,right-handed-bat,right-arm-fast-medium,1,10,10.0,200.0,0,2,0,-,-,-,-,-,-,-,7,8.68,27.29,18.86,1,14.2,71.0,30.0,chennai-super-kings,2014,3000000
+Mithun Manhas,India,43,,batting-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,15,514,22.35,109.36,0,43,10,-,-,-,-,0,6.0,0.0,0.0,chennai-super-kings,2014,3000000
+Vijay Shankar,India,31,,batting-allrounder,right-handed-bat,right-arm-medium,0,101,25.25,138.36,0,11,5,12,731,23.58,122.04,3,46,28,5,9.1,38.2,25.2,9,8.67,38.22,26.44,chennai-super-kings,2014,1000000
+Ronit More,India,30,,bowler,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,1,2,0.0,100.0,0,0,0,-,-,-,-,1,10.11,59.0,35.0,chennai-super-kings,2014,1000000
+Pawan Negi,India,29,,bowling-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,9,365,14.04,126.3,0,27,16,1,5.33,16.0,18.0,34,7.87,27.62,21.06,chennai-super-kings,2014,1000000
+Dinesh Karthik,India,37,,wk-batsman,right-handed-bat,,22,686,26.38,142.62,1,71,28,45,4376,26.85,132.65,20,426,134,0,18.0,0.0,0.0,-,-,-,-,delhi-capitals,2014,125000000
+Kevin Pietersen,England,42,6.4,batsman,right-handed-bat,right-arm-offbreak,5,1176,37.94,141.52,7,119,32,8,1001,35.75,134.72,4,91,40,1,10.6,53.0,30.0,7,7.41,30.71,24.86,delhi-capitals,2014,90000000
+Murali Vijay,India,38,,batsman,right-handed-bat,right-arm-offbreak,0,169,18.78,109.74,0,13,8,5,2619,25.93,121.87,13,247,91,0,4.5,0.0,0.0,0,8.17,0.0,0.0,delhi-capitals,2014,50000000
+Mohammed Shami,India,32,,bowler,right-handed-bat,right-arm-fast-medium,2,0,0.0,0.0,0,0,0,12,69,6.27,94.52,0,5,2,24,8.94,29.62,19.88,99,8.52,29.19,20.57,delhi-capitals,2014,42500000
+Nathan Coulter-Nile,Australia,35,,bowler,right-handed-bat,right-arm-fast,4,150,13.64,125.0,0,10,10,6,82,6.83,113.89,0,7,4,34,8.27,23.59,17.12,48,7.7,22.92,17.85,delhi-capitals,2014,42500000
+Quinton de Kock,South Africa,29,,wk-batsman,left-handed-bat,,9,2156,32.18,135.43,14,222,78,6,2764,32.14,133.91,19,277,106,-,-,-,-,-,-,-,-,delhi-capitals,2014,35000000
+Manoj Tiwary,India,37,,batsman,right-handed-bat,right-arm-legbreak,0,15,15.0,88.24,0,0,0,26,1695,28.73,116.98,7,156,40,-,-,-,-,1,11.86,83.0,42.0,delhi-capitals,2014,28000000
+Jaydev Unadkat,India,31,,bowler,right-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,14,164,13.67,123.31,0,13,6,14,8.68,21.5,14.86,91,8.79,30.53,20.84,delhi-capitals,2014,28000000
+Jean-Paul Duminy,South Africa,38,,batting-allrounder,left-handed-bat,right-arm-offbreak,25,1934,38.68,126.24,11,138,71,26,2029,39.78,124.02,14,126,79,21,7.76,28.52,22.05,23,7.38,36.26,29.48,delhi-capitals,2014,22000000
+Ross Taylor,New Zealand,38,,batsman,right-handed-bat,right-arm-offbreak,19,1909,25.45,122.37,7,122,71,14,1017,25.43,123.72,3,66,46,-,-,-,-,0,12.0,0.0,0.0,delhi-capitals,2014,20000000
+Kedar Jadhav,India,37,,batting-allrounder,right-handed-bat,right-arm-offbreak,0,122,20.33,123.23,1,12,3,26,1196,22.15,123.17,4,101,40,-,-,-,-,-,-,-,-,delhi-capitals,2014,20000000
+Rahul Sharma,India,35,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,6,66,4.71,88.0,0,5,3,3,7.64,18.67,14.67,40,7.02,27.15,23.2,delhi-capitals,2014,19000000
+Mayank Agarwal,India,31,,batsman,right-handed-bat,,-,-,-,-,-,-,-,4,2331,22.63,134.51,12,227,91,-,-,-,-,-,-,-,-,delhi-capitals,2014,16000000
+James Neesham,New Zealand,32,,batting-allrounder,left-handed-bat,right-arm-medium,17,688,22.19,159.63,0,49,41,1,92,10.22,98.92,0,6,2,25,9.13,30.12,19.8,8,9.28,41.75,27.0,delhi-capitals,2014,10000000
+Wayne Parnell,South Africa,33,,bowling-allrounder,left-handed-bat,left-arm-fast-medium,13,168,21.0,97.67,0,13,4,4,63,7.0,84.0,0,4,1,57,8.11,24.6,18.19,26,7.35,26.96,22.0,delhi-capitals,2014,10000000
+Shahbaz Nadeem,India,33,,bowler,right-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,8,39,2.79,44.83,0,2,0,-,-,-,-,48,7.56,37.17,29.48,delhi-capitals,2014,8500000
+Saurabh Tiwary,India,32,,batsman,left-handed-bat,,-,-,-,-,-,-,-,22,1494,28.73,120.1,8,111,50,-,-,-,-,-,-,-,-,delhi-capitals,2014,7000000
+Siddarth Kaul,India,32,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,8,20,5.0,55.56,0,1,0,4,8.69,21.0,14.5,58,8.63,29.98,20.84,delhi-capitals,2014,4500000
+Rahul Shukla,India,32,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,3,19,19.0,82.61,0,2,0,-,-,-,-,5,10.4,41.6,24.0,delhi-capitals,2014,4000000
+Jayant Yadav,India,32,,bowler,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,1,40,10.0,111.11,0,2,1,-,-,-,-,8,6.87,52.38,45.75,delhi-capitals,2014,1000000
+Mitchell Johnson,Australia,41,6.20109,bowler,left-handed-bat,left-arm-fast,7,109,10.9,114.74,0,8,3,17,167,12.85,101.83,0,10,7,38,7.29,20.97,17.26,61,8.29,27.9,20.2,punjab-kings,2014,65000000
+Glenn Maxwell,Australia,34,,batting-allrounder,right-handed-bat,right-arm-offbreak,14,2159,28.41,150.98,10,176,106,15,2319,25.48,153.88,13,197,127,39,7.46,27.59,22.18,28,8.24,38.57,28.07,punjab-kings,2014,60000000
+George Bailey,Australia,40,5.84018,batsman,right-handed-bat,right-arm-medium,7,473,24.89,136.71,2,37,20,10,663,24.56,121.88,2,59,19,-,-,-,-,-,-,-,-,punjab-kings,2014,32500000
+Virender Sehwag,India,44,,batsman,right-handed-bat,right-arm-offbreak,0,394,21.89,145.39,2,43,16,5,2728,27.56,155.44,16,334,106,0,20.0,0.0,0.0,6,10.37,39.17,22.67,punjab-kings,2014,32000000
+Rishi Dhawan,India,32,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,1,1,0.0,50.0,0,0,0,12,190,21.11,108.57,0,17,6,1,10.5,42.0,24.0,24,7.93,33.17,25.08,punjab-kings,2014,30000000
+Wriddhiman Saha,India,38,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,23,2427,25.28,127.87,11,231,76,-,-,-,-,-,-,-,-,punjab-kings,2014,22000000
+Shaun Marsh,Australia,39,6.03704,batsman,left-handed-bat,left-arm-orthodox,1,255,18.21,102.82,0,15,10,7,2477,39.95,132.74,20,266,78,-,-,-,-,-,-,-,-,punjab-kings,2014,22000000
+Cheteshwar Pujara,India,34,,batsman,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,3,390,20.53,99.74,1,50,4,-,-,-,-,-,-,-,-,punjab-kings,2014,19000000
+Beuran Hendricks,South Africa,32,,bowler,left-handed-bat,left-arm-fast-medium,2,18,6.0,78.26,0,0,1,2,1,1.0,33.33,0,0,0,25,9.2,25.08,16.36,9,9.4,26.11,16.67,punjab-kings,2014,18000000
+Lakshmipathy Balaji,India,41,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,7,36,4.5,73.47,0,2,1,10,7.56,12.1,9.6,76,8.05,26.7,19.91,punjab-kings,2014,18000000
+Thisara Perera,Sri Lanka,33,6.1,bowling-allrounder,left-handed-bat,right-arm-fast-medium,22,1204,23.15,151.64,3,88,64,8,422,19.18,137.46,0,23,26,51,9.35,33.67,21.61,31,8.73,32.77,22.52,punjab-kings,2014,16000000
+Murali Kartik,India,46,6.0,bowler,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,9,113,16.14,104.63,0,7,1,0,6.75,0.0,0.0,31,7.24,44.77,37.1,punjab-kings,2014,10000000
+Sandeep Sharma,India,29,,bowler,right-handed-bat,right-arm-fast-medium,1,1,0.0,100.0,0,0,0,19,52,8.67,81.25,0,4,0,1,10.43,73.0,42.0,114,7.77,26.33,20.33,punjab-kings,2014,8500000
+Parvinder Awana,India,36,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,5,5,2.5,35.71,0,0,0,0,11.83,0.0,0.0,39,8.27,26.38,19.15,punjab-kings,2014,6500000
+Shardul Thakur,India,31,,bowler,right-handed-bat,right-arm-fast-medium,3,69,23.0,181.58,0,5,4,8,173,10.81,129.1,0,12,8,33,9.15,23.39,15.33,82,9.06,28.54,18.9,punjab-kings,2014,2000000
+Anureet Singh,India,34,,bowler,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,4,36,9.0,76.6,0,2,1,-,-,-,-,18,9.07,34.61,22.89,punjab-kings,2014,2000000
+Shivam Sharma,India,29,,bowler,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,1,5,5.0,166.67,0,1,0,-,-,-,-,4,8.68,41.25,28.5,punjab-kings,2014,1000000
+Karanveer Singh,India,35,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,3,12,12.0,70.59,0,1,0,-,-,-,-,12,9.44,26.75,17.0,punjab-kings,2014,1000000
+Jacques Kallis,South Africa,47,5.11,batting-allrounder,right-handed-bat,right-arm-fast-medium,4,666,35.05,119.35,5,56,20,11,2427,28.55,109.23,17,255,44,12,7.24,27.75,23.0,65,7.9,35.28,26.8,kolkata-knight-riders,2014,55000000
+Robin Uthappa,India,37,,wk-batsman,right-handed-bat,right-arm-medium,2,249,24.9,118.01,1,26,6,17,4952,27.51,130.35,27,481,182,-,-,-,-,-,-,-,-,kolkata-knight-riders,2014,50000000
+Piyush Chawla,India,33,,bowling-allrounder,left-handed-bat,right-arm-legbreak,0,0,0.0,0.0,0,0,0,32,584,11.68,111.03,0,54,18,4,6.57,37.75,34.5,157,7.88,27.39,20.85,kolkata-knight-riders,2014,42500000
+Yusuf Pathan,India,40,,batting-allrounder,right-handed-bat,right-arm-offbreak,5,236,18.15,146.58,0,11,17,44,3204,29.13,142.97,13,262,158,13,8.62,33.69,23.46,42,7.4,33.69,27.31,kolkata-knight-riders,2014,32500000
+Shakib Al Hasan,Bangladesh,35,,batting-allrounder,left-handed-bat,left-arm-orthodox,10,2243,23.12,121.84,12,225,47,12,793,19.82,124.49,2,73,21,128,6.83,21.21,18.63,63,7.44,29.19,23.56,kolkata-knight-riders,2014,28000000
+Morne Morkel,South Africa,38,,bowler,left-handed-bat,right-arm-fast,5,22,7.33,122.22,0,3,1,12,126,11.45,140.0,0,11,5,47,7.51,25.34,20.26,77,7.69,27.13,21.16,kolkata-knight-riders,2014,28000000
+Vinay Kumar,India,38,,bowler,right-handed-bat,right-arm-fast-medium,1,2,0.0,50.0,0,0,0,18,310,11.07,113.14,0,21,9,10,7.84,24.7,18.9,105,8.39,28.25,20.2,kolkata-knight-riders,2014,28000000
+Umesh Yadav,India,35,,bowler,right-handed-bat,right-arm-fast,1,22,22.0,104.76,0,2,0,27,177,9.83,105.36,0,15,8,12,9.33,23.33,15.0,135,8.37,29.02,20.81,kolkata-knight-riders,2014,26000000
+Manish Pandey,India,33,,batsman,right-handed-bat,right-arm-medium,17,709,44.31,126.16,3,49,19,27,3648,29.9,121.52,21,317,105,-,-,-,-,-,-,-,-,kolkata-knight-riders,2014,17000000
+Chris Lynn,Australia,32,,batsman,right-handed-bat,left-arm-orthodox,1,291,19.4,131.67,0,28,14,3,1329,34.08,140.63,10,132,66,-,-,-,-,-,-,-,-,kolkata-knight-riders,2014,13000000
+Pat Cummins,Australia,29,6.29952,bowler,right-handed-bat,right-arm-fast,11,116,9.67,123.4,0,6,6,11,379,18.95,152.21,3,24,26,55,7.38,24.55,19.96,45,8.54,30.16,21.18,kolkata-knight-riders,2014,10000000
+Ryan ten Doeschate,Netherlands,42,5.11,batting-allrounder,right-handed-bat,right-arm-fast-medium,10,533,41.0,132.92,3,27,19,8,326,23.29,138.72,1,26,15,13,7.0,18.85,16.15,2,7.23,47.0,39.0,kolkata-knight-riders,2014,10000000
+Suryakumar Yadav,India,32,,batsman,right-handed-bat,right-arm-offbreak,8,1408,44.0,180.98,12,131,80,20,2644,30.05,136.78,16,284,84,-,-,-,-,0,8.0,0.0,0.0,kolkata-knight-riders,2014,7000000
+Andre Russell,West Indies,34,,bowling-allrounder,right-handed-bat,right-arm-fast,19,741,19.5,156.0,1,42,62,15,2035,30.37,177.88,10,137,175,39,9.19,34.97,22.85,89,9.14,24.48,16.07,kolkata-knight-riders,2014,6000000
+Manvinder Bisla,India,37,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,1,798,21.0,113.68,4,93,23,-,-,-,-,-,-,-,-,kolkata-knight-riders,2014,6000000
+Veer Pratap Singh,India,30,,bowler,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,0,0,0.0,0.0,0,0,0,-,-,-,-,10,8.71,29.6,20.4,kolkata-knight-riders,2014,4000000
+Kuldeep Yadav,India,27,,bowler,left-handed-bat,left-arm-chinaman,3,43,43.0,89.58,0,2,0,11,105,15.0,82.68,0,8,2,44,6.89,14.02,12.2,61,8.32,27.13,19.57,kolkata-knight-riders,2014,4000000
+Debabrata Das,India,36,,batsman,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,8,304,21.71,116.48,0,23,16,-,-,-,-,-,-,-,-,kolkata-knight-riders,2014,2000000
+Michael Hussey,Australia,47,5.9058,batsman,left-handed-bat,right-arm-medium,11,721,37.95,136.29,4,58,25,7,1977,38.76,122.64,15,198,52,0,5.0,0.0,0.0,-,-,-,-,mumbai-indians,2014,50000000
+Corey Anderson,New Zealand,31,,batting-allrounder,left-handed-bat,left-arm-fast-medium,4,485,23.1,138.18,2,30,26,7,538,24.45,127.19,3,40,31,14,8.25,35.36,25.71,11,10.46,47.09,27.0,mumbai-indians,2014,45000000
+Pragyan Ojha,India,36,,bowler,left-handed-bat,left-arm-orthodox,1,10,0.0,166.67,0,0,1,11,16,1.33,35.56,0,0,0,10,6.29,13.2,12.6,89,7.37,26.2,21.34,mumbai-indians,2014,32500000
+Zaheer Khan,India,44,,bowler,right-handed-bat,left-arm-fast-medium,2,13,6.5,130.0,0,0,1,18,117,8.36,82.98,0,11,2,17,7.64,26.35,20.71,102,7.59,27.27,21.57,mumbai-indians,2014,26000000
+Aditya Tare,India,35,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,4,339,14.12,124.18,1,40,11,-,-,-,-,-,-,-,-,mumbai-indians,2014,16000000
+Jasprit Bumrah,India,28,,bowler,right-handed-bat,right-arm-fast,5,8,4.0,61.54,0,1,0,19,56,8.0,84.85,0,4,1,70,6.62,20.23,18.33,145,7.4,23.31,18.91,mumbai-indians,2014,12000000
+Jalaj Saxena,India,35,,batting-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,9.0,0.0,0.0,mumbai-indians,2014,9000000
+Josh Hazlewood,Australia,31,6.43076,bowler,left-handed-bat,right-arm-fast-medium,5,22,11.0,157.14,0,2,1,5,18,0.0,69.23,0,1,0,58,7.69,20.36,15.9,32,8.02,22.94,17.16,mumbai-indians,2014,5000000
+Marchant de Lange,South Africa,32,,bowler,right-handed-bat,right-arm-fast,-,-,-,-,-,-,-,0,1,1.0,50.0,0,0,0,7,9.77,32.57,20.0,5,9.39,33.8,21.6,mumbai-indians,2014,3000000
+Ben Dunk,Australia,35,,wk-batsman,left-handed-bat,right-arm-offbreak,0,99,19.8,143.48,0,8,6,0,40,13.33,114.29,0,7,0,-,-,-,-,-,-,-,-,mumbai-indians,2014,2000000
+CM Gautam,India,36,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,3,169,16.9,112.67,0,17,6,-,-,-,-,-,-,-,-,mumbai-indians,2014,2000000
+Pawan Suyal,India,33,,bowler,right-handed-bat,left-arm-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,9.44,75.5,48.0,mumbai-indians,2014,1000000
+Shreyas Gopal,India,29,,bowling-allrounder,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,8,180,12.86,106.51,0,19,2,-,-,-,-,49,8.1,26.14,19.37,mumbai-indians,2014,1000000
+Steven Smith,Australia,33,,batsman,right-handed-bat,right-arm-legbreak,11,1008,25.2,125.22,4,85,24,21,2485,34.51,128.09,11,225,60,17,7.79,22.24,17.12,0,0.0,0.0,0.0,rajasthan-royals,2014,40000000
+Brad Hodge,Australia,47,5.84018,batting-allrounder,right-handed-bat,right-arm-offbreak,4,183,26.14,127.08,0,9,7,21,1400,33.33,125.22,6,122,43,1,8.6,43.0,30.0,17,7.77,17.82,13.76,rajasthan-royals,2014,24000000
+Rajat Bhatia,India,43,,bowling-allrounder,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,19,342,11.4,120.42,0,24,13,-,-,-,-,71,7.41,28.45,23.04,rajasthan-royals,2014,17000000
+Tim Southee,New Zealand,33,,bowler,right-handed-bat,right-arm-fast-medium,18,261,10.88,139.57,0,18,16,7,120,9.23,112.15,0,8,4,134,8.16,23.46,17.25,45,8.53,36.96,26.0,rajasthan-royals,2014,12000000
+Dhawal Kulkarni,India,33,,bowler,right-handed-bat,right-arm-fast-medium,1,1,0.0,100.0,0,0,0,14,104,11.56,96.3,0,7,2,3,6.88,18.33,16.0,86,8.31,28.77,20.78,rajasthan-royals,2014,11000000
+Abhishek Nayar,India,39,,batting-allrounder,left-handed-bat,right-arm-medium,-,-,-,-,-,-,-,12,672,17.68,116.46,0,55,20,-,-,-,-,9,8.44,35.78,25.44,rajasthan-royals,2014,10000000
+Kane Richardson,Australia,31,,bowler,right-handed-bat,right-arm-fast-medium,3,17,4.25,100.0,0,0,0,1,36,12.0,92.31,0,2,1,44,8.33,23.3,16.77,19,8.45,24.84,17.63,rajasthan-royals,2014,10000000
+Ben Cutting,Australia,35,6.29952,bowling-allrounder,right-handed-bat,right-arm-fast-medium,1,40,10.0,148.15,0,2,3,6,238,21.64,168.79,0,15,19,3,10.24,71.67,42.0,10,9.16,42.9,28.1,rajasthan-royals,2014,8000000
+Karun Nair,India,30,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,5,1496,23.75,127.75,10,161,39,-,-,-,-,-,-,-,-,rajasthan-royals,2014,7500000
+Unmukt Chand,India,29,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,0,300,15.0,100.0,1,32,9,-,-,-,-,-,-,-,-,rajasthan-royals,2014,6500000
+Iqbal Abdulla,India,32,,bowler,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,11,88,44.0,104.76,0,9,1,-,-,-,-,40,7.23,27.73,23.0,rajasthan-royals,2014,6500000
+Deepak Hooda,India,27,,batting-allrounder,right-handed-bat,right-arm-offbreak,3,302,33.56,150.25,0,27,13,14,1236,20.26,132.05,7,77,56,5,4.58,9.0,11.8,10,8.61,50.1,34.9,rajasthan-royals,2014,4000000
+Dishant Yagnik,India,39,,wk-batsman,left-handed-bat,,-,-,-,-,-,-,-,7,170,17.0,124.09,0,23,2,-,-,-,-,-,-,-,-,rajasthan-royals,2014,3000000
+Kevon Cooper,West Indies,33,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,5,116,12.89,170.59,0,9,8,-,-,-,-,33,7.89,22.94,17.45,rajasthan-royals,2014,3000000
+Vikramjeet Singh Malik,India,39,,bowler,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,1,7,7.0,100.0,0,1,0,-,-,-,-,6,7.64,43.5,34.17,rajasthan-royals,2014,2000000
+Rahul Tewatia,India,29,,batting-allrounder,left-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,17,738,25.45,130.39,1,57,35,-,-,-,-,32,7.92,34.25,25.94,rajasthan-royals,2014,1000000
+Amit Mishra,India,40,,bowler,right-handed-bat,right-arm-legbreak,0,0,0.0,0.0,0,0,0,25,362,11.68,93.06,0,29,5,16,6.32,15.0,14.25,166,7.35,23.95,19.55,rajasthan-royals,2014,1000000
+Pravin Tambe,India,51,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,4,18,9.0,46.15,0,1,0,-,-,-,-,28,7.75,30.46,23.57,rajasthan-royals,2014,1000000
+Yuvraj Singh,India,40,,batting-allrounder,left-handed-bat,left-arm-orthodox,9,1177,28.02,136.38,8,77,74,15,2750,24.77,129.72,13,217,149,28,7.06,17.82,15.14,36,7.44,29.92,24.14,royal-challengers-bangalore,2014,140000000
+Mitchell Starc,Australia,32,6.43076,bowler,left-handed-bat,left-arm-fast,9,94,9.4,101.08,0,4,2,5,96,13.71,97.96,0,10,0,73,7.64,22.92,18.0,34,7.17,20.38,17.06,royal-challengers-bangalore,2014,50000000
+Varun Aaron,India,33,,bowler,right-handed-bat,right-arm-fast,-,-,-,-,-,-,-,8,50,10.0,69.44,0,2,2,-,-,-,-,44,8.94,33.66,22.59,royal-challengers-bangalore,2014,20000000
+Ashok Dinda,India,38,,bowler,right-handed-bat,right-arm-fast-medium,1,22,22.0,91.67,0,1,0,7,26,2.6,54.17,0,2,0,17,8.17,14.41,10.59,69,8.2,30.04,21.97,royal-challengers-bangalore,2014,15000000
+Parthiv Patel,India,37,,wk-batsman,left-handed-bat,,0,36,18.0,112.5,0,4,1,11,2848,22.6,120.78,13,365,49,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2014,14000000
+Muttiah Muralitharan,Sri Lanka,50,5.7,bowler,right-handed-bat,right-arm-offbreak,0,1,0.5,20.0,0,0,0,3,20,3.33,66.67,0,1,0,13,6.32,22.85,21.69,63,6.68,26.92,24.19,royal-challengers-bangalore,2014,10000000
+Ravi Rampaul,West Indies,38,,bowler,left-handed-bat,right-arm-fast-medium,5,15,7.5,51.72,0,0,0,2,51,10.2,102.0,0,3,2,31,8.38,25.9,18.55,14,6.82,21.29,18.71,royal-challengers-bangalore,2014,9000000
+Nic Maddinson,Australia,30,,batsman,left-handed-bat,left-arm-orthodox,0,45,11.25,128.57,0,6,1,0,20,6.67,95.24,0,4,0,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2014,5000000
+Harshal Patel,India,32,,bowler,right-handed-bat,right-arm-fast-medium,4,77,12.83,135.09,0,9,3,14,230,10.45,129.21,0,15,13,27,9.13,27.0,17.74,97,8.4,22.87,16.34,royal-challengers-bangalore,2014,4000000
+Vijay Zol,India,28,,batsman,left-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,0,29,14.5,111.54,0,3,1,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2014,3000000
+Sachin Rana,India,38,,batting-allrounder,right-handed-bat,,-,-,-,-,-,-,-,4,91,22.75,112.35,0,9,1,-,-,-,-,0,6.75,0.0,0.0,royal-challengers-bangalore,2014,2000000
+Shadab Jakati,India,42,,bowler,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,7,28,28.0,96.55,0,3,0,-,-,-,-,47,8.02,30.87,23.09,royal-challengers-bangalore,2014,2000000
+Sandeep Warrier,India,31,,bowler,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,7.67,0.0,0.0,2,7.88,67.0,51.0,royal-challengers-bangalore,2014,1000000
+Tanmay Mishra,India,35,,batsman,right-handed-bat,right-arm-fast-medium,0,227,15.13,86.31,0,15,4,-,-,-,-,-,-,-,3,6.8,11.33,10.0,-,-,-,-,royal-challengers-bangalore,2014,1000000
+Yogesh Takawale,India,38,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,2,192,24.0,107.87,0,26,3,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2014,1000000
+Yuzvendra Chahal,India,32,,bowler,right-handed-bat,right-arm-legbreak,2,5,2.5,45.45,0,0,0,13,37,5.29,43.02,0,0,0,87,8.14,24.78,18.28,166,7.61,21.83,17.2,royal-challengers-bangalore,2014,1000000
+David Warner,Australia,36,5.5777,batsman,left-handed-bat,right-arm-legbreak,11,2894,32.89,141.31,24,296,105,22,5881,42.01,140.69,55,578,215,-,-,-,-,0,0.0,0.0,0.0,sunrisers-hyderabad,2014,55000000
+Amit Mishra,India,40,,bowler,right-handed-bat,right-arm-legbreak,0,0,0.0,0.0,0,0,0,25,362,11.68,93.06,0,29,5,16,6.32,15.0,14.25,166,7.35,23.95,19.55,sunrisers-hyderabad,2014,47500000
+Bhuvneshwar Kumar,India,32,,bowler,right-handed-bat,right-arm-fast-medium,13,67,8.38,71.28,0,0,0,28,241,8.31,96.4,0,23,3,90,6.96,23.1,19.9,154,7.3,25.79,21.18,sunrisers-hyderabad,2014,42500000
+Aaron Finch,Australia,36,5.70894,batsman,right-handed-bat,left-arm-orthodox,12,3120,34.29,142.53,19,309,125,6,2091,24.89,128.2,15,214,78,0,13.5,0.0,0.0,1,9.35,67.0,43.0,sunrisers-hyderabad,2014,40000000
+Karn Sharma,India,35,,bowler,left-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,14,317,15.1,115.69,0,18,14,1,7.0,28.0,24.0,59,7.91,27.29,20.71,sunrisers-hyderabad,2014,37500000
+Daren Sammy,West Indies,38,,batting-allrounder,right-handed-bat,right-arm-medium,18,587,17.26,147.49,0,45,31,5,295,19.67,122.41,1,15,18,44,7.31,25.36,20.82,11,8.9,31.82,21.45,sunrisers-hyderabad,2014,35000000
+Ishant Sharma,India,34,,bowler,right-handed-bat,right-arm-fast-medium,2,8,8.0,88.89,0,1,0,19,55,9.17,90.16,0,4,2,8,8.63,50.0,34.75,72,8.12,37.51,27.74,sunrisers-hyderabad,2014,26000000
+Irfan Pathan,India,38,,bowling-allrounder,left-handed-bat,left-arm-fast-medium,7,172,24.57,119.44,0,9,7,29,1139,21.49,120.4,1,87,37,28,8.03,22.07,16.5,80,7.78,33.11,25.54,sunrisers-hyderabad,2014,24000000
+Moises Henriques,Australia,35,6.135470000000001,batting-allrounder,right-handed-bat,right-arm-fast-medium,4,355,20.88,124.56,2,17,15,18,1000,27.78,126.9,5,87,28,7,8.43,27.71,19.71,42,8.14,30.69,22.62,sunrisers-hyderabad,2014,10000000
+Lokesh Rahul,India,30,,wk-batsman,right-handed-bat,,8,2265,37.75,139.13,22,191,99,19,3889,48.01,136.22,31,327,164,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2014,10000000
+Parvez Rasool,India,33,,bowling-allrounder,right-handed-bat,right-arm-offbreak,0,5,5.0,83.33,0,0,0,3,17,8.5,85.0,0,1,0,1,8.0,32.0,24.0,4,8.21,67.75,49.5,sunrisers-hyderabad,2014,9500000
+Jason Holder,West Indies,31,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,9,385,15.4,120.69,0,23,21,5,247,13.0,124.12,0,13,17,51,8.17,26.86,19.73,49,8.57,24.02,16.82,sunrisers-hyderabad,2014,7500000
+Venugopal Rao,India,40,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,10,985,22.39,117.82,3,77,37,-,-,-,-,6,9.36,56.17,36.0,sunrisers-hyderabad,2014,5500000
+Naman Ojha,India,39,,wk-batsman,right-handed-bat,,0,12,6.0,44.44,0,2,0,19,1554,20.72,118.35,6,121,79,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2014,5000000
+Prasanth Parameswaran,India,37,,bowler,right-handed-bat,left-arm-medium,-,-,-,-,-,-,-,2,1,0.0,50.0,0,0,0,-,-,-,-,9,8.73,24.89,17.11,sunrisers-hyderabad,2014,3000000
+Amit Paunikar,India,34,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,0,49,12.25,85.96,0,9,0,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2014,2000000
+Ashish Reddy,India,31,,bowling-allrounder,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,8,280,18.67,145.08,0,17,14,-,-,-,-,18,9.07,22.0,14.56,sunrisers-hyderabad,2014,2000000
+Srikkanth Anirudha,India,35,,batsman,right-handed-bat,,-,-,-,-,-,-,-,5,136,17.0,120.35,1,9,7,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2014,2000000
+Ricky Bhui,India,26,,batsman,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,0,7,3.5,41.18,0,0,0,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2014,1000000
+Manprit Juneja,India,32,,batting-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,0,125,17.86,97.66,0,11,1,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2014,1000000
+Michael Hussey,Australia,47,5.9058,batsman,left-handed-bat,right-arm-medium,11,721,37.95,136.29,4,58,25,7,1977,38.76,122.64,15,198,52,0,5.0,0.0,0.0,-,-,-,-,chennai-super-kings,2015,15000000
+Irfan Pathan,India,38,,bowling-allrounder,left-handed-bat,left-arm-fast-medium,7,172,24.57,119.44,0,9,7,29,1139,21.49,120.4,1,87,37,28,8.03,22.07,16.5,80,7.78,33.11,25.54,chennai-super-kings,2015,15000000
+Rahul Sharma,India,35,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,6,66,4.71,88.0,0,5,3,3,7.64,18.67,14.67,40,7.02,27.15,23.2,chennai-super-kings,2015,3000000
+Kyle Abbott,South Africa,35,,bowler,right-handed-bat,right-arm-fast-medium,4,23,11.5,115.0,0,2,0,2,13,13.0,162.5,0,0,1,26,7.97,22.27,16.77,2,11.06,88.5,48.0,chennai-super-kings,2015,3000000
+Andrew Tye,Australia,35,,bowler,right-handed-bat,right-arm-fast-medium,7,83,10.38,109.21,0,5,4,4,91,10.11,119.74,0,6,5,47,8.76,21.21,14.53,42,8.59,23.31,16.29,chennai-super-kings,2015,2000000
+Eklavya Dwivedi,India,34,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,0,24,12.0,171.43,0,2,2,-,-,-,-,-,-,-,-,chennai-super-kings,2015,1000000
+Yuvraj Singh,India,40,,batting-allrounder,left-handed-bat,left-arm-orthodox,9,1177,28.02,136.38,8,77,74,15,2750,24.77,129.72,13,217,149,28,7.06,17.82,15.14,36,7.44,29.92,24.14,delhi-capitals,2015,160000000
+Angelo Mathews,Sri Lanka,35,,batting-allrounder,right-handed-bat,right-arm-fast-medium,18,1148,25.51,117.74,5,73,38,11,724,23.35,125.91,1,44,29,38,7.0,31.58,27.08,27,8.18,39.96,29.3,delhi-capitals,2015,75000000
+Zaheer Khan,India,44,,bowler,right-handed-bat,left-arm-fast-medium,2,13,6.5,130.0,0,0,1,18,117,8.36,82.98,0,11,2,17,7.64,26.35,20.71,102,7.59,27.27,21.57,delhi-capitals,2015,40000000
+Amit Mishra,India,40,,bowler,right-handed-bat,right-arm-legbreak,0,0,0.0,0.0,0,0,0,25,362,11.68,93.06,0,29,5,16,6.32,15.0,14.25,166,7.35,23.95,19.55,delhi-capitals,2015,35000000
+Shreyas Iyer,India,27,,batsman,right-handed-bat,right-arm-legbreak,11,1043,30.68,135.98,7,85,42,13,2776,31.55,125.38,19,237,99,0,0.0,0.0,0.0,0,7.0,0.0,0.0,delhi-capitals,2015,26000000
+Gurinder Sandhu,Australia,29,,bowler,left-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,10.25,82.0,48.0,delhi-capitals,2015,17000000
+Jaydev Unadkat,India,31,,bowler,right-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,14,164,13.67,123.31,0,13,6,14,8.68,21.5,14.86,91,8.79,30.53,20.84,delhi-capitals,2015,11000000
+Travis Head,Australia,28,,batting-allrounder,left-handed-bat,right-arm-offbreak,3,345,26.54,133.2,0,22,11,3,205,29.29,138.51,1,12,8,1,9.33,56.0,36.0,2,10.12,40.5,24.0,delhi-capitals,2015,3000000
+Marcus Stoinis,Australia,33,,batting-allrounder,right-handed-bat,right-arm-medium,15,803,29.74,147.34,2,69,35,18,1070,26.1,137.36,4,83,48,18,8.61,34.11,23.78,34,9.61,30.82,19.24,delhi-capitals,2015,2500000
+CM Gautam,India,36,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,3,169,16.9,112.67,0,17,6,-,-,-,-,-,-,-,-,delhi-capitals,2015,2000000
+Murali Vijay,India,38,,batsman,right-handed-bat,right-arm-offbreak,0,169,18.78,109.74,0,13,8,5,2619,25.93,121.87,13,247,91,0,4.5,0.0,0.0,0,8.17,0.0,0.0,punjab-kings,2015,30000000
+Nikhil Naik,India,28,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,0,31,7.75,62.0,0,2,0,-,-,-,-,-,-,-,-,punjab-kings,2015,3000000
+KC Cariappa,India,28,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,2,24,8.0,114.29,0,0,2,-,-,-,-,8,9.67,43.5,27.0,kolkata-knight-riders,2015,24000000
+James Neesham,New Zealand,32,,batting-allrounder,left-handed-bat,right-arm-medium,17,688,22.19,159.63,0,49,41,1,92,10.22,98.92,0,6,2,25,9.13,30.12,19.8,8,9.28,41.75,27.0,kolkata-knight-riders,2015,5000000
+Brad Hogg,Australia,51,6.004230000000001,bowler,left-handed-bat,left-arm-chinaman,0,55,13.75,141.03,0,3,3,3,22,7.33,100.0,0,1,0,7,7.61,53.29,42.0,23,7.47,24.78,19.91,kolkata-knight-riders,2015,5000000
+Sheldon Jackson,India,36,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,2,61,10.17,107.02,0,5,1,-,-,-,-,-,-,-,-,kolkata-knight-riders,2015,1500000
+Sumit Narwal,India,40,,batting-allrounder,left-handed-bat,right-arm-medium,-,-,-,-,-,-,-,1,37,12.33,137.04,0,6,0,-,-,-,-,5,11.43,40.4,21.2,kolkata-knight-riders,2015,1000000
+Aaron Finch,Australia,36,5.70894,batsman,right-handed-bat,left-arm-orthodox,12,3120,34.29,142.53,19,309,125,6,2091,24.89,128.2,15,214,78,0,13.5,0.0,0.0,1,9.35,67.0,43.0,mumbai-indians,2015,32000000
+Pragyan Ojha,India,36,,bowler,left-handed-bat,left-arm-orthodox,1,10,0.0,166.67,0,0,1,11,16,1.33,35.56,0,0,0,10,6.29,13.2,12.6,89,7.37,26.2,21.34,mumbai-indians,2015,5000000
+Abhimanyu Mithun,India,33,,bowler,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,3,34,6.8,130.77,0,4,1,-,-,-,-,7,9.83,67.43,41.14,mumbai-indians,2015,3000000
+Mitchell McClenaghan,New Zealand,36,,bowler,left-handed-bat,left-arm-fast-medium,4,24,6.0,104.35,0,1,2,11,85,6.54,121.43,0,5,7,30,7.79,26.3,20.27,71,8.49,25.39,17.94,mumbai-indians,2015,3000000
+Aiden Blizzard,Australia,38,,batsman,left-handed-bat,left-arm-medium,-,-,-,-,-,-,-,0,120,17.14,133.33,1,21,2,-,-,-,-,-,-,-,-,mumbai-indians,2015,3000000
+Hardik Pandya,India,29,,batting-allrounder,right-handed-bat,right-arm-fast-medium,16,1160,25.78,146.1,3,81,62,35,1963,30.2,147.59,8,146,110,62,8.32,27.34,19.73,50,8.75,30.7,21.04,mumbai-indians,2015,1000000
+Nitish Rana,India,28,,batsman,left-handed-bat,right-arm-offbreak,0,15,7.5,55.56,0,0,0,7,2181,27.96,134.22,15,190,111,-,-,-,-,7,8.36,25.29,18.14,mumbai-indians,2015,1000000
+Siddhesh Lad,India,30,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,0,15,15.0,115.38,0,1,1,-,-,-,-,-,-,-,-,mumbai-indians,2015,1000000
+Jagadeesha Suchith,India,28,,bowler,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,6,70,17.5,114.75,0,6,3,-,-,-,-,19,8.6,31.68,22.11,mumbai-indians,2015,1000000
+Chris Morris,South Africa,35,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,4,133,14.78,130.39,1,12,5,23,618,22.07,155.28,2,41,35,34,8.4,20.5,14.65,95,8.01,24.16,18.11,rajasthan-royals,2015,14000000
+Dinesh Salunkhe,India,40,,batting-allrounder,right-handed-bat,,-,-,-,-,-,-,-,1,33,16.5,137.5,0,5,0,-,-,-,-,1,9.75,78.0,48.0,rajasthan-royals,2015,1000000
+Pardeep Sahu,India,37,,batting-allrounder,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,1,19,19.0,146.15,0,1,1,-,-,-,-,3,8.34,48.67,35.0,rajasthan-royals,2015,1000000
+Dinesh Karthik,India,37,,wk-batsman,right-handed-bat,,22,686,26.38,142.62,1,71,28,45,4376,26.85,132.65,20,426,134,0,18.0,0.0,0.0,-,-,-,-,royal-challengers-bangalore,2015,105000000
+Daren Sammy,West Indies,38,,batting-allrounder,right-handed-bat,right-arm-medium,18,587,17.26,147.49,0,45,31,5,295,19.67,122.41,1,15,18,44,7.31,25.36,20.82,11,8.9,31.82,21.45,royal-challengers-bangalore,2015,28000000
+David Wiese,South Africa,37,,batting-allrounder,right-handed-bat,right-arm-fast-medium,10,453,22.65,125.83,2,28,18,4,127,31.75,141.11,0,12,4,41,7.42,24.05,19.44,16,8.68,25.12,17.38,royal-challengers-bangalore,2015,28000000
+Sean Abbott,Australia,30,,bowling-allrounder,right-handed-bat,right-arm-medium,1,17,8.5,100.0,0,1,1,0,22,7.33,122.22,0,1,2,5,8.22,37.8,27.6,1,11.56,104.0,54.0,royal-challengers-bangalore,2015,10000000
+Adam Milne,New Zealand,30,,bowler,right-handed-bat,right-arm-fast,9,39,13.0,100.0,0,1,2,2,23,5.75,79.31,0,0,1,36,7.85,26.33,20.14,7,9.48,46.71,29.57,royal-challengers-bangalore,2015,7000000
+S Badrinath,India,42,,batsman,right-handed-bat,right-arm-offbreak,0,43,43.0,116.22,0,5,0,20,1441,30.66,118.89,11,154,28,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2015,3000000
+Jalaj Saxena,India,35,,batting-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,9.0,0.0,0.0,royal-challengers-bangalore,2015,1000000
+Trent Boult,New Zealand,33,,bowler,right-handed-bat,left-arm-fast-medium,7,32,6.4,76.19,0,2,0,13,53,10.6,110.42,0,2,2,74,7.86,22.26,16.99,92,8.3,26.9,19.45,sunrisers-hyderabad,2015,38000000
+Praveen Kumar,India,36,,bowler,right-handed-bat,right-arm-fast-medium,0,7,2.33,43.75,0,0,0,21,340,8.95,108.28,0,22,17,8,7.42,24.12,19.5,90,7.73,36.12,28.04,sunrisers-hyderabad,2015,22000000
+Kevin Pietersen,England,42,6.4,batsman,right-handed-bat,right-arm-offbreak,5,1176,37.94,141.52,7,119,32,8,1001,35.75,134.72,4,91,40,1,10.6,53.0,30.0,7,7.41,30.71,24.86,sunrisers-hyderabad,2015,20000000
+Eoin Morgan,England,36,5.9,batsman,left-handed-bat,right-arm-medium,20,2458,28.58,136.18,14,186,120,13,1405,22.66,122.6,5,112,64,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2015,15000000
+Ravi Bopara,England,37,5.1,batting-allrounder,right-handed-bat,right-arm-medium,10,711,28.44,118.7,3,54,17,4,531,29.5,117.22,3,39,16,16,7.21,24.19,20.12,11,8.5,26.55,18.73,sunrisers-hyderabad,2015,10000000
+Kane Williamson,New Zealand,32,,batsman,right-handed-bat,right-arm-offbreak,11,2464,33.3,122.89,17,230,57,17,2101,36.22,126.03,18,181,64,6,8.34,27.33,19.67,0,10.33,0.0,0.0,sunrisers-hyderabad,2015,6000000
+Hanuma Vihari,India,29,,batting-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,3,284,14.2,88.47,0,23,1,-,-,-,-,1,6.71,47.0,42.0,sunrisers-hyderabad,2015,1000000
+Siddarth Kaul,India,32,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,8,20,5.0,55.56,0,1,0,4,8.69,21.0,14.5,58,8.63,29.98,20.84,sunrisers-hyderabad,2015,1000000
+Pawan Negi,India,29,,bowling-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,9,365,14.04,126.3,0,27,16,1,5.33,16.0,18.0,34,7.87,27.62,21.06,delhi-capitals,2016,85000000
+Chris Morris,South Africa,35,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,4,133,14.78,130.39,1,12,5,23,618,22.07,155.28,2,41,35,34,8.4,20.5,14.65,95,8.01,24.16,18.11,delhi-capitals,2016,70000000
+Sanju Samson,India,28,,wk-batsman,right-handed-bat,,1,296,21.14,135.16,1,23,13,13,3526,29.14,135.72,17,279,158,-,-,-,-,-,-,-,-,delhi-capitals,2016,42000000
+Carlos Brathwaite,West Indies,34,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,6,310,14.76,113.14,0,13,22,1,181,13.92,163.06,0,10,16,31,8.57,32.68,22.87,13,8.95,29.15,19.54,delhi-capitals,2016,42000000
+Karun Nair,India,30,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,5,1496,23.75,127.75,10,161,39,-,-,-,-,-,-,-,-,delhi-capitals,2016,40000000
+Rishabh Pant,India,25,,wk-batsman,left-handed-bat,,12,987,22.43,126.54,3,86,37,15,2838,34.61,147.97,15,260,129,-,-,-,-,-,-,-,-,delhi-capitals,2016,19000000
+Sam Billings,England,31,,wk-batsman,right-handed-bat,,5,478,17.07,129.89,2,41,16,1,503,19.35,129.64,3,40,20,-,-,-,-,-,-,-,-,delhi-capitals,2016,3000000
+Mahipal Lomror,India,23,,batting-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,2,267,20.54,128.37,0,15,13,-,-,-,-,1,7.67,92.0,72.0,delhi-capitals,2016,1000000
+Pawan Suyal,India,33,,bowler,right-handed-bat,left-arm-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,9.44,75.5,48.0,delhi-capitals,2016,1000000
+Mohit Sharma,India,34,,bowler,right-handed-bat,right-arm-fast-medium,2,3,0.0,42.86,0,0,0,12,122,8.13,104.27,0,8,4,6,8.04,30.83,23.0,92,8.45,26.85,19.07,punjab-kings,2016,65000000
+Kyle Abbott,South Africa,35,,bowler,right-handed-bat,right-arm-fast-medium,4,23,11.5,115.0,0,2,0,2,13,13.0,162.5,0,0,1,26,7.97,22.27,16.77,2,11.06,88.5,48.0,punjab-kings,2016,21000000
+KC Cariappa,India,28,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,2,24,8.0,114.29,0,0,2,-,-,-,-,8,9.67,43.5,27.0,punjab-kings,2016,8000000
+Marcus Stoinis,Australia,33,,batting-allrounder,right-handed-bat,right-arm-medium,15,803,29.74,147.34,2,69,35,18,1070,26.1,137.36,4,83,48,18,8.61,34.11,23.78,34,9.61,30.82,19.24,punjab-kings,2016,5500000
+Farhaan Behardien,South Africa,39,,batting-allrounder,right-handed-bat,right-arm-fast-medium,14,518,32.38,128.22,1,37,16,1,14,7.0,107.69,0,2,0,3,5.4,9.0,10.0,-,-,-,-,punjab-kings,2016,3000000
+Pardeep Sahu,India,37,,batting-allrounder,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,1,19,19.0,146.15,0,1,1,-,-,-,-,3,8.34,48.67,35.0,punjab-kings,2016,1000000
+Swapnil Singh,India,31,,bowling-allrounder,right-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,0,12,4.0,60.0,0,0,0,-,-,-,-,1,9.0,90.0,60.0,punjab-kings,2016,1000000
+Jaydev Unadkat,India,31,,bowler,right-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,14,164,13.67,123.31,0,13,6,14,8.68,21.5,14.86,91,8.79,30.53,20.84,kolkata-knight-riders,2016,16000000
+Ankit Rajpoot,India,28,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,2,26,5.2,63.41,0,2,1,-,-,-,-,24,9.23,33.92,22.04,kolkata-knight-riders,2016,15000000
+John Hastings,Australia,37,6.39795,bowling-allrounder,right-handed-bat,right-arm-fast-medium,2,46,11.5,124.32,0,3,1,-,-,-,-,-,-,-,7,7.97,35.29,26.57,3,6.83,22.0,19.33,kolkata-knight-riders,2016,13000000
+Jason Holder,West Indies,31,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,9,385,15.4,120.69,0,23,21,5,247,13.0,124.12,0,13,17,51,8.17,26.86,19.73,49,8.57,24.02,16.82,kolkata-knight-riders,2016,7000000
+Colin Munro,New Zealand,35,,batting-allrounder,left-handed-bat,right-arm-medium,7,1724,31.35,156.44,11,132,107,0,177,14.75,125.53,0,19,8,4,9.46,46.5,29.5,0,7.5,0.0,0.0,kolkata-knight-riders,2016,3000000
+Rajagopal Sathish,India,41,,batsman,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,8,270,15.88,116.88,0,22,6,-,-,-,-,3,10.01,77.33,46.33,kolkata-knight-riders,2016,2000000
+Jos Buttler,England,32,,wk-batsman,right-handed-bat,,20,2602,34.69,144.24,19,233,108,10,2831,39.87,149.71,15,277,135,-,-,-,-,-,-,-,-,mumbai-indians,2016,38000000
+Nathu Singh,India,27,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3.75,15.0,24.0,mumbai-indians,2016,32000000
+Tim Southee,New Zealand,33,,bowler,right-handed-bat,right-arm-fast-medium,18,261,10.88,139.57,0,18,16,7,120,9.23,112.15,0,8,4,134,8.16,23.46,17.25,45,8.53,36.96,26.0,mumbai-indians,2016,25000000
+Krunal Pandya,India,31,,batting-allrounder,left-handed-bat,left-arm-orthodox,5,124,24.8,130.53,0,8,6,25,1326,22.1,136.7,1,121,50,15,8.11,36.93,27.33,61,7.31,33.41,27.41,mumbai-indians,2016,20000000
+Jitesh Sharma,India,29,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,2,234,29.25,163.64,0,22,12,-,-,-,-,-,-,-,-,mumbai-indians,2016,1000000
+Shane Watson,Australia,41,6.004230000000001,batting-allrounder,right-handed-bat,right-arm-fast-medium,6,1462,29.24,145.33,10,115,83,16,3874,30.99,137.91,21,376,190,48,7.66,24.73,19.38,92,7.93,29.15,22.05,royal-challengers-bangalore,2016,95000000
+Stuart Binny,India,38,,batting-allrounder,right-handed-bat,right-arm-medium,0,35,17.5,120.69,0,2,1,22,880,19.13,128.84,0,66,35,1,10.8,54.0,30.0,22,7.66,34.45,27.0,royal-challengers-bangalore,2016,20000000
+Kane Richardson,Australia,31,,bowler,right-handed-bat,right-arm-fast-medium,3,17,4.25,100.0,0,0,0,1,36,12.0,92.31,0,2,1,44,8.33,23.3,16.77,19,8.45,24.84,17.63,royal-challengers-bangalore,2016,20000000
+Samuel Badree,West Indies,41,,bowler,right-handed-bat,right-arm-legbreak,10,43,7.17,66.15,0,1,1,0,13,2.6,56.52,0,0,0,56,6.18,21.07,20.46,11,7.42,29.0,23.45,royal-challengers-bangalore,2016,5000000
+Travis Head,Australia,28,,batting-allrounder,left-handed-bat,right-arm-offbreak,3,345,26.54,133.2,0,22,11,3,205,29.29,138.51,1,12,8,1,9.33,56.0,36.0,2,10.12,40.5,24.0,royal-challengers-bangalore,2016,5000000
+Praveen Dubey,India,29,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,1,7,0.0,53.85,0,0,0,-,-,-,-,0,9.0,0.0,0.0,royal-challengers-bangalore,2016,3500000
+Vikramjeet Singh Malik,India,39,,bowler,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,1,7,7.0,100.0,0,1,0,-,-,-,-,6,7.64,43.5,34.17,royal-challengers-bangalore,2016,2000000
+Iqbal Abdulla,India,32,,bowler,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,11,88,44.0,104.76,0,9,1,-,-,-,-,40,7.23,27.73,23.0,royal-challengers-bangalore,2016,1000000
+Sachin Baby,India,33,,batsman,left-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,2,144,16.0,122.03,0,11,5,-,-,-,-,2,4.8,4.0,5.0,royal-challengers-bangalore,2016,1000000
+Yuvraj Singh,India,40,,batting-allrounder,left-handed-bat,left-arm-orthodox,9,1177,28.02,136.38,8,77,74,15,2750,24.77,129.72,13,217,149,28,7.06,17.82,15.14,36,7.44,29.92,24.14,sunrisers-hyderabad,2016,70000000
+Ashish Nehra,India,43,,bowler,right-handed-bat,left-arm-fast-medium,0,28,5.6,71.79,0,1,2,15,41,5.86,66.13,0,3,1,34,7.73,22.29,17.29,106,7.85,23.54,18.0,sunrisers-hyderabad,2016,55000000
+Deepak Hooda,India,27,,batting-allrounder,right-handed-bat,right-arm-offbreak,3,302,33.56,150.25,0,27,13,14,1236,20.26,132.05,7,77,56,5,4.58,9.0,11.8,10,8.61,50.1,34.9,sunrisers-hyderabad,2016,42000000
+Mustafizur Rahman,Bangladesh,27,,bowler,left-handed-bat,left-arm-fast-medium,9,68,4.53,76.4,0,3,4,7,12,12.0,54.55,0,0,1,97,7.64,21.95,17.24,46,7.8,29.67,22.83,sunrisers-hyderabad,2016,14000000
+Aditya Tare,India,35,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,4,339,14.12,124.18,1,40,11,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2016,12000000
+Barinder Sran,India,29,,bowler,left-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,8,10,10.0,71.43,0,0,0,6,5.12,6.83,8.0,18,9.4,42.06,26.83,sunrisers-hyderabad,2016,12000000
+Ben Cutting,Australia,35,6.29952,bowling-allrounder,right-handed-bat,right-arm-fast-medium,1,40,10.0,148.15,0,2,3,6,238,21.64,168.79,0,15,19,3,10.24,71.67,42.0,10,9.16,42.9,28.1,sunrisers-hyderabad,2016,5000000
+Vijay Shankar,India,31,,batting-allrounder,right-handed-bat,right-arm-medium,0,101,25.25,138.36,0,11,5,12,731,23.58,122.04,3,46,28,5,9.1,38.2,25.2,9,8.67,38.22,26.44,sunrisers-hyderabad,2016,3500000
+Abhimanyu Mithun,India,33,,bowler,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,3,34,6.8,130.77,0,4,1,-,-,-,-,7,9.83,67.43,41.14,sunrisers-hyderabad,2016,3000000
+Tirumalsetti Suman,India,38,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,8,676,21.12,117.57,2,55,26,-,-,-,-,6,7.88,32.83,25.0,sunrisers-hyderabad,2016,1000000
+Kagiso Rabada,South Africa,27,,bowler,left-handed-bat,right-arm-fast,14,147,21.0,109.7,0,12,5,11,186,12.4,105.08,0,16,6,56,8.51,29.36,20.7,99,8.26,19.86,14.42,delhi-capitals,2017,50000000
+Pat Cummins,Australia,29,6.29952,bowler,right-handed-bat,right-arm-fast,11,116,9.67,123.4,0,6,6,11,379,18.95,152.21,3,24,26,55,7.38,24.55,19.96,45,8.54,30.16,21.18,delhi-capitals,2017,45000000
+Angelo Mathews,Sri Lanka,35,,batting-allrounder,right-handed-bat,right-arm-fast-medium,18,1148,25.51,117.74,5,73,38,11,724,23.35,125.91,1,44,29,38,7.0,31.58,27.08,27,8.18,39.96,29.3,delhi-capitals,2017,20000000
+Corey Anderson,New Zealand,31,,batting-allrounder,left-handed-bat,left-arm-fast-medium,4,485,23.1,138.18,2,30,26,7,538,24.45,127.19,3,40,31,14,8.25,35.36,25.71,11,10.46,47.09,27.0,delhi-capitals,2017,10000000
+Aditya Tare,India,35,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,4,339,14.12,124.18,1,40,11,-,-,-,-,-,-,-,-,delhi-capitals,2017,2500000
+Navdeep Saini,India,30,,bowler,right-handed-bat,right-arm-fast,3,12,0.0,109.09,0,2,0,3,33,8.25,89.19,0,3,0,13,7.16,18.08,15.15,20,8.68,45.0,31.1,delhi-capitals,2017,1000000
+Shashank Singh,India,31,,batsman,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,1,69,17.25,146.81,0,5,4,-,-,-,-,0,10.0,0.0,0.0,delhi-capitals,2017,1000000
+T Natarajan,India,31,,bowler,left-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,4,3,0.0,60.0,0,0,0,7,7.62,17.43,13.71,38,8.65,28.79,19.97,punjab-kings,2017,30000000
+Varun Aaron,India,33,,bowler,right-handed-bat,right-arm-fast,-,-,-,-,-,-,-,8,50,10.0,69.44,0,2,2,-,-,-,-,44,8.94,33.66,22.59,punjab-kings,2017,28000000
+Eoin Morgan,England,36,5.9,batsman,left-handed-bat,right-arm-medium,20,2458,28.58,136.18,14,186,120,13,1405,22.66,122.6,5,112,64,-,-,-,-,-,-,-,-,punjab-kings,2017,20000000
+Matt Henry,New Zealand,30,,bowler,right-handed-bat,right-arm-fast-medium,1,10,10.0,200.0,0,2,0,-,-,-,-,-,-,-,7,8.68,27.29,18.86,1,14.2,71.0,30.0,punjab-kings,2017,5000000
+Martin Guptill,New Zealand,36,,batsman,right-handed-bat,right-arm-offbreak,7,3531,31.81,135.7,20,310,173,1,270,22.5,137.76,1,24,15,0,11.0,0.0,0.0,-,-,-,-,punjab-kings,2017,5000000
+Daren Sammy,West Indies,38,,batting-allrounder,right-handed-bat,right-arm-medium,18,587,17.26,147.49,0,45,31,5,295,19.67,122.41,1,15,18,44,7.31,25.36,20.82,11,8.9,31.82,21.45,punjab-kings,2017,3000000
+Rahul Tewatia,India,29,,batting-allrounder,left-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,17,738,25.45,130.39,1,57,35,-,-,-,-,32,7.92,34.25,25.94,punjab-kings,2017,2500000
+Rinku Singh,India,25,,batsman,left-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,3,251,20.92,130.05,0,23,9,-,-,-,-,-,-,-,-,punjab-kings,2017,1000000
+Trent Boult,New Zealand,33,,bowler,right-handed-bat,left-arm-fast-medium,7,32,6.4,76.19,0,2,0,13,53,10.6,110.42,0,2,2,74,7.86,22.26,16.99,92,8.3,26.9,19.45,kolkata-knight-riders,2017,50000000
+Chris Woakes,England,33,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,6,125,25.0,145.35,0,7,7,6,78,13.0,101.3,0,7,2,27,7.86,25.19,19.22,30,8.97,21.93,14.67,kolkata-knight-riders,2017,42000000
+Nathan Coulter-Nile,Australia,35,,bowler,right-handed-bat,right-arm-fast,4,150,13.64,125.0,0,10,10,6,82,6.83,113.89,0,7,4,34,8.27,23.59,17.12,48,7.7,22.92,17.85,kolkata-knight-riders,2017,35000000
+Rishi Dhawan,India,32,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,1,1,0.0,50.0,0,0,0,12,190,21.11,108.57,0,17,6,1,10.5,42.0,24.0,24,7.93,33.17,25.08,kolkata-knight-riders,2017,5500000
+Darren Bravo,West Indies,33,,batsman,left-handed-bat,right-arm-fast-medium,3,405,21.32,106.86,0,32,14,1,6,0.0,120.0,0,1,0,-,-,-,-,-,-,-,-,kolkata-knight-riders,2017,5000000
+Rovman Powell,West Indies,29,,batsman,right-handed-bat,right-arm-fast-medium,8,890,23.42,134.64,4,53,55,2,250,25.0,149.7,1,10,22,4,8.8,33.0,22.5,0,17.0,0.0,0.0,kolkata-knight-riders,2017,3000000
+Ishank Jaggi,India,33,,batsman,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,2,76,15.2,78.35,0,6,0,-,-,-,-,-,-,-,-,kolkata-knight-riders,2017,1000000
+Karn Sharma,India,35,,bowler,left-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,14,317,15.1,115.69,0,18,14,1,7.0,28.0,24.0,59,7.91,27.29,20.71,mumbai-indians,2017,32000000
+Krishnappa Gowtham,India,34,,bowling-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,6,186,13.29,167.57,0,13,12,-,-,-,-,18,8.26,36.72,26.67,mumbai-indians,2017,20000000
+Mitchell Johnson,Australia,41,6.20109,bowler,left-handed-bat,left-arm-fast,7,109,10.9,114.74,0,8,3,17,167,12.85,101.83,0,10,7,38,7.29,20.97,17.26,61,8.29,27.9,20.2,mumbai-indians,2017,20000000
+Saurabh Tiwary,India,32,,batsman,left-handed-bat,,-,-,-,-,-,-,-,22,1494,28.73,120.1,8,111,50,-,-,-,-,-,-,-,-,mumbai-indians,2017,3000000
+Kulwant Khejroliya,India,30,,bowler,left-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,9.66,51.0,31.67,mumbai-indians,2017,1000000
+Tymal Mills,England,30,,bowler,right-handed-bat,left-arm-fast-medium,2,8,2.67,72.73,0,0,1,1,8,2.0,57.14,0,0,1,12,8.37,31.17,22.33,11,9.85,31.18,19.0,royal-challengers-bangalore,2017,120000000
+Aniket Choudhary,India,32,,bowler,right-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,2,25,25.0,125.0,0,1,1,-,-,-,-,5,8.55,28.8,20.2,royal-challengers-bangalore,2017,20000000
+Pawan Negi,India,29,,bowling-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,9,365,14.04,126.3,0,27,16,1,5.33,16.0,18.0,34,7.87,27.62,21.06,royal-challengers-bangalore,2017,10000000
+Billy Stanlake,Australia,28,,bowler,left-handed-bat,right-arm-fast,1,9,9.0,75.0,0,0,1,1,5,0.0,250.0,0,1,0,27,7.77,20.15,15.56,7,8.33,28.57,20.57,royal-challengers-bangalore,2017,3000000
+Praveen Dubey,India,29,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,1,7,0.0,53.85,0,0,0,-,-,-,-,0,9.0,0.0,0.0,royal-challengers-bangalore,2017,1000000
+Mohammed Siraj,India,28,,bowler,right-handed-bat,right-arm-fast-medium,0,5,5.0,71.43,0,1,0,13,96,13.71,88.07,0,10,2,11,9.19,26.73,17.45,59,8.78,33.07,22.61,sunrisers-hyderabad,2017,26000000
+Eklavya Dwivedi,India,34,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,0,24,12.0,171.43,0,2,2,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2017,7500000
+Chris Jordan,England,34,6.2,bowler,right-handed-bat,right-arm-fast-medium,22,422,15.07,136.57,0,30,21,3,75,9.38,115.38,0,3,3,95,8.72,27.05,18.62,27,9.32,30.85,19.85,sunrisers-hyderabad,2017,5000000
+Mohammad Nabi,Afghanistan,37,,bowling-allrounder,right-handed-bat,right-arm-offbreak,16,1664,21.06,139.71,4,111,89,2,180,15.0,151.26,0,16,9,84,7.31,28.1,23.05,13,7.14,31.38,26.38,sunrisers-hyderabad,2017,3000000
+Ben Laughlin,Australia,40,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,2,5,2.5,38.46,0,0,0,2,9.97,59.0,35.5,10,10.13,28.2,16.7,sunrisers-hyderabad,2017,3000000
+Pravin Tambe,India,51,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,4,18,9.0,46.15,0,1,0,-,-,-,-,28,7.75,30.46,23.57,sunrisers-hyderabad,2017,1000000
+Kedar Jadhav,India,37,,batting-allrounder,right-handed-bat,right-arm-offbreak,0,122,20.33,123.23,1,12,3,26,1196,22.15,123.17,4,101,40,-,-,-,-,-,-,-,-,chennai-super-kings,2018,78000000
+Dwayne Bravo,West Indies,39,,batting-allrounder,right-handed-bat,right-arm-fast-medium,17,1255,22.02,115.14,4,73,55,44,1560,22.61,129.57,5,121,66,78,8.12,26.1,19.29,183,8.39,23.83,17.04,chennai-super-kings,2018,64000000
+Karn Sharma,India,35,,bowler,left-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,14,317,15.1,115.69,0,18,14,1,7.0,28.0,24.0,59,7.91,27.29,20.71,chennai-super-kings,2018,50000000
+Shane Watson,Australia,41,6.004230000000001,batting-allrounder,right-handed-bat,right-arm-fast-medium,6,1462,29.24,145.33,10,115,83,16,3874,30.99,137.91,21,376,190,48,7.66,24.73,19.38,92,7.93,29.15,22.05,chennai-super-kings,2018,40000000
+Shardul Thakur,India,31,,bowler,right-handed-bat,right-arm-fast-medium,3,69,23.0,181.58,0,5,4,8,173,10.81,129.1,0,12,8,33,9.15,23.39,15.33,82,9.06,28.54,18.9,chennai-super-kings,2018,26000000
+Ambati Rayudu,India,37,,batsman,right-handed-bat,right-arm-offbreak,1,42,10.5,84.0,0,5,0,30,4190,28.9,127.12,22,349,164,-,-,-,-,-,-,-,-,chennai-super-kings,2018,22000000
+Murali Vijay,India,38,,batsman,right-handed-bat,right-arm-offbreak,0,169,18.78,109.74,0,13,8,5,2619,25.93,121.87,13,247,91,0,4.5,0.0,0.0,0,8.17,0.0,0.0,chennai-super-kings,2018,20000000
+Harbhajan Singh,India,42,,bowler,right-handed-bat,right-arm-offbreak,5,108,13.5,124.14,0,11,4,35,833,15.15,137.91,1,79,42,25,6.21,25.32,24.48,150,7.08,26.87,22.77,chennai-super-kings,2018,20000000
+Faf du Plessis,South Africa,38,,batsman,right-handed-bat,right-arm-legbreak,7,1528,35.53,134.39,10,140,50,10,3403,34.37,130.58,25,314,109,0,2.25,0.0,0.0,0,16.0,0.0,0.0,chennai-super-kings,2018,16000000
+Mark Wood,England,32,,bowler,right-handed-bat,right-arm-fast,3,11,0.0,84.62,0,1,0,0,1,1.0,33.33,0,0,0,44,8.34,18.48,13.3,0,12.25,0.0,0.0,chennai-super-kings,2018,15000000
+Sam Billings,England,31,,wk-batsman,right-handed-bat,,5,478,17.07,129.89,2,41,16,1,503,19.35,129.64,3,40,20,-,-,-,-,-,-,-,-,chennai-super-kings,2018,10000000
+Imran Tahir,South Africa,43,,bowler,right-handed-bat,right-arm-legbreak,3,19,19.0,105.56,0,1,1,5,33,8.25,89.19,0,5,0,63,6.73,15.05,13.41,82,7.76,20.77,16.05,chennai-super-kings,2018,10000000
+Deepak Chahar,India,30,,bowler,right-handed-bat,right-arm-medium,5,53,53.0,203.85,0,4,4,5,79,11.29,138.6,0,2,6,29,8.17,24.24,17.79,59,7.8,29.19,22.44,chennai-super-kings,2018,8000000
+Mitchell Santner,New Zealand,30,,bowling-allrounder,left-handed-bat,left-arm-orthodox,24,491,16.93,128.2,1,36,17,3,54,18.0,108.0,0,3,3,89,7.12,21.94,18.49,10,6.92,27.7,24.0,chennai-super-kings,2018,5000000
+Lungi Ngidi,South Africa,26,,bowler,right-handed-bat,right-arm-fast,3,16,3.2,53.33,0,1,0,-,-,-,-,-,-,-,58,8.92,18.31,12.31,25,8.3,17.92,12.96,chennai-super-kings,2018,5000000
+KM Asif,India,29,,bowler,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,4,11.39,23.25,12.25,chennai-super-kings,2018,4000000
+N Jagadeesan,India,26,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,1,73,24.33,110.61,0,7,1,-,-,-,-,-,-,-,-,chennai-super-kings,2018,2000000
+Dhruv Shorey,India,30,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,0,13,6.5,76.47,0,0,1,-,-,-,-,-,-,-,-,chennai-super-kings,2018,2000000
+Glenn Maxwell,Australia,34,,batting-allrounder,right-handed-bat,right-arm-offbreak,14,2159,28.41,150.98,10,176,106,15,2319,25.48,153.88,13,197,127,39,7.46,27.59,22.18,28,8.24,38.57,28.07,delhi-capitals,2018,90000000
+Kagiso Rabada,South Africa,27,,bowler,left-handed-bat,right-arm-fast,14,147,21.0,109.7,0,12,5,11,186,12.4,105.08,0,16,6,56,8.51,29.36,20.7,99,8.26,19.86,14.42,delhi-capitals,2018,42000000
+Amit Mishra,India,40,,bowler,right-handed-bat,right-arm-legbreak,0,0,0.0,0.0,0,0,0,25,362,11.68,93.06,0,29,5,16,6.32,15.0,14.25,166,7.35,23.95,19.55,delhi-capitals,2018,40000000
+Shahbaz Nadeem,India,33,,bowler,right-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,8,39,2.79,44.83,0,2,0,-,-,-,-,48,7.56,37.17,29.48,delhi-capitals,2018,32000000
+Vijay Shankar,India,31,,batting-allrounder,right-handed-bat,right-arm-medium,0,101,25.25,138.36,0,11,5,12,731,23.58,122.04,3,46,28,5,9.1,38.2,25.2,9,8.67,38.22,26.44,delhi-capitals,2018,32000000
+Rahul Tewatia,India,29,,batting-allrounder,left-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,17,738,25.45,130.39,1,57,35,-,-,-,-,32,7.92,34.25,25.94,delhi-capitals,2018,30000000
+Mohammed Shami,India,32,,bowler,right-handed-bat,right-arm-fast-medium,2,0,0.0,0.0,0,0,0,12,69,6.27,94.52,0,5,2,24,8.94,29.62,19.88,99,8.52,29.19,20.57,delhi-capitals,2018,30000000
+Gautam Gambhir,India,41,,batsman,left-handed-bat,right-arm-legbreak,2,932,27.41,119.03,7,109,10,16,4218,31.01,123.91,36,491,59,-,-,-,-,-,-,-,-,delhi-capitals,2018,28000000
+Trent Boult,New Zealand,33,,bowler,right-handed-bat,left-arm-fast-medium,7,32,6.4,76.19,0,2,0,13,53,10.6,110.42,0,2,2,74,7.86,22.26,16.99,92,8.3,26.9,19.45,delhi-capitals,2018,22000000
+Colin Munro,New Zealand,35,,batting-allrounder,left-handed-bat,right-arm-medium,7,1724,31.35,156.44,11,132,107,0,177,14.75,125.53,0,19,8,4,9.46,46.5,29.5,0,7.5,0.0,0.0,delhi-capitals,2018,19000000
+Daniel Christian,Australia,39,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,6,118,14.75,126.88,0,7,6,9,460,14.38,115.58,0,23,19,13,8.56,30.62,21.46,38,8.1,31.37,23.24,delhi-capitals,2018,15000000
+Jason Roy,England,32,,batsman,right-handed-bat,,0,1522,23.78,137.61,8,153,69,2,329,29.91,129.02,2,39,9,-,-,-,-,-,-,-,-,delhi-capitals,2018,15000000
+Naman Ojha,India,39,,wk-batsman,right-handed-bat,,0,12,6.0,44.44,0,2,0,19,1554,20.72,118.35,6,121,79,-,-,-,-,-,-,-,-,delhi-capitals,2018,14000000
+Prithvi Shaw,India,23,,batsman,right-handed-bat,right-arm-offbreak,0,0,0.0,0.0,0,0,0,0,1588,25.21,147.45,12,192,55,-,-,-,-,-,-,-,-,delhi-capitals,2018,12000000
+Gurkeerat Singh Mann,India,32,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,8,511,21.29,121.09,2,55,11,-,-,-,-,5,7.46,19.4,15.6,delhi-capitals,2018,7500000
+Avesh Khan,India,25,,bowler,right-handed-bat,right-arm-fast-medium,2,10,10.0,142.86,0,0,1,4,31,15.5,163.16,0,2,3,13,9.11,32.46,21.38,47,8.4,24.79,17.7,delhi-capitals,2018,7000000
+Abhishek Sharma,India,22,,bowling-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,6,667,23.82,135.29,2,64,25,-,-,-,-,7,8.23,30.57,22.29,delhi-capitals,2018,5500000
+Jayant Yadav,India,32,,bowler,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,1,40,10.0,111.11,0,2,1,-,-,-,-,8,6.87,52.38,45.75,delhi-capitals,2018,5000000
+Harshal Patel,India,32,,bowler,right-handed-bat,right-arm-fast-medium,4,77,12.83,135.09,0,9,3,14,230,10.45,129.21,0,15,13,27,9.13,27.0,17.74,97,8.4,22.87,16.34,delhi-capitals,2018,2000000
+Sandeep Lamichhane,Nepal,22,,bowler,right-handed-bat,right-arm-legbreak,8,48,6.86,84.21,0,1,1,0,0,0.0,0.0,0,0,0,78,6.26,12.35,11.83,13,8.34,22.46,16.15,delhi-capitals,2018,2000000
+Lokesh Rahul,India,30,,wk-batsman,right-handed-bat,,8,2265,37.75,139.13,22,191,99,19,3889,48.01,136.22,31,327,164,-,-,-,-,-,-,-,-,punjab-kings,2018,110000000
+Ravichandran Ashwin,India,36,,bowling-allrounder,right-handed-bat,right-arm-offbreak,12,184,26.29,115.0,0,17,4,27,647,13.48,117.64,1,51,21,72,6.91,23.22,20.17,157,6.98,28.88,24.84,punjab-kings,2018,76000000
+Andrew Tye,Australia,35,,bowler,right-handed-bat,right-arm-fast-medium,7,83,10.38,109.21,0,5,4,4,91,10.11,119.74,0,6,5,47,8.76,21.21,14.53,42,8.59,23.31,16.29,punjab-kings,2018,72000000
+Aaron Finch,Australia,36,5.70894,batsman,right-handed-bat,left-arm-orthodox,12,3120,34.29,142.53,19,309,125,6,2091,24.89,128.2,15,214,78,0,13.5,0.0,0.0,1,9.35,67.0,43.0,punjab-kings,2018,62000000
+Marcus Stoinis,Australia,33,,batting-allrounder,right-handed-bat,right-arm-medium,15,803,29.74,147.34,2,69,35,18,1070,26.1,137.36,4,83,48,18,8.61,34.11,23.78,34,9.61,30.82,19.24,punjab-kings,2018,62000000
+Karun Nair,India,30,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,5,1496,23.75,127.75,10,161,39,-,-,-,-,-,-,-,-,punjab-kings,2018,56000000
+Ankit Rajpoot,India,28,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,2,26,5.2,63.41,0,2,1,-,-,-,-,24,9.23,33.92,22.04,punjab-kings,2018,30000000
+David Miller,South Africa,33,,batsman,left-handed-bat,right-arm-offbreak,34,2149,34.66,144.33,6,141,103,35,2455,36.64,137.69,12,169,113,-,-,-,-,-,-,-,-,punjab-kings,2018,30000000
+Mohit Sharma,India,34,,bowler,right-handed-bat,right-arm-fast-medium,2,3,0.0,42.86,0,0,0,12,122,8.13,104.27,0,8,4,6,8.04,30.83,23.0,92,8.45,26.85,19.07,punjab-kings,2018,24000000
+Barinder Sran,India,29,,bowler,left-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,8,10,10.0,71.43,0,0,0,6,5.12,6.83,8.0,18,9.4,42.06,26.83,punjab-kings,2018,22000000
+Yuvraj Singh,India,40,,batting-allrounder,left-handed-bat,left-arm-orthodox,9,1177,28.02,136.38,8,77,74,15,2750,24.77,129.72,13,217,149,28,7.06,17.82,15.14,36,7.44,29.92,24.14,punjab-kings,2018,20000000
+Chris Gayle,West Indies,43,,batsman,left-handed-bat,right-arm-offbreak,7,1899,27.93,137.51,14,158,124,16,4965,39.72,148.96,31,405,357,20,6.93,22.0,19.05,18,7.9,40.5,30.78,punjab-kings,2018,20000000
+Akshdeep Nath,India,29,,batting-allrounder,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,0,90,9.0,91.84,0,7,2,-,-,-,-,-,-,-,-,punjab-kings,2018,10000000
+Manoj Tiwary,India,37,,batsman,right-handed-bat,right-arm-legbreak,0,15,15.0,88.24,0,0,0,26,1695,28.73,116.98,7,156,40,-,-,-,-,1,11.86,83.0,42.0,punjab-kings,2018,10000000
+Mayank Agarwal,India,31,,batsman,right-handed-bat,,-,-,-,-,-,-,-,4,2331,22.63,134.51,12,227,91,-,-,-,-,-,-,-,-,punjab-kings,2018,10000000
+Pardeep Sahu,India,37,,batting-allrounder,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,1,19,19.0,146.15,0,1,1,-,-,-,-,3,8.34,48.67,35.0,punjab-kings,2018,2000000
+Chris Lynn,Australia,32,,batsman,right-handed-bat,left-arm-orthodox,1,291,19.4,131.67,0,28,14,3,1329,34.08,140.63,10,132,66,-,-,-,-,-,-,-,-,kolkata-knight-riders,2018,96000000
+Mitchell Starc,Australia,32,6.43076,bowler,left-handed-bat,left-arm-fast,9,94,9.4,101.08,0,4,2,5,96,13.71,97.96,0,10,0,73,7.64,22.92,18.0,34,7.17,20.38,17.06,kolkata-knight-riders,2018,94000000
+Dinesh Karthik,India,37,,wk-batsman,right-handed-bat,,22,686,26.38,142.62,1,71,28,45,4376,26.85,132.65,20,426,134,0,18.0,0.0,0.0,-,-,-,-,kolkata-knight-riders,2018,74000000
+Robin Uthappa,India,37,,wk-batsman,right-handed-bat,right-arm-medium,2,249,24.9,118.01,1,26,6,17,4952,27.51,130.35,27,481,182,-,-,-,-,-,-,-,-,kolkata-knight-riders,2018,64000000
+Kuldeep Yadav,India,27,,bowler,left-handed-bat,left-arm-chinaman,3,43,43.0,89.58,0,2,0,11,105,15.0,82.68,0,8,2,44,6.89,14.02,12.2,61,8.32,27.13,19.57,kolkata-knight-riders,2018,58000000
+Piyush Chawla,India,33,,bowling-allrounder,left-handed-bat,right-arm-legbreak,0,0,0.0,0.0,0,0,0,32,584,11.68,111.03,0,54,18,4,6.57,37.75,34.5,157,7.88,27.39,20.85,kolkata-knight-riders,2018,42000000
+Nitish Rana,India,28,,batsman,left-handed-bat,right-arm-offbreak,0,15,7.5,55.56,0,0,0,7,2181,27.96,134.22,15,190,111,-,-,-,-,7,8.36,25.29,18.14,kolkata-knight-riders,2018,34000000
+Kamlesh Nagarkoti,India,22,,bowler,right-handed-bat,right-arm-fast,-,-,-,-,-,-,-,3,22,5.5,66.67,0,1,0,-,-,-,-,5,9.5,57.0,36.0,kolkata-knight-riders,2018,32000000
+Shivam Mavi,India,24,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,3,51,5.67,91.07,0,4,2,-,-,-,-,30,8.71,31.4,21.63,kolkata-knight-riders,2018,30000000
+Mitchell Johnson,Australia,41,6.20109,bowler,left-handed-bat,left-arm-fast,7,109,10.9,114.74,0,8,3,17,167,12.85,101.83,0,10,7,38,7.29,20.97,17.26,61,8.29,27.9,20.2,kolkata-knight-riders,2018,20000000
+Shubman Gill,India,23,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,12,1900,32.2,125.25,14,188,47,-,-,-,-,-,-,-,-,kolkata-knight-riders,2018,18000000
+Vinay Kumar,India,38,,bowler,right-handed-bat,right-arm-fast-medium,1,2,0.0,50.0,0,0,0,18,310,11.07,113.14,0,21,9,10,7.84,24.7,18.9,105,8.39,28.25,20.2,kolkata-knight-riders,2018,10000000
+Rinku Singh,India,25,,batsman,left-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,3,251,20.92,130.05,0,23,9,-,-,-,-,-,-,-,-,kolkata-knight-riders,2018,8000000
+Javon Searles,West Indies,35,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,1,8,8.0,133.33,0,0,1,-,-,-,-,2,12.71,44.5,21.0,kolkata-knight-riders,2018,3000000
+Ishank Jaggi,India,33,,batsman,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,2,76,15.2,78.35,0,6,0,-,-,-,-,-,-,-,-,kolkata-knight-riders,2018,2000000
+Krunal Pandya,India,31,,batting-allrounder,left-handed-bat,left-arm-orthodox,5,124,24.8,130.53,0,8,6,25,1326,22.1,136.7,1,121,50,15,8.11,36.93,27.33,61,7.31,33.41,27.41,mumbai-indians,2018,88000000
+Ishan Kishan,India,24,,wk-batsman,left-handed-bat,,1,589,29.45,129.17,4,65,23,6,1870,29.22,132.34,12,166,85,-,-,-,-,-,-,-,-,mumbai-indians,2018,62000000
+Kieron Pollard,West Indies,35,,batting-allrounder,right-handed-bat,right-arm-medium,21,1569,25.31,135.14,6,94,99,52,3412,28.67,147.32,16,218,223,42,8.33,28.29,20.38,69,8.79,31.59,21.57,mumbai-indians,2018,54000000
+Pat Cummins,Australia,29,6.29952,bowler,right-handed-bat,right-arm-fast,11,116,9.67,123.4,0,6,6,11,379,18.95,152.21,3,24,26,55,7.38,24.55,19.96,45,8.54,30.16,21.18,mumbai-indians,2018,54000000
+Evin Lewis,West Indies,30,,batsman,left-handed-bat,,2,1465,29.3,151.97,10,108,111,2,654,27.25,137.11,4,62,36,-,-,-,-,-,-,-,-,mumbai-indians,2018,38000000
+Suryakumar Yadav,India,32,,batsman,right-handed-bat,right-arm-offbreak,8,1408,44.0,180.98,12,131,80,20,2644,30.05,136.78,16,284,84,-,-,-,-,0,8.0,0.0,0.0,mumbai-indians,2018,32000000
+Ben Cutting,Australia,35,6.29952,bowling-allrounder,right-handed-bat,right-arm-fast-medium,1,40,10.0,148.15,0,2,3,6,238,21.64,168.79,0,15,19,3,10.24,71.67,42.0,10,9.16,42.9,28.1,mumbai-indians,2018,22000000
+Mustafizur Rahman,Bangladesh,27,,bowler,left-handed-bat,left-arm-fast-medium,9,68,4.53,76.4,0,3,4,7,12,12.0,54.55,0,0,1,97,7.64,21.95,17.24,46,7.8,29.67,22.83,mumbai-indians,2018,22000000
+Rahul Chahar,India,23,,bowler,right-handed-bat,right-arm-legbreak,0,5,5.0,100.0,0,1,0,6,108,8.31,108.0,0,10,4,7,7.59,23.86,18.86,57,7.51,25.91,20.7,mumbai-indians,2018,19000000
+Pradeep Sangwan,India,32,,bowler,right-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,7,26,3.25,59.09,0,1,0,-,-,-,-,38,8.69,32.63,22.53,mumbai-indians,2018,15000000
+Jason Behrendorff,Australia,32,,bowler,right-handed-bat,left-arm-fast-medium,0,5,5.0,71.43,0,0,0,-,-,-,-,-,-,-,7,8.5,26.71,18.86,5,8.68,33.0,22.8,mumbai-indians,2018,15000000
+Jean-Paul Duminy,South Africa,38,,batting-allrounder,left-handed-bat,right-arm-offbreak,25,1934,38.68,126.24,11,138,71,26,2029,39.78,124.02,14,126,79,21,7.76,28.52,22.05,23,7.38,36.26,29.48,mumbai-indians,2018,10000000
+Saurabh Tiwary,India,32,,batsman,left-handed-bat,,-,-,-,-,-,-,-,22,1494,28.73,120.1,8,111,50,-,-,-,-,-,-,-,-,mumbai-indians,2018,8000000
+Aditya Tare,India,35,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,4,339,14.12,124.18,1,40,11,-,-,-,-,-,-,-,-,mumbai-indians,2018,2000000
+Siddhesh Lad,India,30,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,0,15,15.0,115.38,0,1,1,-,-,-,-,-,-,-,-,mumbai-indians,2018,2000000
+Mayank Markande,India,25,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,5,27,9.0,93.1,0,3,0,0,7.75,0.0,0.0,17,8.5,30.0,21.18,mumbai-indians,2018,2000000
+Anukul Roy,India,23,,batting-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,0,0,0.0,0.0,0,0,0,-,-,-,-,2,7.33,33.0,27.0,mumbai-indians,2018,2000000
+Mohsin Khan,India,24,,bowler,left-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,2,23,23.0,143.75,0,2,1,-,-,-,-,14,5.97,14.07,14.14,mumbai-indians,2018,2000000
+Ben Stokes,England,31,,batting-allrounder,left-handed-bat,right-arm-fast-medium,9,585,21.67,128.01,1,42,22,6,920,25.56,134.5,2,79,32,26,8.39,32.92,23.54,28,8.56,34.79,24.39,rajasthan-royals,2018,125000000
+Jaydev Unadkat,India,31,,bowler,right-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,14,164,13.67,123.31,0,13,6,14,8.68,21.5,14.86,91,8.79,30.53,20.84,rajasthan-royals,2018,115000000
+Sanju Samson,India,28,,wk-batsman,right-handed-bat,,1,296,21.14,135.16,1,23,13,13,3526,29.14,135.72,17,279,158,-,-,-,-,-,-,-,-,rajasthan-royals,2018,80000000
+Jofra Archer,England,27,,bowler,right-handed-bat,right-arm-fast,1,19,19.0,190.0,0,2,1,10,195,15.0,157.26,0,11,14,14,7.89,26.5,20.14,46,7.13,21.33,17.93,rajasthan-royals,2018,72000000
+Krishnappa Gowtham,India,34,,bowling-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,6,186,13.29,167.57,0,13,12,-,-,-,-,18,8.26,36.72,26.67,rajasthan-royals,2018,62000000
+Jos Buttler,England,32,,wk-batsman,right-handed-bat,,20,2602,34.69,144.24,19,233,108,10,2831,39.87,149.71,15,277,135,-,-,-,-,-,-,-,-,rajasthan-royals,2018,44000000
+Ajinkya Rahane,India,34,,batsman,right-handed-bat,right-arm-medium,2,375,20.83,113.29,1,32,6,16,4074,30.86,120.68,28,431,80,-,-,-,-,1,5.0,5.0,6.0,rajasthan-royals,2018,40000000
+D Arcy Short,Australia,32,,batsman,left-handed-bat,left-arm-chinaman,2,642,30.57,118.89,4,71,15,0,115,16.43,116.16,0,11,5,3,7.95,50.33,38.0,1,6.33,19.0,18.0,rajasthan-royals,2018,40000000
+Rahul Tripathi,India,31,,batsman,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,9,1798,27.66,140.8,10,176,68,-,-,-,-,0,12.0,0.0,0.0,rajasthan-royals,2018,34000000
+Dhawal Kulkarni,India,33,,bowler,right-handed-bat,right-arm-fast-medium,1,1,0.0,100.0,0,0,0,14,104,11.56,96.3,0,7,2,3,6.88,18.33,16.0,86,8.31,28.77,20.78,rajasthan-royals,2018,7500000
+Ben Laughlin,Australia,40,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,2,5,2.5,38.46,0,0,0,2,9.97,59.0,35.5,10,10.13,28.2,16.7,rajasthan-royals,2018,5000000
+Stuart Binny,India,38,,batting-allrounder,right-handed-bat,right-arm-medium,0,35,17.5,120.69,0,2,1,22,880,19.13,128.84,0,66,35,1,10.8,54.0,30.0,22,7.66,34.45,27.0,rajasthan-royals,2018,5000000
+Dushmantha Chameera,Sri Lanka,30,,bowler,right-handed-bat,right-arm-fast,12,95,6.33,85.59,0,8,1,4,43,10.75,153.57,0,3,3,52,8.09,28.98,21.5,9,8.73,42.67,29.33,rajasthan-royals,2018,5000000
+Anureet Singh,India,34,,bowler,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,4,36,9.0,76.6,0,2,1,-,-,-,-,18,9.07,34.61,22.89,rajasthan-royals,2018,3000000
+Sudhesan Midhun,India,28,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,13.5,0.0,0.0,rajasthan-royals,2018,2000000
+Shreyas Gopal,India,29,,bowling-allrounder,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,8,180,12.86,106.51,0,19,2,-,-,-,-,49,8.1,26.14,19.37,rajasthan-royals,2018,2000000
+Prashant Chopra,India,30,,wk-batsman,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,0,8,8.0,133.33,0,2,0,-,-,-,-,-,-,-,-,rajasthan-royals,2018,2000000
+Ankit Sharma,India,31,,bowler,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,3,87,12.43,129.85,0,7,4,-,-,-,-,12,7.36,37.5,30.58,rajasthan-royals,2018,2000000
+Mahipal Lomror,India,23,,batting-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,2,267,20.54,128.37,0,15,13,-,-,-,-,1,7.67,92.0,72.0,rajasthan-royals,2018,2000000
+Chris Woakes,England,33,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,6,125,25.0,145.35,0,7,7,6,78,13.0,101.3,0,7,2,27,7.86,25.19,19.22,30,8.97,21.93,14.67,royal-challengers-bangalore,2018,74000000
+Yuzvendra Chahal,India,32,,bowler,right-handed-bat,right-arm-legbreak,2,5,2.5,45.45,0,0,0,13,37,5.29,43.02,0,0,0,87,8.14,24.78,18.28,166,7.61,21.83,17.2,royal-challengers-bangalore,2018,60000000
+Umesh Yadav,India,35,,bowler,right-handed-bat,right-arm-fast,1,22,22.0,104.76,0,2,0,27,177,9.83,105.36,0,15,8,12,9.33,23.33,15.0,135,8.37,29.02,20.81,royal-challengers-bangalore,2018,42000000
+Brendon McCullum,New Zealand,41,,wk-batsman,right-handed-bat,,10,2140,35.67,136.22,13,199,91,5,2880,27.69,131.75,13,293,130,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2018,36000000
+Navdeep Saini,India,30,,bowler,right-handed-bat,right-arm-fast,3,12,0.0,109.09,0,2,0,3,33,8.25,89.19,0,3,0,13,7.16,18.08,15.15,20,8.68,45.0,31.1,royal-challengers-bangalore,2018,30000000
+Quinton de Kock,South Africa,29,,wk-batsman,left-handed-bat,,9,2156,32.18,135.43,14,222,78,6,2764,32.14,133.91,19,277,106,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2018,28000000
+Mohammed Siraj,India,28,,bowler,right-handed-bat,right-arm-fast-medium,0,5,5.0,71.43,0,1,0,13,96,13.71,88.07,0,10,2,11,9.19,26.73,17.45,59,8.78,33.07,22.61,royal-challengers-bangalore,2018,26000000
+Nathan Coulter-Nile,Australia,35,,bowler,right-handed-bat,right-arm-fast,4,150,13.64,125.0,0,10,10,6,82,6.83,113.89,0,7,4,34,8.27,23.59,17.12,48,7.7,22.92,17.85,royal-challengers-bangalore,2018,22000000
+Colin de Grandhomme,New Zealand,36,,batting-allrounder,right-handed-bat,right-arm-fast-medium,7,503,15.72,137.81,3,27,30,5,303,18.94,134.67,0,18,18,12,8.62,38.42,26.75,6,8.86,53.17,36.0,royal-challengers-bangalore,2018,22000000
+Parthiv Patel,India,37,,wk-batsman,left-handed-bat,,0,36,18.0,112.5,0,4,1,11,2848,22.6,120.78,13,365,49,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2018,17000000
+Moeen Ali,England,35,,batting-allrounder,left-handed-bat,right-arm-offbreak,15,1044,22.7,145.81,7,82,55,3,910,23.33,143.99,5,76,53,40,8.37,27.02,19.38,24,6.79,26.12,23.08,royal-challengers-bangalore,2018,17000000
+Mandeep Singh,India,30,,batsman,right-handed-bat,right-arm-medium,1,87,43.5,119.18,1,11,1,16,1692,21.42,123.32,6,176,37,-,-,-,-,0,13.0,0.0,0.0,royal-challengers-bangalore,2018,14000000
+Manan Vohra,India,29,,batsman,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,2,1073,22.35,131.17,3,103,43,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2018,11000000
+Pawan Negi,India,29,,bowling-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,9,365,14.04,126.3,0,27,16,1,5.33,16.0,18.0,34,7.87,27.62,21.06,royal-challengers-bangalore,2018,10000000
+Tim Southee,New Zealand,33,,bowler,right-handed-bat,right-arm-fast-medium,18,261,10.88,139.57,0,18,16,7,120,9.23,112.15,0,8,4,134,8.16,23.46,17.25,45,8.53,36.96,26.0,royal-challengers-bangalore,2018,10000000
+Kulwant Khejroliya,India,30,,bowler,left-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,3,9.66,51.0,31.67,royal-challengers-bangalore,2018,8500000
+Aniket Choudhary,India,32,,bowler,right-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,2,25,25.0,125.0,0,1,1,-,-,-,-,5,8.55,28.8,20.2,royal-challengers-bangalore,2018,3000000
+Manish Pandey,India,33,,batsman,right-handed-bat,right-arm-medium,17,709,44.31,126.16,3,49,19,27,3648,29.9,121.52,21,317,105,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2018,110000000
+Shikhar Dhawan,India,36,,batsman,left-handed-bat,right-arm-offbreak,3,1759,27.92,126.36,11,191,50,26,6243,34.88,126.33,47,701,136,-,-,-,-,4,8.25,16.5,12.0,sunrisers-hyderabad,2018,52000000
+Wriddhiman Saha,India,38,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,23,2427,25.28,127.87,11,231,76,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2018,50000000
+Siddarth Kaul,India,32,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,8,20,5.0,55.56,0,1,0,4,8.69,21.0,14.5,58,8.63,29.98,20.84,sunrisers-hyderabad,2018,38000000
+Deepak Hooda,India,27,,batting-allrounder,right-handed-bat,right-arm-offbreak,3,302,33.56,150.25,0,27,13,14,1236,20.26,132.05,7,77,56,5,4.58,9.0,11.8,10,8.61,50.1,34.9,sunrisers-hyderabad,2018,36000000
+Sandeep Sharma,India,29,,bowler,right-handed-bat,right-arm-fast-medium,1,1,0.0,100.0,0,0,0,19,52,8.67,81.25,0,4,0,1,10.43,73.0,42.0,114,7.77,26.33,20.33,sunrisers-hyderabad,2018,30000000
+Kane Williamson,New Zealand,32,,batsman,right-handed-bat,right-arm-offbreak,11,2464,33.3,122.89,17,230,57,17,2101,36.22,126.03,18,181,64,6,8.34,27.33,19.67,0,10.33,0.0,0.0,sunrisers-hyderabad,2018,30000000
+Carlos Brathwaite,West Indies,34,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,6,310,14.76,113.14,0,13,22,1,181,13.92,163.06,0,10,16,31,8.57,32.68,22.87,13,8.95,29.15,19.54,sunrisers-hyderabad,2018,20000000
+Shakib Al Hasan,Bangladesh,35,,batting-allrounder,left-handed-bat,left-arm-orthodox,10,2243,23.12,121.84,12,225,47,12,793,19.82,124.49,2,73,21,128,6.83,21.21,18.63,63,7.44,29.19,23.56,sunrisers-hyderabad,2018,20000000
+Yusuf Pathan,India,40,,batting-allrounder,right-handed-bat,right-arm-offbreak,5,236,18.15,146.58,0,11,17,44,3204,29.13,142.97,13,262,158,13,8.62,33.69,23.46,42,7.4,33.69,27.31,sunrisers-hyderabad,2018,19000000
+Shreevats Goswami,India,33,,wk-batsman,left-handed-bat,,-,-,-,-,-,-,-,1,293,14.65,99.32,1,32,3,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2018,10000000
+Mohammad Nabi,Afghanistan,37,,bowling-allrounder,right-handed-bat,right-arm-offbreak,16,1664,21.06,139.71,4,111,89,2,180,15.0,151.26,0,16,9,84,7.31,28.1,23.05,13,7.14,31.38,26.38,sunrisers-hyderabad,2018,10000000
+Chris Jordan,England,34,6.2,bowler,right-handed-bat,right-arm-fast-medium,22,422,15.07,136.57,0,30,21,3,75,9.38,115.38,0,3,3,95,8.72,27.05,18.62,27,9.32,30.85,19.85,sunrisers-hyderabad,2018,10000000
+Basil Thampi,India,29,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,7,32,32.0,91.43,0,1,1,-,-,-,-,22,9.74,38.45,23.68,sunrisers-hyderabad,2018,9500000
+Billy Stanlake,Australia,28,,bowler,left-handed-bat,right-arm-fast,1,9,9.0,75.0,0,0,1,1,5,0.0,250.0,0,1,0,27,7.77,20.15,15.56,7,8.33,28.57,20.57,sunrisers-hyderabad,2018,5000000
+T Natarajan,India,31,,bowler,left-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,4,3,0.0,60.0,0,0,0,7,7.62,17.43,13.71,38,8.65,28.79,19.97,sunrisers-hyderabad,2018,4000000
+Sachin Baby,India,33,,batsman,left-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,2,144,16.0,122.03,0,11,5,-,-,-,-,2,4.8,4.0,5.0,sunrisers-hyderabad,2018,2000000
+Bipul Sharma,India,39,,bowler,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,9,187,23.38,152.03,0,11,9,-,-,-,-,17,8.06,33.65,25.06,sunrisers-hyderabad,2018,2000000
+Ricky Bhui,India,26,,batsman,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,0,7,3.5,41.18,0,0,0,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2018,2000000
+Mohit Sharma,India,34,,bowler,right-handed-bat,right-arm-fast-medium,2,3,0.0,42.86,0,0,0,12,122,8.13,104.27,0,8,4,6,8.04,30.83,23.0,92,8.45,26.85,19.07,chennai-super-kings,2019,50000000
+Ruturaj Gaikwad,India,25,,batsman,right-handed-bat,right-arm-offbreak,0,135,16.88,123.85,1,13,5,4,1207,37.72,130.35,10,113,43,-,-,-,-,-,-,-,-,chennai-super-kings,2019,2000000
+Colin Ingram,South Africa,37,,batsman,left-handed-bat,right-arm-legbreak,1,210,26.25,129.63,1,23,7,3,205,17.08,113.89,0,22,5,-,-,-,-,-,-,-,-,delhi-capitals,2019,64000000
+Axar Patel,India,28,,bowling-allrounder,left-handed-bat,left-arm-orthodox,10,171,14.25,132.56,0,14,6,29,1135,19.24,128.83,0,67,54,34,7.49,25.15,20.15,101,7.25,30.52,25.28,delhi-capitals,2019,50000000
+Hanuma Vihari,India,29,,batting-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,3,284,14.2,88.47,0,23,1,-,-,-,-,1,6.71,47.0,42.0,delhi-capitals,2019,20000000
+Sherfane Rutherford,West Indies,24,,batting-allrounder,left-handed-bat,right-arm-fast-medium,0,43,10.75,119.44,0,1,3,2,106,15.14,101.92,0,3,8,1,8.17,49.0,36.0,1,8.63,59.0,41.0,delhi-capitals,2019,20000000
+Ishant Sharma,India,34,,bowler,right-handed-bat,right-arm-fast-medium,2,8,8.0,88.89,0,1,0,19,55,9.17,90.16,0,4,2,8,8.63,50.0,34.75,72,8.12,37.51,27.74,delhi-capitals,2019,11000000
+Keemo Paul,West Indies,24,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,8,187,20.78,112.65,0,10,11,1,18,3.6,75.0,0,1,1,25,9.09,28.0,18.48,9,8.72,26.33,18.11,delhi-capitals,2019,5000000
+Jalaj Saxena,India,35,,batting-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,9.0,0.0,0.0,delhi-capitals,2019,2000000
+Nathu Singh,India,27,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,3.75,15.0,24.0,delhi-capitals,2019,2000000
+Sam Curran,England,24,,bowling-allrounder,left-handed-bat,left-arm-fast-medium,8,158,12.15,130.58,0,8,9,8,337,22.47,149.78,2,30,18,41,7.71,21.76,16.93,32,9.21,31.09,20.25,punjab-kings,2019,72000000
+Mohammed Shami,India,32,,bowler,right-handed-bat,right-arm-fast-medium,2,0,0.0,0.0,0,0,0,12,69,6.27,94.52,0,5,2,24,8.94,29.62,19.88,99,8.52,29.19,20.57,punjab-kings,2019,48000000
+Moises Henriques,Australia,35,6.135470000000001,batting-allrounder,right-handed-bat,right-arm-fast-medium,4,355,20.88,124.56,2,17,15,18,1000,27.78,126.9,5,87,28,7,8.43,27.71,19.71,42,8.14,30.69,22.62,punjab-kings,2019,10000000
+Hardus Viljoen,South Africa,33,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,1,3,1.5,42.86,0,0,0,-,-,-,-,7,9.65,31.71,19.71,punjab-kings,2019,7500000
+Darshan Nalkande,India,24,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,11.42,29.5,15.5,punjab-kings,2019,3000000
+Arshdeep Singh,India,23,,bowler,left-handed-bat,left-arm-fast-medium,4,6,0.0,150.0,0,0,0,5,23,5.75,65.71,0,3,0,33,8.17,18.12,13.3,40,8.35,26.35,18.93,punjab-kings,2019,2000000
+Harpreet Brar,India,27,,batting-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,6,106,35.33,111.58,0,6,5,-,-,-,-,9,7.79,41.56,32.0,punjab-kings,2019,2000000
+Carlos Brathwaite,West Indies,34,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,6,310,14.76,113.14,0,13,22,1,181,13.92,163.06,0,10,16,31,8.57,32.68,22.87,13,8.95,29.15,19.54,kolkata-knight-riders,2019,50000000
+Lockie Ferguson,New Zealand,31,,bowler,right-handed-bat,right-arm-fast,4,21,10.5,140.0,0,0,2,7,67,33.5,148.89,0,6,2,41,7.37,17.85,14.54,36,8.43,29.86,21.25,kolkata-knight-riders,2019,16000000
+Joe Denly,England,36,6.0,batting-allrounder,right-handed-bat,right-arm-legbreak,2,125,12.5,105.93,0,15,1,0,0,0.0,0.0,0,0,0,7,7.75,13.29,10.29,-,-,-,-,kolkata-knight-riders,2019,10000000
+Harry Gurney,England,36,,bowler,right-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,1,1,0.0,20.0,0,0,0,3,6.88,18.33,16.0,7,8.81,34.0,23.14,kolkata-knight-riders,2019,7500000
+Nikhil Naik,India,28,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,0,31,7.75,62.0,0,2,0,-,-,-,-,-,-,-,-,kolkata-knight-riders,2019,2000000
+Shrikant Mundhe,India,34,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,6.0,6.0,6.0,kolkata-knight-riders,2019,2000000
+Yarra Prithviraj,India,24,,bowler,left-handed-bat,left-arm-medium,-,-,-,-,-,-,-,1,0,0.0,0.0,0,0,0,-,-,-,-,1,11.4,57.0,30.0,kolkata-knight-riders,2019,2000000
+Anrich Nortje,South Africa,29,,bowler,right-handed-bat,right-arm-fast,4,16,2.67,48.48,0,1,0,5,8,8.0,66.67,0,0,0,35,7.12,19.69,16.6,43,8.06,21.3,15.86,kolkata-knight-riders,2019,2000000
+Barinder Sran,India,29,,bowler,left-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,8,10,10.0,71.43,0,0,0,6,5.12,6.83,8.0,18,9.4,42.06,26.83,mumbai-indians,2019,34000000
+Lasith Malinga,Sri Lanka,39,,bowler,right-handed-bat,right-arm-fast,12,136,6.48,84.47,0,9,5,9,88,5.5,88.89,0,6,5,107,7.42,20.79,16.81,170,7.14,19.79,16.63,mumbai-indians,2019,20000000
+Yuvraj Singh,India,40,,batting-allrounder,left-handed-bat,left-arm-orthodox,9,1177,28.02,136.38,8,77,74,15,2750,24.77,129.72,13,217,149,28,7.06,17.82,15.14,36,7.44,29.92,24.14,mumbai-indians,2019,10000000
+Anmolpreet Singh,India,24,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,0,29,9.67,107.41,0,3,1,-,-,-,-,-,-,-,-,mumbai-indians,2019,8000000
+Jaydev Unadkat,India,31,,bowler,right-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,14,164,13.67,123.31,0,13,6,14,8.68,21.5,14.86,91,8.79,30.53,20.84,rajasthan-royals,2019,84000000
+Varun Aaron,India,33,,bowler,right-handed-bat,right-arm-fast,-,-,-,-,-,-,-,8,50,10.0,69.44,0,2,2,-,-,-,-,44,8.94,33.66,22.59,rajasthan-royals,2019,24000000
+Oshane Thomas,West Indies,25,,bowler,left-handed-bat,right-arm-fast,3,9,2.25,60.0,0,2,0,-,-,-,-,-,-,-,21,9.41,28.67,18.29,5,7.9,15.8,12.0,rajasthan-royals,2019,11000000
+Ashton Turner,Australia,29,,batting-allrounder,right-handed-bat,right-arm-offbreak,4,108,12.0,83.72,0,4,2,1,3,1.0,30.0,0,0,0,4,6.31,20.5,19.5,-,-,-,-,rajasthan-royals,2019,5000000
+Liam Livingstone,England,29,,batsman,right-handed-bat,right-arm-legbreak,5,423,22.26,147.9,0,25,25,3,549,27.45,166.87,4,38,40,15,8.1,27.0,20.0,6,8.96,35.83,24.0,rajasthan-royals,2019,5000000
+Shashank Singh,India,31,,batsman,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,1,69,17.25,146.81,0,5,4,-,-,-,-,0,10.0,0.0,0.0,rajasthan-royals,2019,3000000
+Riyan Parag,India,21,,batsman,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,6,522,16.84,124.88,2,40,22,-,-,-,-,4,10.7,70.0,39.25,rajasthan-royals,2019,2000000
+Manan Vohra,India,29,,batsman,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,2,1073,22.35,131.17,3,103,43,-,-,-,-,-,-,-,-,rajasthan-royals,2019,2000000
+Shivam Dube,India,29,,bowling-allrounder,left-handed-bat,right-arm-medium,3,105,17.5,136.36,1,7,6,5,688,24.57,133.33,3,46,38,5,10.05,43.2,25.8,4,9.4,41.5,26.5,royal-challengers-bangalore,2019,50000000
+Shimron Hetmyer,West Indies,25,,batsman,left-handed-bat,,4,797,20.97,118.42,4,53,41,17,831,30.78,152.2,3,55,52,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2019,42000000
+Akshdeep Nath,India,29,,batting-allrounder,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,0,90,9.0,91.84,0,7,2,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2019,36000000
+Prayas Barman,India,20,,bowling-allrounder,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,0,19,19.0,79.17,0,2,0,-,-,-,-,0,14.0,0.0,0.0,royal-challengers-bangalore,2019,15000000
+Gurkeerat Singh Mann,India,32,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,8,511,21.29,121.09,2,55,11,-,-,-,-,5,7.46,19.4,15.6,royal-challengers-bangalore,2019,5000000
+Heinrich Klaasen,South Africa,31,,wk-batsman,right-handed-bat,right-arm-offbreak,6,687,24.54,146.79,4,55,31,1,66,13.2,115.79,0,5,1,0,14.0,0.0,0.0,-,-,-,-,royal-challengers-bangalore,2019,5000000
+Devdutt Padikkal,India,22,,batsman,left-handed-bat,right-arm-offbreak,0,38,19.0,100.0,0,2,1,1,1260,28.0,124.38,7,135,36,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2019,2000000
+Jonny Bairstow,England,33,,wk-batsman,right-handed-bat,right-arm-medium,12,1337,27.85,136.43,8,120,57,3,1291,35.86,142.65,9,133,55,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2019,22000000
+Wriddhiman Saha,India,38,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,23,2427,25.28,127.87,11,231,76,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2019,12000000
+Martin Guptill,New Zealand,36,,batsman,right-handed-bat,right-arm-offbreak,7,3531,31.81,135.7,20,310,173,1,270,22.5,137.76,1,24,15,0,11.0,0.0,0.0,-,-,-,-,sunrisers-hyderabad,2019,10000000
+Piyush Chawla,India,33,,bowling-allrounder,left-handed-bat,right-arm-legbreak,0,0,0.0,0.0,0,0,0,32,584,11.68,111.03,0,54,18,4,6.57,37.75,34.5,157,7.88,27.39,20.85,chennai-super-kings,2020,67500000
+Sam Curran,England,24,,bowling-allrounder,left-handed-bat,left-arm-fast-medium,8,158,12.15,130.58,0,8,9,8,337,22.47,149.78,2,30,18,41,7.71,21.76,16.93,32,9.21,31.09,20.25,chennai-super-kings,2020,55000000
+Josh Hazlewood,Australia,31,6.43076,bowler,left-handed-bat,right-arm-fast-medium,5,22,11.0,157.14,0,2,1,5,18,0.0,69.23,0,1,0,58,7.69,20.36,15.9,32,8.02,22.94,17.16,chennai-super-kings,2020,20000000
+Ravisrinivasan Sai Kishore,India,26,,bowler,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,6,7.56,20.17,16.0,chennai-super-kings,2020,2000000
+Shimron Hetmyer,West Indies,25,,batsman,left-handed-bat,,4,797,20.97,118.42,4,53,41,17,831,30.78,152.2,3,55,52,-,-,-,-,-,-,-,-,delhi-capitals,2020,77500000
+Marcus Stoinis,Australia,33,,batting-allrounder,right-handed-bat,right-arm-medium,15,803,29.74,147.34,2,69,35,18,1070,26.1,137.36,4,83,48,18,8.61,34.11,23.78,34,9.61,30.82,19.24,delhi-capitals,2020,48000000
+Alex Carey,Australia,31,,wk-batsman,left-handed-bat,,5,233,11.1,108.37,0,19,7,1,32,16.0,110.34,0,0,1,-,-,-,-,-,-,-,-,delhi-capitals,2020,24000000
+Jason Roy,England,32,,batsman,right-handed-bat,,0,1522,23.78,137.61,8,153,69,2,329,29.91,129.02,2,39,9,-,-,-,-,-,-,-,-,delhi-capitals,2020,15000000
+Chris Woakes,England,33,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,6,125,25.0,145.35,0,7,7,6,78,13.0,101.3,0,7,2,27,7.86,25.19,19.22,30,8.97,21.93,14.67,delhi-capitals,2020,15000000
+Mohit Sharma,India,34,,bowler,right-handed-bat,right-arm-fast-medium,2,3,0.0,42.86,0,0,0,12,122,8.13,104.27,0,8,4,6,8.04,30.83,23.0,92,8.45,26.85,19.07,delhi-capitals,2020,5000000
+Tushar Deshpande,India,27,,bowler,left-handed-bat,right-arm-medium,-,-,-,-,-,-,-,1,21,21.0,175.0,0,2,1,-,-,-,-,4,10.62,63.75,36.0,delhi-capitals,2020,2000000
+Lalit Yadav,India,25,,batting-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,4,229,25.44,104.57,0,18,7,-,-,-,-,8,7.84,31.38,24.0,delhi-capitals,2020,2000000
+Glenn Maxwell,Australia,34,,batting-allrounder,right-handed-bat,right-arm-offbreak,14,2159,28.41,150.98,10,176,106,15,2319,25.48,153.88,13,197,127,39,7.46,27.59,22.18,28,8.24,38.57,28.07,punjab-kings,2020,107500000
+Sheldon Cottrell,West Indies,33,,bowler,right-handed-bat,left-arm-fast-medium,6,18,4.5,62.07,0,2,0,0,0,0.0,0.0,0,0,0,50,7.95,23.2,17.52,6,8.8,29.33,20.0,punjab-kings,2020,85000000
+Chris Jordan,England,34,6.2,bowler,right-handed-bat,right-arm-fast-medium,22,422,15.07,136.57,0,30,21,3,75,9.38,115.38,0,3,3,95,8.72,27.05,18.62,27,9.32,30.85,19.85,punjab-kings,2020,30000000
+Ravi Bishnoi,India,22,,bowler,right-handed-bat,right-arm-legbreak,1,10,10.0,250.0,0,2,0,3,8,4.0,47.06,0,1,0,16,7.09,17.12,14.5,37,7.53,28.7,22.86,punjab-kings,2020,20000000
+Deepak Hooda,India,27,,batting-allrounder,right-handed-bat,right-arm-offbreak,3,302,33.56,150.25,0,27,13,14,1236,20.26,132.05,7,77,56,5,4.58,9.0,11.8,10,8.61,50.1,34.9,punjab-kings,2020,5000000
+James Neesham,New Zealand,32,,batting-allrounder,left-handed-bat,right-arm-medium,17,688,22.19,159.63,0,49,41,1,92,10.22,98.92,0,6,2,25,9.13,30.12,19.8,8,9.28,41.75,27.0,punjab-kings,2020,5000000
+Ishan Porel,India,24,,bowler,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,9.75,39.0,24.0,punjab-kings,2020,2000000
+Pat Cummins,Australia,29,6.29952,bowler,right-handed-bat,right-arm-fast,11,116,9.67,123.4,0,6,6,11,379,18.95,152.21,3,24,26,55,7.38,24.55,19.96,45,8.54,30.16,21.18,kolkata-knight-riders,2020,155000000
+Eoin Morgan,England,36,5.9,batsman,left-handed-bat,right-arm-medium,20,2458,28.58,136.18,14,186,120,13,1405,22.66,122.6,5,112,64,-,-,-,-,-,-,-,-,kolkata-knight-riders,2020,52500000
+Tom Banton,England,24,,wk-batsman,right-handed-bat,,0,327,23.36,147.96,2,29,17,0,18,9.0,90.0,0,1,1,-,-,-,-,-,-,-,-,kolkata-knight-riders,2020,10000000
+Rahul Tripathi,India,31,,batsman,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,9,1798,27.66,140.8,10,176,68,-,-,-,-,0,12.0,0.0,0.0,kolkata-knight-riders,2020,6000000
+Chris Green,Australia,29,,bowling-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,8.47,0.0,0.0,kolkata-knight-riders,2020,2000000
+Nikhil Naik,India,28,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,0,31,7.75,62.0,0,2,0,-,-,-,-,-,-,-,-,kolkata-knight-riders,2020,2000000
+Pravin Tambe,India,51,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,4,18,9.0,46.15,0,1,0,-,-,-,-,28,7.75,30.46,23.57,kolkata-knight-riders,2020,2000000
+Nathan Coulter-Nile,Australia,35,,bowler,right-handed-bat,right-arm-fast,4,150,13.64,125.0,0,10,10,6,82,6.83,113.89,0,7,4,34,8.27,23.59,17.12,48,7.7,22.92,17.85,mumbai-indians,2020,80000000
+Chris Lynn,Australia,32,,batsman,right-handed-bat,left-arm-orthodox,1,291,19.4,131.67,0,28,14,3,1329,34.08,140.63,10,132,66,-,-,-,-,-,-,-,-,mumbai-indians,2020,20000000
+Saurabh Tiwary,India,32,,batsman,left-handed-bat,,-,-,-,-,-,-,-,22,1494,28.73,120.1,8,111,50,-,-,-,-,-,-,-,-,mumbai-indians,2020,5000000
+Mohsin Khan,India,24,,bowler,left-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,2,23,23.0,143.75,0,2,1,-,-,-,-,14,5.97,14.07,14.14,mumbai-indians,2020,2000000
+Robin Uthappa,India,37,,wk-batsman,right-handed-bat,right-arm-medium,2,249,24.9,118.01,1,26,6,17,4952,27.51,130.35,27,481,182,-,-,-,-,-,-,-,-,rajasthan-royals,2020,30000000
+Jaydev Unadkat,India,31,,bowler,right-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,14,164,13.67,123.31,0,13,6,14,8.68,21.5,14.86,91,8.79,30.53,20.84,rajasthan-royals,2020,30000000
+Yashasvi Jaiswal,India,20,,batsman,left-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,0,547,23.78,134.73,3,62,22,-,-,-,-,0,0.0,0.0,0.0,rajasthan-royals,2020,24000000
+Kartik Tyagi,India,22,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,3,13,3.25,81.25,0,1,0,-,-,-,-,14,9.47,40.71,25.79,rajasthan-royals,2020,13000000
+Tom Curran,England,27,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,7,64,10.67,114.29,0,1,4,5,127,25.4,118.69,1,10,3,29,9.26,31.28,20.28,13,10.84,33.08,18.31,rajasthan-royals,2020,10000000
+Andrew Tye,Australia,35,,bowler,right-handed-bat,right-arm-fast-medium,7,83,10.38,109.21,0,5,4,4,91,10.11,119.74,0,6,5,47,8.76,21.21,14.53,42,8.59,23.31,16.29,rajasthan-royals,2020,10000000
+Anuj Rawat,India,23,,wk-batsman,left-handed-bat,,-,-,-,-,-,-,-,0,129,14.33,108.4,1,10,7,-,-,-,-,-,-,-,-,rajasthan-royals,2020,8000000
+David Miller,South Africa,33,,batsman,left-handed-bat,right-arm-offbreak,34,2149,34.66,144.33,6,141,103,35,2455,36.64,137.69,12,169,113,-,-,-,-,-,-,-,-,rajasthan-royals,2020,7500000
+Oshane Thomas,West Indies,25,,bowler,left-handed-bat,right-arm-fast,3,9,2.25,60.0,0,2,0,-,-,-,-,-,-,-,21,9.41,28.67,18.29,5,7.9,15.8,12.0,rajasthan-royals,2020,5000000
+Akash Singh,India,20,,bowler,right-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,9.75,0.0,0.0,rajasthan-royals,2020,2000000
+Chris Morris,South Africa,35,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,4,133,14.78,130.39,1,12,5,23,618,22.07,155.28,2,41,35,34,8.4,20.5,14.65,95,8.01,24.16,18.11,royal-challengers-bangalore,2020,100000000
+Aaron Finch,Australia,36,5.70894,batsman,right-handed-bat,left-arm-orthodox,12,3120,34.29,142.53,19,309,125,6,2091,24.89,128.2,15,214,78,0,13.5,0.0,0.0,1,9.35,67.0,43.0,royal-challengers-bangalore,2020,44000000
+Kane Richardson,Australia,31,,bowler,right-handed-bat,right-arm-fast-medium,3,17,4.25,100.0,0,0,0,1,36,12.0,92.31,0,2,1,44,8.33,23.3,16.77,19,8.45,24.84,17.63,royal-challengers-bangalore,2020,40000000
+Dale Steyn,South Africa,39,,bowler,right-handed-bat,right-arm-fast,6,21,3.5,80.77,0,2,0,15,167,7.59,104.38,0,14,3,64,6.95,18.36,15.86,97,6.92,25.86,22.43,royal-challengers-bangalore,2020,20000000
+Isuru Udana,Sri Lanka,34,,bowling-allrounder,right-handed-bat,left-arm-fast-medium,11,256,18.29,137.63,1,16,14,1,15,5.0,136.36,0,1,1,27,8.7,33.89,23.37,8,9.72,35.25,21.75,royal-challengers-bangalore,2020,5000000
+Josh Philippe,Australia,25,,wk-batsman,right-handed-bat,,0,138,13.8,109.52,0,8,5,1,78,19.5,101.3,0,9,1,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2020,2000000
+Mitchell Marsh,Australia,31,,batting-allrounder,right-handed-bat,right-arm-fast-medium,7,1086,29.35,127.02,6,86,45,2,476,22.67,123.32,2,28,28,15,7.91,23.2,17.6,24,8.01,21.75,16.29,sunrisers-hyderabad,2020,20000000
+Priyam Garg,India,21,,batsman,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,1,251,15.69,115.14,1,15,9,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2020,19000000
+Virat Singh,India,24,,batsman,left-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,0,15,7.5,57.69,0,1,0,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2020,19000000
+Fabian Allen,West Indies,27,,batting-allrounder,right-handed-bat,left-arm-orthodox,8,267,16.69,136.92,0,15,21,2,14,7.0,73.68,0,1,0,24,7.44,26.92,21.71,2,9.07,68.0,45.0,sunrisers-hyderabad,2020,5000000
+Sanjay Yadav,India,27,,bowling-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,0,0,0.0,0.0,0,0,0,-,-,-,-,0,11.5,0.0,0.0,sunrisers-hyderabad,2020,2000000
+Abdul Samad,India,21,,batsman,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,4,226,14.12,142.14,0,12,14,-,-,-,-,2,12.56,56.5,27.0,sunrisers-hyderabad,2020,2000000
+Krishnappa Gowtham,India,34,,bowling-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,6,186,13.29,167.57,0,13,12,-,-,-,-,18,8.26,36.72,26.67,chennai-super-kings,2021,92500000
+Moeen Ali,England,35,,batting-allrounder,left-handed-bat,right-arm-offbreak,15,1044,22.7,145.81,7,82,55,3,910,23.33,143.99,5,76,53,40,8.37,27.02,19.38,24,6.79,26.12,23.08,chennai-super-kings,2021,70000000
+Cheteshwar Pujara,India,34,,batsman,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,3,390,20.53,99.74,1,50,4,-,-,-,-,-,-,-,-,chennai-super-kings,2021,5000000
+Tom Curran,England,27,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,7,64,10.67,114.29,0,1,4,5,127,25.4,118.69,1,10,3,29,9.26,31.28,20.28,13,10.84,33.08,18.31,delhi-capitals,2021,52500000
+Steven Smith,Australia,33,,batsman,right-handed-bat,right-arm-legbreak,11,1008,25.2,125.22,4,85,24,21,2485,34.51,128.09,11,225,60,17,7.79,22.24,17.12,0,0.0,0.0,0.0,delhi-capitals,2021,22000000
+Sam Billings,England,31,,wk-batsman,right-handed-bat,,5,478,17.07,129.89,2,41,16,1,503,19.35,129.64,3,40,20,-,-,-,-,-,-,-,-,delhi-capitals,2021,20000000
+Umesh Yadav,India,35,,bowler,right-handed-bat,right-arm-fast,1,22,22.0,104.76,0,2,0,27,177,9.83,105.36,0,15,8,12,9.33,23.33,15.0,135,8.37,29.02,20.81,delhi-capitals,2021,10000000
+Ripal Patel,India,27,,batting-allrounder,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,1,31,15.5,103.33,0,3,1,-,-,-,-,0,7.33,0.0,0.0,delhi-capitals,2021,2000000
+Vishnu Vinod,India,28,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,0,19,6.33,73.08,0,1,1,-,-,-,-,-,-,-,-,delhi-capitals,2021,2000000
+Lukman Meriwala,India,30,,bowler,left-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,10.67,32.0,18.0,delhi-capitals,2021,2000000
+Shakib Al Hasan,Bangladesh,35,,batting-allrounder,left-handed-bat,left-arm-orthodox,10,2243,23.12,121.84,12,225,47,12,793,19.82,124.49,2,73,21,128,6.83,21.21,18.63,63,7.44,29.19,23.56,kolkata-knight-riders,2021,32000000
+Harbhajan Singh,India,42,,bowler,right-handed-bat,right-arm-offbreak,5,108,13.5,124.14,0,11,4,35,833,15.15,137.91,1,79,42,25,6.21,25.32,24.48,150,7.08,26.87,22.77,kolkata-knight-riders,2021,20000000
+Ben Cutting,Australia,35,6.29952,bowling-allrounder,right-handed-bat,right-arm-fast-medium,1,40,10.0,148.15,0,2,3,6,238,21.64,168.79,0,15,19,3,10.24,71.67,42.0,10,9.16,42.9,28.1,kolkata-knight-riders,2021,7500000
+Karun Nair,India,30,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,5,1496,23.75,127.75,10,161,39,-,-,-,-,-,-,-,-,kolkata-knight-riders,2021,5000000
+Pawan Negi,India,29,,bowling-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,9,365,14.04,126.3,0,27,16,1,5.33,16.0,18.0,34,7.87,27.62,21.06,kolkata-knight-riders,2021,5000000
+Venkatesh Iyer,India,27,,batting-allrounder,left-handed-bat,right-arm-medium,3,133,33.25,162.2,0,15,5,2,552,27.6,120.79,5,54,21,5,8.18,15.0,11.0,3,9.2,38.33,25.0,kolkata-knight-riders,2021,2000000
+Sheldon Jackson,India,36,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,2,61,10.17,107.02,0,5,1,-,-,-,-,-,-,-,-,kolkata-knight-riders,2021,2000000
+Vaibhav Arora,India,24,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,2,5,2.5,38.46,0,0,0,-,-,-,-,3,9.2,54.67,35.67,kolkata-knight-riders,2021,2000000
+Nathan Coulter-Nile,Australia,35,,bowler,right-handed-bat,right-arm-fast,4,150,13.64,125.0,0,10,10,6,82,6.83,113.89,0,7,4,34,8.27,23.59,17.12,48,7.7,22.92,17.85,mumbai-indians,2021,50000000
+Adam Milne,New Zealand,30,,bowler,right-handed-bat,right-arm-fast,9,39,13.0,100.0,0,1,2,2,23,5.75,79.31,0,0,1,36,7.85,26.33,20.14,7,9.48,46.71,29.57,mumbai-indians,2021,32000000
+Piyush Chawla,India,33,,bowling-allrounder,left-handed-bat,right-arm-legbreak,0,0,0.0,0.0,0,0,0,32,584,11.68,111.03,0,54,18,4,6.57,37.75,34.5,157,7.88,27.39,20.85,mumbai-indians,2021,24000000
+James Neesham,New Zealand,32,,batting-allrounder,left-handed-bat,right-arm-medium,17,688,22.19,159.63,0,49,41,1,92,10.22,98.92,0,6,2,25,9.13,30.12,19.8,8,9.28,41.75,27.0,mumbai-indians,2021,5000000
+Marco Jansen,South Africa,22,,bowling-allrounder,right-handed-bat,left-arm-fast,0,12,12.0,70.59,0,1,1,2,9,3.0,90.0,0,0,1,1,9.5,38.0,24.0,9,8.39,35.44,25.33,mumbai-indians,2021,2000000
+Jhye Richardson,Australia,26,,bowler,right-handed-bat,right-arm-fast,5,45,15.0,88.24,0,3,1,0,15,7.5,62.5,0,2,0,19,8.42,29.26,20.84,3,10.64,39.0,22.0,punjab-kings,2021,140000000
+Riley Meredith,Australia,26,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,2,0,0.0,0.0,0,0,0,8,9.98,23.5,14.12,12,9.0,33.75,22.5,punjab-kings,2021,80000000
+Shahrukh Khan,India,27,,batting-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,4,270,19.29,121.62,0,13,19,-,-,-,-,-,-,-,-,punjab-kings,2021,52500000
+Moises Henriques,Australia,35,6.135470000000001,batting-allrounder,right-handed-bat,right-arm-fast-medium,4,355,20.88,124.56,2,17,15,18,1000,27.78,126.9,5,87,28,7,8.43,27.71,19.71,42,8.14,30.69,22.62,punjab-kings,2021,42000000
+Dawid Malan,England,35,6.0,batsman,left-handed-bat,right-arm-legbreak,8,1748,38.84,135.71,14,178,58,0,26,26.0,100.0,0,1,1,1,13.5,27.0,12.0,-,-,-,-,punjab-kings,2021,15000000
+Fabian Allen,West Indies,27,,batting-allrounder,right-handed-bat,left-arm-orthodox,8,267,16.69,136.92,0,15,21,2,14,7.0,73.68,0,1,0,24,7.44,26.92,21.71,2,9.07,68.0,45.0,punjab-kings,2021,7500000
+Jalaj Saxena,India,35,,batting-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,9.0,0.0,0.0,punjab-kings,2021,3000000
+Chris Morris,South Africa,35,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,4,133,14.78,130.39,1,12,5,23,618,22.07,155.28,2,41,35,34,8.4,20.5,14.65,95,8.01,24.16,18.11,rajasthan-royals,2021,162500000
+Shivam Dube,India,29,,bowling-allrounder,left-handed-bat,right-arm-medium,3,105,17.5,136.36,1,7,6,5,688,24.57,133.33,3,46,38,5,10.05,43.2,25.8,4,9.4,41.5,26.5,rajasthan-royals,2021,44000000
+Chetan Sakariya,India,24,,bowler,left-handed-bat,left-arm-fast-medium,1,5,0.0,55.56,0,0,0,1,16,3.2,64.0,0,2,0,1,9.27,34.0,22.0,17,8.1,30.0,22.24,rajasthan-royals,2021,12000000
+Mustafizur Rahman,Bangladesh,27,,bowler,left-handed-bat,left-arm-fast-medium,9,68,4.53,76.4,0,3,4,7,12,12.0,54.55,0,0,1,97,7.64,21.95,17.24,46,7.8,29.67,22.83,rajasthan-royals,2021,10000000
+Liam Livingstone,England,29,,batsman,right-handed-bat,right-arm-legbreak,5,423,22.26,147.9,0,25,25,3,549,27.45,166.87,4,38,40,15,8.1,27.0,20.0,6,8.96,35.83,24.0,rajasthan-royals,2021,7500000
+KC Cariappa,India,28,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,2,24,8.0,114.29,0,0,2,-,-,-,-,8,9.67,43.5,27.0,rajasthan-royals,2021,2000000
+Akash Singh,India,20,,bowler,right-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,9.75,0.0,0.0,rajasthan-royals,2021,2000000
+Kuldip Yadav,India,26,,bowler,left-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,1,0,0.0,0.0,0,0,0,-,-,-,-,0,8.0,0.0,0.0,rajasthan-royals,2021,2000000
+Kyle Jamieson,New Zealand,27,,bowler,right-handed-bat,right-arm-fast-medium,2,41,20.5,151.85,0,7,0,3,65,16.25,118.18,0,5,3,4,9.8,70.25,43.0,9,9.61,29.89,18.67,royal-challengers-bangalore,2021,150000000
+Glenn Maxwell,Australia,34,,batting-allrounder,right-handed-bat,right-arm-offbreak,14,2159,28.41,150.98,10,176,106,15,2319,25.48,153.88,13,197,127,39,7.46,27.59,22.18,28,8.24,38.57,28.07,royal-challengers-bangalore,2021,142500000
+Daniel Christian,Australia,39,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,6,118,14.75,126.88,0,7,6,9,460,14.38,115.58,0,23,19,13,8.56,30.62,21.46,38,8.1,31.37,23.24,royal-challengers-bangalore,2021,48000000
+Sachin Baby,India,33,,batsman,left-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,2,144,16.0,122.03,0,11,5,-,-,-,-,2,4.8,4.0,5.0,royal-challengers-bangalore,2021,2000000
+Rajat Patidar,India,29,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,1,404,40.4,144.29,2,30,21,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2021,2000000
+Suyash Prabhudessai,India,24,,batsman,right-handed-bat,,-,-,-,-,-,-,-,0,67,13.4,113.56,0,7,2,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2021,2000000
+Kedar Jadhav,India,37,,batting-allrounder,right-handed-bat,right-arm-offbreak,0,122,20.33,123.23,1,12,3,26,1196,22.15,123.17,4,101,40,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2021,20000000
+Jagadeesha Suchith,India,28,,bowler,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,6,70,17.5,114.75,0,6,3,-,-,-,-,19,8.6,31.68,22.11,sunrisers-hyderabad,2021,3000000
+Robin Uthappa,India,37,,wk-batsman,right-handed-bat,right-arm-medium,2,249,24.9,118.01,1,26,6,17,4952,27.51,130.35,27,481,182,-,-,-,-,-,-,-,-,chennai-super-kings,2022,20000000
+Dwayne Bravo,West Indies,39,,batting-allrounder,right-handed-bat,right-arm-fast-medium,17,1255,22.02,115.14,4,73,55,44,1560,22.61,129.57,5,121,66,78,8.12,26.1,19.29,183,8.39,23.83,17.04,chennai-super-kings,2022,44000000
+Ambati Rayudu,India,37,,batsman,right-handed-bat,right-arm-offbreak,1,42,10.5,84.0,0,5,0,30,4190,28.9,127.12,22,349,164,-,-,-,-,-,-,-,-,chennai-super-kings,2022,67500000
+Deepak Chahar,India,30,,bowler,right-handed-bat,right-arm-medium,5,53,53.0,203.85,0,4,4,5,79,11.29,138.6,0,2,6,29,8.17,24.24,17.79,59,7.8,29.19,22.44,chennai-super-kings,2022,140000000
+N Jagadeesan,India,26,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,1,73,24.33,110.61,0,7,1,-,-,-,-,-,-,-,-,chennai-super-kings,2022,2000000
+KM Asif,India,29,,bowler,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,4,11.39,23.25,12.25,chennai-super-kings,2022,2000000
+Tushar Deshpande,India,27,,bowler,left-handed-bat,right-arm-medium,-,-,-,-,-,-,-,1,21,21.0,175.0,0,2,1,-,-,-,-,4,10.62,63.75,36.0,chennai-super-kings,2022,2000000
+Shivam Dube,India,29,,bowling-allrounder,left-handed-bat,right-arm-medium,3,105,17.5,136.36,1,7,6,5,688,24.57,133.33,3,46,38,5,10.05,43.2,25.8,4,9.4,41.5,26.5,chennai-super-kings,2022,40000000
+Chris Jordan,England,34,6.2,bowler,right-handed-bat,right-arm-fast-medium,22,422,15.07,136.57,0,30,21,3,75,9.38,115.38,0,3,3,95,8.72,27.05,18.62,27,9.32,30.85,19.85,chennai-super-kings,2022,36000000
+Maheesh Theekshana,Sri Lanka,22,,bowler,right-handed-bat,right-arm-offbreak,6,31,5.17,93.94,0,1,2,1,7,7.0,100.0,0,0,1,31,6.56,25.87,23.65,12,7.46,21.75,17.5,chennai-super-kings,2022,7000000
+Simarjeet Singh,India,24,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,2,7,7.0,87.5,0,0,0,-,-,-,-,4,7.67,34.5,27.0,chennai-super-kings,2022,2000000
+Devon Conway,South Africa,31,,wk-batsman,left-handed-bat,right-arm-medium,8,1170,48.75,130.58,8,110,31,1,252,42.0,145.66,3,22,12,-,-,-,-,-,-,-,-,chennai-super-kings,2022,10000000
+Dwaine Pretorius,South Africa,33,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,5,261,21.75,164.15,1,22,15,1,44,11.0,157.14,0,3,3,35,8.29,19.89,14.4,6,10.0,35.0,21.0,chennai-super-kings,2022,5000000
+Mitchell Santner,New Zealand,30,,bowling-allrounder,left-handed-bat,left-arm-orthodox,24,491,16.93,128.2,1,36,17,3,54,18.0,108.0,0,3,3,89,7.12,21.94,18.49,10,6.92,27.7,24.0,chennai-super-kings,2022,19000000
+Adam Milne,New Zealand,30,,bowler,right-handed-bat,right-arm-fast,9,39,13.0,100.0,0,1,2,2,23,5.75,79.31,0,0,1,36,7.85,26.33,20.14,7,9.48,46.71,29.57,chennai-super-kings,2022,19000000
+Prashant Solanki,India,22,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,6.33,19.0,18.0,chennai-super-kings,2022,12000000
+David Warner,Australia,36,5.5777,batsman,left-handed-bat,right-arm-legbreak,11,2894,32.89,141.31,24,296,105,22,5881,42.01,140.69,55,578,215,-,-,-,-,0,0.0,0.0,0.0,delhi-capitals,2022,62500000
+Mitchell Marsh,Australia,31,,batting-allrounder,right-handed-bat,right-arm-fast-medium,7,1086,29.35,127.02,6,86,45,2,476,22.67,123.32,2,28,28,15,7.91,23.2,17.6,24,8.01,21.75,16.29,delhi-capitals,2022,65000000
+Mustafizur Rahman,Bangladesh,27,,bowler,left-handed-bat,left-arm-fast-medium,9,68,4.53,76.4,0,3,4,7,12,12.0,54.55,0,0,1,97,7.64,21.95,17.24,46,7.8,29.67,22.83,delhi-capitals,2022,20000000
+Shardul Thakur,India,31,,bowler,right-handed-bat,right-arm-fast-medium,3,69,23.0,181.58,0,5,4,8,173,10.81,129.1,0,12,8,33,9.15,23.39,15.33,82,9.06,28.54,18.9,delhi-capitals,2022,107500000
+Kuldeep Yadav,India,27,,bowler,left-handed-bat,left-arm-chinaman,3,43,43.0,89.58,0,2,0,11,105,15.0,82.68,0,8,2,44,6.89,14.02,12.2,61,8.32,27.13,19.57,delhi-capitals,2022,20000000
+Sarfaraz Khan,India,25,,batsman,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,11,532,24.18,137.82,1,59,13,-,-,-,-,0,0.0,0.0,0.0,delhi-capitals,2022,2000000
+Kamlesh Nagarkoti,India,22,,bowler,right-handed-bat,right-arm-fast,-,-,-,-,-,-,-,3,22,5.5,66.67,0,1,0,-,-,-,-,5,9.5,57.0,36.0,delhi-capitals,2022,11000000
+Mandeep Singh,India,30,,batsman,right-handed-bat,right-arm-medium,1,87,43.5,119.18,1,11,1,16,1692,21.42,123.32,6,176,37,-,-,-,-,0,13.0,0.0,0.0,delhi-capitals,2022,11000000
+Lungi Ngidi,South Africa,26,,bowler,right-handed-bat,right-arm-fast,3,16,3.2,53.33,0,1,0,-,-,-,-,-,-,-,58,8.92,18.31,12.31,25,8.3,17.92,12.96,delhi-capitals,2022,5000000
+Chetan Sakariya,India,24,,bowler,left-handed-bat,left-arm-fast-medium,1,5,0.0,55.56,0,0,0,1,16,3.2,64.0,0,2,0,1,9.27,34.0,22.0,17,8.1,30.0,22.24,delhi-capitals,2022,42000000
+Ripal Patel,India,27,,batting-allrounder,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,1,31,15.5,103.33,0,3,1,-,-,-,-,0,7.33,0.0,0.0,delhi-capitals,2022,2000000
+Lalit Yadav,India,25,,batting-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,4,229,25.44,104.57,0,18,7,-,-,-,-,8,7.84,31.38,24.0,delhi-capitals,2022,6500000
+Rovman Powell,West Indies,29,,batsman,right-handed-bat,right-arm-fast-medium,8,890,23.42,134.64,4,53,55,2,250,25.0,149.7,1,10,22,4,8.8,33.0,22.5,0,17.0,0.0,0.0,delhi-capitals,2022,28000000
+Tim Seifert,New Zealand,27,,wk-batsman,right-handed-bat,,5,753,23.53,129.83,5,63,37,0,26,8.67,113.04,0,4,0,-,-,-,-,-,-,-,-,delhi-capitals,2022,5000000
+Mohammed Shami,India,32,,bowler,right-handed-bat,right-arm-fast-medium,2,0,0.0,0.0,0,0,0,12,69,6.27,94.52,0,5,2,24,8.94,29.62,19.88,99,8.52,29.19,20.57,gujarat-titans,2022,62500000
+David Miller,South Africa,33,,batsman,left-handed-bat,right-arm-offbreak,34,2149,34.66,144.33,6,141,103,35,2455,36.64,137.69,12,169,113,-,-,-,-,-,-,-,-,gujarat-titans,2022,30000000
+Jason Roy,England,32,,batsman,right-handed-bat,,0,1522,23.78,137.61,8,153,69,2,329,29.91,129.02,2,39,9,-,-,-,-,-,-,-,-,gujarat-titans,2022,20000000
+Wriddhiman Saha,India,38,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,23,2427,25.28,127.87,11,231,76,-,-,-,-,-,-,-,-,gujarat-titans,2022,19000000
+Matthew Wade,Australia,34,5.5777,wk-batsman,left-handed-bat,,16,1018,24.83,132.04,3,81,38,0,179,13.77,104.68,0,23,2,-,-,-,-,-,-,-,-,gujarat-titans,2022,24000000
+Lockie Ferguson,New Zealand,31,,bowler,right-handed-bat,right-arm-fast,4,21,10.5,140.0,0,0,2,7,67,33.5,148.89,0,6,2,41,7.37,17.85,14.54,36,8.43,29.86,21.25,gujarat-titans,2022,100000000
+Rahul Tewatia,India,29,,batting-allrounder,left-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,17,738,25.45,130.39,1,57,35,-,-,-,-,32,7.92,34.25,25.94,gujarat-titans,2022,90000000
+Ravisrinivasan Sai Kishore,India,26,,bowler,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,6,7.56,20.17,16.0,gujarat-titans,2022,30000000
+Vijay Shankar,India,31,,batting-allrounder,right-handed-bat,right-arm-medium,0,101,25.25,138.36,0,11,5,12,731,23.58,122.04,3,46,28,5,9.1,38.2,25.2,9,8.67,38.22,26.44,gujarat-titans,2022,14000000
+Jayant Yadav,India,32,,bowler,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,1,40,10.0,111.11,0,2,1,-,-,-,-,8,6.87,52.38,45.75,gujarat-titans,2022,17000000
+Darshan Nalkande,India,24,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,2,11.42,29.5,15.5,gujarat-titans,2022,2000000
+Yash Dayal,India,24,,bowler,left-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,0,0,0.0,0.0,0,0,0,-,-,-,-,11,9.25,26.91,17.45,gujarat-titans,2022,32000000
+Gurkeerat Singh Mann,India,32,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,8,511,21.29,121.09,2,55,11,-,-,-,-,5,7.46,19.4,15.6,gujarat-titans,2022,5000000
+Alzarri Joseph,West Indies,26,,bowler,right-handed-bat,right-arm-fast-medium,3,29,14.5,80.56,0,2,1,4,20,20.0,100.0,0,2,0,16,7.47,18.69,15.0,13,9.08,27.0,17.85,gujarat-titans,2022,24000000
+Varun Aaron,India,33,,bowler,right-handed-bat,right-arm-fast,-,-,-,-,-,-,-,8,50,10.0,69.44,0,2,2,-,-,-,-,44,8.94,33.66,22.59,gujarat-titans,2022,5000000
+Pradeep Sangwan,India,32,,bowler,right-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,7,26,3.25,59.09,0,1,0,-,-,-,-,38,8.69,32.63,22.53,gujarat-titans,2022,2000000
+Pat Cummins,Australia,29,6.29952,bowler,right-handed-bat,right-arm-fast,11,116,9.67,123.4,0,6,6,11,379,18.95,152.21,3,24,26,55,7.38,24.55,19.96,45,8.54,30.16,21.18,kolkata-knight-riders,2022,72500000
+Shreyas Iyer,India,27,,batsman,right-handed-bat,right-arm-legbreak,11,1043,30.68,135.98,7,85,42,13,2776,31.55,125.38,19,237,99,0,0.0,0.0,0.0,0,7.0,0.0,0.0,kolkata-knight-riders,2022,122500000
+Mohammad Nabi,Afghanistan,37,,bowling-allrounder,right-handed-bat,right-arm-offbreak,16,1664,21.06,139.71,4,111,89,2,180,15.0,151.26,0,16,9,84,7.31,28.1,23.05,13,7.14,31.38,26.38,kolkata-knight-riders,2022,10000000
+Nitish Rana,India,28,,batsman,left-handed-bat,right-arm-offbreak,0,15,7.5,55.56,0,0,0,7,2181,27.96,134.22,15,190,111,-,-,-,-,7,8.36,25.29,18.14,kolkata-knight-riders,2022,80000000
+Sam Billings,England,31,,wk-batsman,right-handed-bat,,5,478,17.07,129.89,2,41,16,1,503,19.35,129.64,3,40,20,-,-,-,-,-,-,-,-,kolkata-knight-riders,2022,20000000
+Umesh Yadav,India,35,,bowler,right-handed-bat,right-arm-fast,1,22,22.0,104.76,0,2,0,27,177,9.83,105.36,0,15,8,12,9.33,23.33,15.0,135,8.37,29.02,20.81,kolkata-knight-riders,2022,20000000
+Shivam Mavi,India,24,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,3,51,5.67,91.07,0,4,2,-,-,-,-,30,8.71,31.4,21.63,kolkata-knight-riders,2022,72500000
+Sheldon Jackson,India,36,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,2,61,10.17,107.02,0,5,1,-,-,-,-,-,-,-,-,kolkata-knight-riders,2022,6000000
+Ajinkya Rahane,India,34,,batsman,right-handed-bat,right-arm-medium,2,375,20.83,113.29,1,32,6,16,4074,30.86,120.68,28,431,80,-,-,-,-,1,5.0,5.0,6.0,kolkata-knight-riders,2022,10000000
+Rinku Singh,India,25,,batsman,left-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,3,251,20.92,130.05,0,23,9,-,-,-,-,-,-,-,-,kolkata-knight-riders,2022,5500000
+Anukul Roy,India,23,,batting-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,0,0,0.0,0.0,0,0,0,-,-,-,-,2,7.33,33.0,27.0,kolkata-knight-riders,2022,2000000
+Alex Hales,England,33,,batsman,right-handed-bat,right-arm-medium,8,2074,30.96,138.36,12,226,69,0,148,24.67,125.42,0,13,6,-,-,-,-,-,-,-,-,kolkata-knight-riders,2022,15000000
+Tim Southee,New Zealand,33,,bowler,right-handed-bat,right-arm-fast-medium,18,261,10.88,139.57,0,18,16,7,120,9.23,112.15,0,8,4,134,8.16,23.46,17.25,45,8.53,36.96,26.0,kolkata-knight-riders,2022,15000000
+Baba Indrajith,India,28,,wk-batsman,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,0,21,7.0,70.0,0,2,0,-,-,-,-,-,-,-,-,kolkata-knight-riders,2022,2000000
+Abhijeet Tomar,India,27,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,0,4,4.0,50.0,0,1,0,-,-,-,-,-,-,-,-,kolkata-knight-riders,2022,4000000
+Quinton de Kock,South Africa,29,,wk-batsman,left-handed-bat,,9,2156,32.18,135.43,14,222,78,6,2764,32.14,133.91,19,277,106,-,-,-,-,-,-,-,-,lucknow-super-giants,2022,67500000
+Manish Pandey,India,33,,batsman,right-handed-bat,right-arm-medium,17,709,44.31,126.16,3,49,19,27,3648,29.9,121.52,21,317,105,-,-,-,-,-,-,-,-,lucknow-super-giants,2022,46000000
+Krunal Pandya,India,31,,batting-allrounder,left-handed-bat,left-arm-orthodox,5,124,24.8,130.53,0,8,6,25,1326,22.1,136.7,1,121,50,15,8.11,36.93,27.33,61,7.31,33.41,27.41,lucknow-super-giants,2022,82500000
+Mark Wood,England,32,,bowler,right-handed-bat,right-arm-fast,3,11,0.0,84.62,0,1,0,0,1,1.0,33.33,0,0,0,44,8.34,18.48,13.3,0,12.25,0.0,0.0,lucknow-super-giants,2022,75000000
+Avesh Khan,India,25,,bowler,right-handed-bat,right-arm-fast-medium,2,10,10.0,142.86,0,0,1,4,31,15.5,163.16,0,2,3,13,9.11,32.46,21.38,47,8.4,24.79,17.7,lucknow-super-giants,2022,100000000
+Ankit Rajpoot,India,28,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,2,26,5.2,63.41,0,2,1,-,-,-,-,24,9.23,33.92,22.04,lucknow-super-giants,2022,5000000
+Dushmantha Chameera,Sri Lanka,30,,bowler,right-handed-bat,right-arm-fast,12,95,6.33,85.59,0,8,1,4,43,10.75,153.57,0,3,3,52,8.09,28.98,21.5,9,8.73,42.67,29.33,lucknow-super-giants,2022,20000000
+Shahbaz Nadeem,India,33,,bowler,right-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,8,39,2.79,44.83,0,2,0,-,-,-,-,48,7.56,37.17,29.48,lucknow-super-giants,2022,5000000
+Manan Vohra,India,29,,batsman,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,2,1073,22.35,131.17,3,103,43,-,-,-,-,-,-,-,-,lucknow-super-giants,2022,2000000
+Evin Lewis,West Indies,30,,batsman,left-handed-bat,,2,1465,29.3,151.97,10,108,111,2,654,27.25,137.11,4,62,36,-,-,-,-,-,-,-,-,lucknow-super-giants,2022,20000000
+Mohsin Khan,India,24,,bowler,left-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,2,23,23.0,143.75,0,2,1,-,-,-,-,14,5.97,14.07,14.14,lucknow-super-giants,2022,2000000
+Ayush Badoni,India,22,,bowling-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,3,161,20.12,123.85,1,11,7,-,-,-,-,2,5.5,5.5,6.0,lucknow-super-giants,2022,2000000
+Jason Holder,West Indies,31,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,9,385,15.4,120.69,0,23,21,5,247,13.0,124.12,0,13,17,51,8.17,26.86,19.73,49,8.57,24.02,16.82,lucknow-super-giants,2022,87500000
+Deepak Hooda,India,27,,batting-allrounder,right-handed-bat,right-arm-offbreak,3,302,33.56,150.25,0,27,13,14,1236,20.26,132.05,7,77,56,5,4.58,9.0,11.8,10,8.61,50.1,34.9,lucknow-super-giants,2022,57500000
+Ishan Kishan,India,24,,wk-batsman,left-handed-bat,,1,589,29.45,129.17,4,65,23,6,1870,29.22,132.34,12,166,85,-,-,-,-,-,-,-,-,mumbai-indians,2022,152500000
+Anmolpreet Singh,India,24,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,0,29,9.67,107.41,0,3,1,-,-,-,-,-,-,-,-,mumbai-indians,2022,2000000
+Basil Thampi,India,29,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,7,32,32.0,91.43,0,1,1,-,-,-,-,22,9.74,38.45,23.68,mumbai-indians,2022,3000000
+Murugan Ashwin,India,32,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,4,35,3.89,70.0,0,2,1,-,-,-,-,35,7.87,31.69,24.17,mumbai-indians,2022,16000000
+Jaydev Unadkat,India,31,,bowler,right-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,14,164,13.67,123.31,0,13,6,14,8.68,21.5,14.86,91,8.79,30.53,20.84,mumbai-indians,2022,13000000
+Mayank Markande,India,25,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,5,27,9.0,93.1,0,3,0,0,7.75,0.0,0.0,17,8.5,30.0,21.18,mumbai-indians,2022,6500000
+Sanjay Yadav,India,27,,bowling-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,0,0,0.0,0.0,0,0,0,-,-,-,-,0,11.5,0.0,0.0,mumbai-indians,2022,5000000
+Jofra Archer,England,27,,bowler,right-handed-bat,right-arm-fast,1,19,19.0,190.0,0,2,1,10,195,15.0,157.26,0,11,14,14,7.89,26.5,20.14,46,7.13,21.33,17.93,mumbai-indians,2022,80000000
+Daniel Sams,Australia,30,,bowling-allrounder,right-handed-bat,left-arm-fast-medium,3,106,26.5,170.97,0,8,6,4,44,4.89,100.0,0,1,3,7,10.17,43.57,25.71,14,8.72,37.36,25.71,mumbai-indians,2022,26000000
+Tymal Mills,England,30,,bowler,right-handed-bat,left-arm-fast-medium,2,8,2.67,72.73,0,0,1,1,8,2.0,57.14,0,0,1,12,8.37,31.17,22.33,11,9.85,31.18,19.0,mumbai-indians,2022,15000000
+Tim David,Singapore,26,,batting-allrounder,right-handed-bat,right-arm-medium,3,611,35.94,159.11,4,50,32,3,187,31.17,210.11,0,12,16,5,9.33,51.0,32.8,-,-,-,-,mumbai-indians,2022,82500000
+Ramandeep Singh ,India,25,,batsman,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,2,45,22.5,112.5,0,3,1,-,-,-,-,6,9.0,9.0,6.0,mumbai-indians,2022,2000000
+Fabian Allen,West Indies,27,,batting-allrounder,right-handed-bat,left-arm-orthodox,8,267,16.69,136.92,0,15,21,2,14,7.0,73.68,0,1,0,24,7.44,26.92,21.71,2,9.07,68.0,45.0,mumbai-indians,2022,7500000
+Riley Meredith,Australia,26,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,2,0,0.0,0.0,0,0,0,8,9.98,23.5,14.12,12,9.0,33.75,22.5,mumbai-indians,2022,10000000
+Hrithik Shokeen,India,22,,bowling-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,1,43,21.5,89.58,0,5,0,-,-,-,-,2,8.47,63.5,45.0,mumbai-indians,2022,2000000
+Shikhar Dhawan,India,36,,batsman,left-handed-bat,right-arm-offbreak,3,1759,27.92,126.36,11,191,50,26,6243,34.88,126.33,47,701,136,-,-,-,-,4,8.25,16.5,12.0,punjab-kings,2022,82500000
+Kagiso Rabada,South Africa,27,,bowler,left-handed-bat,right-arm-fast,14,147,21.0,109.7,0,12,5,11,186,12.4,105.08,0,16,6,56,8.51,29.36,20.7,99,8.26,19.86,14.42,punjab-kings,2022,92500000
+Jonny Bairstow,England,33,,wk-batsman,right-handed-bat,right-arm-medium,12,1337,27.85,136.43,8,120,57,3,1291,35.86,142.65,9,133,55,-,-,-,-,-,-,-,-,punjab-kings,2022,67500000
+Rahul Chahar,India,23,,bowler,right-handed-bat,right-arm-legbreak,0,5,5.0,100.0,0,1,0,6,108,8.31,108.0,0,10,4,7,7.59,23.86,18.86,57,7.51,25.91,20.7,punjab-kings,2022,52500000
+Harpreet Brar,India,27,,batting-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,6,106,35.33,111.58,0,6,5,-,-,-,-,9,7.79,41.56,32.0,punjab-kings,2022,38000000
+Shahrukh Khan,India,27,,batting-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,4,270,19.29,121.62,0,13,19,-,-,-,-,-,-,-,-,punjab-kings,2022,90000000
+Jitesh Sharma,India,29,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,2,234,29.25,163.64,0,22,12,-,-,-,-,-,-,-,-,punjab-kings,2022,2000000
+Ishan Porel,India,24,,bowler,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,1,9.75,39.0,24.0,punjab-kings,2022,2500000
+Liam Livingstone,England,29,,batsman,right-handed-bat,right-arm-legbreak,5,423,22.26,147.9,0,25,25,3,549,27.45,166.87,4,38,40,15,8.1,27.0,20.0,6,8.96,35.83,24.0,punjab-kings,2022,115000000
+Odean Smith,West Indies,26,,bowler,right-handed-bat,right-arm-medium,5,162,13.5,139.66,0,12,10,3,51,17.0,115.91,0,1,5,24,9.84,28.29,17.25,6,11.87,29.67,15.0,punjab-kings,2022,60000000
+Sandeep Sharma,India,29,,bowler,right-handed-bat,right-arm-fast-medium,1,1,0.0,100.0,0,0,0,19,52,8.67,81.25,0,4,0,1,10.43,73.0,42.0,114,7.77,26.33,20.33,punjab-kings,2022,5000000
+Rishi Dhawan,India,32,,bowling-allrounder,right-handed-bat,right-arm-fast-medium,1,1,0.0,50.0,0,0,0,12,190,21.11,108.57,0,17,6,1,10.5,42.0,24.0,24,7.93,33.17,25.08,punjab-kings,2022,5500000
+Nathan Ellis,Australia,28,,bowler,right-handed-bat,right-arm-fast-medium,0,1,0.5,11.11,0,0,0,1,18,9.0,100.0,0,0,1,15,6.4,8.53,8.0,4,8.53,36.25,25.5,punjab-kings,2022,7500000
+Prerak Mankad,India,28,,batsman,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,1,4,0.0,400.0,0,1,0,-,-,-,-,-,-,-,-,punjab-kings,2022,2000000
+Vaibhav Arora,India,24,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,2,5,2.5,38.46,0,0,0,-,-,-,-,3,9.2,54.67,35.67,punjab-kings,2022,20000000
+Bhanuka Rajapaksa,Sri Lanka,31,,wk-batsman,left-handed-bat,right-arm-medium,5,666,25.62,135.09,3,56,30,0,206,22.89,159.69,0,16,13,-,-,-,-,-,-,-,-,punjab-kings,2022,5000000
+Ravichandran Ashwin,India,36,,bowling-allrounder,right-handed-bat,right-arm-offbreak,12,184,26.29,115.0,0,17,4,27,647,13.48,117.64,1,51,21,72,6.91,23.22,20.17,157,6.98,28.88,24.84,rajasthan-royals,2022,50000000
+Trent Boult,New Zealand,33,,bowler,right-handed-bat,left-arm-fast-medium,7,32,6.4,76.19,0,2,0,13,53,10.6,110.42,0,2,2,74,7.86,22.26,16.99,92,8.3,26.9,19.45,rajasthan-royals,2022,80000000
+Shimron Hetmyer,West Indies,25,,batsman,left-handed-bat,,4,797,20.97,118.42,4,53,41,17,831,30.78,152.2,3,55,52,-,-,-,-,-,-,-,-,rajasthan-royals,2022,85000000
+Devdutt Padikkal,India,22,,batsman,left-handed-bat,right-arm-offbreak,0,38,19.0,100.0,0,2,1,1,1260,28.0,124.38,7,135,36,-,-,-,-,-,-,-,-,rajasthan-royals,2022,77500000
+Prasidh Krishna,India,26,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,7,9,3.0,37.5,0,0,0,-,-,-,-,49,8.92,34.76,23.37,rajasthan-royals,2022,100000000
+Yuzvendra Chahal,India,32,,bowler,right-handed-bat,right-arm-legbreak,2,5,2.5,45.45,0,0,0,13,37,5.29,43.02,0,0,0,87,8.14,24.78,18.28,166,7.61,21.83,17.2,rajasthan-royals,2022,65000000
+Riyan Parag,India,21,,batsman,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,6,522,16.84,124.88,2,40,22,-,-,-,-,4,10.7,70.0,39.25,rajasthan-royals,2022,38000000
+KC Cariappa,India,28,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,2,24,8.0,114.29,0,0,2,-,-,-,-,8,9.67,43.5,27.0,rajasthan-royals,2022,3000000
+James Neesham,New Zealand,32,,batting-allrounder,left-handed-bat,right-arm-medium,17,688,22.19,159.63,0,49,41,1,92,10.22,98.92,0,6,2,25,9.13,30.12,19.8,8,9.28,41.75,27.0,rajasthan-royals,2022,15000000
+Nathan Coulter-Nile,Australia,35,,bowler,right-handed-bat,right-arm-fast,4,150,13.64,125.0,0,10,10,6,82,6.83,113.89,0,7,4,34,8.27,23.59,17.12,48,7.7,22.92,17.85,rajasthan-royals,2022,20000000
+Navdeep Saini,India,30,,bowler,right-handed-bat,right-arm-fast,3,12,0.0,109.09,0,2,0,3,33,8.25,89.19,0,3,0,13,7.16,18.08,15.15,20,8.68,45.0,31.1,rajasthan-royals,2022,26000000
+Kuldeep Sen,India,26,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,1,0,0.0,0.0,0,0,0,-,-,-,-,8,9.42,29.62,18.88,rajasthan-royals,2022,2000000
+Karun Nair,India,30,,batsman,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,5,1496,23.75,127.75,10,161,39,-,-,-,-,-,-,-,-,rajasthan-royals,2022,14000000
+Rassie van der Dussen,South Africa,33,,batsman,right-handed-bat,right-arm-legbreak,8,1044,36.0,128.73,7,66,45,1,22,11.0,91.67,0,2,0,-,-,-,-,-,-,-,-,rajasthan-royals,2022,10000000
+Daryl Mitchell,New Zealand,31,,batting-allrounder,right-handed-bat,right-arm-medium,9,786,26.2,139.12,3,54,27,0,33,16.5,75.0,0,1,0,7,10.27,20.29,11.86,0,13.5,0.0,0.0,rajasthan-royals,2022,7500000
+Obed McCoy,West Indies,25,,bowler,left-handed-bat,left-arm-fast-medium,4,63,10.5,114.55,0,6,4,0,8,8.0,160.0,0,0,1,38,8.39,19.97,14.29,11,9.17,21.55,14.09,rajasthan-royals,2022,7500000
+Tejas Baroka,India,26,,bowler,right-handed-bat,,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,-,0,9.43,0.0,0.0,rajasthan-royals,2022,2000000
+Kuldip Yadav,India,26,,bowler,left-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,1,0,0.0,0.0,0,0,0,-,-,-,-,0,8.0,0.0,0.0,rajasthan-royals,2022,2000000
+Faf du Plessis,South Africa,38,,batsman,right-handed-bat,right-arm-legbreak,7,1528,35.53,134.39,10,140,50,10,3403,34.37,130.58,25,314,109,0,2.25,0.0,0.0,0,16.0,0.0,0.0,royal-challengers-bangalore,2022,70000000
+Wanindu Hasaranga,Sri Lanka,25,,bowling-allrounder,right-handed-bat,right-arm-legbreak,9,473,13.91,120.05,1,52,3,1,39,4.88,86.67,0,4,1,86,6.67,14.49,13.02,26,7.78,18.85,14.54,royal-challengers-bangalore,2022,107500000
+Harshal Patel,India,32,,bowler,right-handed-bat,right-arm-fast-medium,4,77,12.83,135.09,0,9,3,14,230,10.45,129.21,0,15,13,27,9.13,27.0,17.74,97,8.4,22.87,16.34,royal-challengers-bangalore,2022,107500000
+Dinesh Karthik,India,37,,wk-batsman,right-handed-bat,,22,686,26.38,142.62,1,71,28,45,4376,26.85,132.65,20,426,134,0,18.0,0.0,0.0,-,-,-,-,royal-challengers-bangalore,2022,55000000
+Josh Hazlewood,Australia,31,6.43076,bowler,left-handed-bat,right-arm-fast-medium,5,22,11.0,157.14,0,2,1,5,18,0.0,69.23,0,1,0,58,7.69,20.36,15.9,32,8.02,22.94,17.16,royal-challengers-bangalore,2022,77500000
+Anuj Rawat,India,23,,wk-batsman,left-handed-bat,,-,-,-,-,-,-,-,0,129,14.33,108.4,1,10,7,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2022,34000000
+Akash Deep,India,25,,bowler,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,0,0,0.0,0.0,0,0,0,-,-,-,-,5,10.88,41.0,22.6,royal-challengers-bangalore,2022,2000000
+Karn Sharma,India,35,,bowler,left-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,14,317,15.1,115.69,0,18,14,1,7.0,28.0,24.0,59,7.91,27.29,20.71,royal-challengers-bangalore,2022,5000000
+Mahipal Lomror,India,23,,batting-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,2,267,20.54,128.37,0,15,13,-,-,-,-,1,7.67,92.0,72.0,royal-challengers-bangalore,2022,9500000
+Sherfane Rutherford,West Indies,24,,batting-allrounder,left-handed-bat,right-arm-fast-medium,0,43,10.75,119.44,0,1,3,2,106,15.14,101.92,0,3,8,1,8.17,49.0,36.0,1,8.63,59.0,41.0,royal-challengers-bangalore,2022,10000000
+Jason Behrendorff,Australia,32,,bowler,right-handed-bat,left-arm-fast-medium,0,5,5.0,71.43,0,0,0,-,-,-,-,-,-,-,7,8.5,26.71,18.86,5,8.68,33.0,22.8,royal-challengers-bangalore,2022,7500000
+Suyash Prabhudessai,India,24,,batsman,right-handed-bat,,-,-,-,-,-,-,-,0,67,13.4,113.56,0,7,2,-,-,-,-,-,-,-,-,royal-challengers-bangalore,2022,3000000
+David Willey,England,32,,bowling-allrounder,left-handed-bat,left-arm-fast-medium,11,226,15.07,130.64,0,15,13,0,18,9.0,60.0,0,3,0,51,8.18,23.14,16.96,3,7.95,55.67,42.0,royal-challengers-bangalore,2022,20000000
+Washington Sundar,India,23,,batting-allrounder,left-handed-bat,right-arm-offbreak,4,47,5.88,142.42,0,4,3,11,318,14.45,120.45,0,26,9,26,7.34,29.77,24.35,33,7.23,33.52,27.82,sunrisers-hyderabad,2022,87500000
+Nicholas Pooran,West Indies,27,,wk-batsman,left-handed-bat,right-arm-offbreak,8,1427,25.48,129.02,9,101,83,9,912,26.06,151.24,4,51,65,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2022,107500000
+Bhuvneshwar Kumar,India,32,,bowler,right-handed-bat,right-arm-fast-medium,13,67,8.38,71.28,0,0,0,28,241,8.31,96.4,0,23,3,90,6.96,23.1,19.9,154,7.3,25.79,21.18,sunrisers-hyderabad,2022,42000000
+T Natarajan,India,31,,bowler,left-handed-bat,left-arm-fast-medium,-,-,-,-,-,-,-,4,3,0.0,60.0,0,0,0,7,7.62,17.43,13.71,38,8.65,28.79,19.97,sunrisers-hyderabad,2022,40000000
+Priyam Garg,India,21,,batsman,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,1,251,15.69,115.14,1,15,9,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2022,2000000
+Rahul Tripathi,India,31,,batsman,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,9,1798,27.66,140.8,10,176,68,-,-,-,-,0,12.0,0.0,0.0,sunrisers-hyderabad,2022,85000000
+Abhishek Sharma,India,22,,bowling-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,6,667,23.82,135.29,2,64,25,-,-,-,-,7,8.23,30.57,22.29,sunrisers-hyderabad,2022,65000000
+Vishnu Vinod,India,28,,wk-batsman,right-handed-bat,,-,-,-,-,-,-,-,0,19,6.33,73.08,0,1,1,-,-,-,-,-,-,-,-,sunrisers-hyderabad,2022,5000000
+Kartik Tyagi,India,22,,bowler,right-handed-bat,right-arm-fast-medium,-,-,-,-,-,-,-,3,13,3.25,81.25,0,1,0,-,-,-,-,14,9.47,40.71,25.79,sunrisers-hyderabad,2022,40000000
+Shreyas Gopal,India,29,,bowling-allrounder,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,8,180,12.86,106.51,0,19,2,-,-,-,-,49,8.1,26.14,19.37,sunrisers-hyderabad,2022,7500000
+Jagadeesha Suchith,India,28,,bowler,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,6,70,17.5,114.75,0,6,3,-,-,-,-,19,8.6,31.68,22.11,sunrisers-hyderabad,2022,2000000
+Aiden Markram,South Africa,28,,batsman,right-handed-bat,right-arm-offbreak,4,879,38.22,147.73,9,73,39,5,527,40.54,134.1,3,37,23,7,7.35,24.14,19.71,1,8.7,87.0,60.0,sunrisers-hyderabad,2022,26000000
+Marco Jansen,South Africa,22,,bowling-allrounder,right-handed-bat,left-arm-fast,0,12,12.0,70.59,0,1,1,2,9,3.0,90.0,0,0,1,1,9.5,38.0,24.0,9,8.39,35.44,25.33,sunrisers-hyderabad,2022,42000000
+Romario Shepherd,West Indies,28,,bowler,right-handed-bat,right-arm-fast-medium,4,198,39.6,148.87,0,7,17,1,58,29.0,141.46,0,2,5,21,10.51,30.95,17.67,3,10.89,32.67,18.0,sunrisers-hyderabad,2022,77500000
+Glenn Phillips,New Zealand,25,,wk-batsman,right-handed-bat,right-arm-offbreak,8,1360,33.17,148.15,8,94,70,1,26,13.0,78.79,0,1,2,2,8.29,43.5,31.5,1,10.0,20.0,12.0,sunrisers-hyderabad,2022,15000000
+Sean Abbott,Australia,30,,bowling-allrounder,right-handed-bat,right-arm-medium,1,17,8.5,100.0,0,1,1,0,22,7.33,122.22,0,1,2,5,8.22,37.8,27.6,1,11.56,104.0,54.0,sunrisers-hyderabad,2022,24000000
+Shashank Singh,India,31,,batsman,right-handed-bat,right-arm-medium,-,-,-,-,-,-,-,1,69,17.25,146.81,0,5,4,-,-,-,-,0,10.0,0.0,0.0,sunrisers-hyderabad,2022,2000000
+K Khaleel Ahmed,India,24,,bowler,right-handed-bat,left-arm-fast-medium,1,1,0.0,100.0,0,0,0,0,1,0.2,14.29,0,0,0,13,8.83,35.31,24.0,48,8.49,22.94,16.21,delhi-capitals,2016,1000000
+K Khaleel Ahmed,India,24,,bowler,right-handed-bat,left-arm-fast-medium,1,1,0.0,100.0,0,0,0,0,1,0.2,14.29,0,0,0,13,8.83,35.31,24.0,48,8.49,22.94,16.21,sunrisers-hyderabad,2018,30000000
+K Khaleel Ahmed,India,24,,bowler,right-handed-bat,left-arm-fast-medium,1,1,0.0,100.0,0,0,0,0,1,0.2,14.29,0,0,0,13,8.83,35.31,24.0,48,8.49,22.94,16.21,delhi-capitals,2022,52500000
+Albie Morkel,South Africa,41,,batting-allrounder,left-handed-bat,right-arm-fast-medium,11,572,21.19,142.29,0,29,39,28,974,24.35,141.98,3,61,55,26,8.01,33.23,24.88,85,8.21,27.75,20.27,royal-challengers-bangalore,2014,24000000
+Albie Morkel,South Africa,41,,batting-allrounder,left-handed-bat,right-arm-fast-medium,11,572,21.19,142.29,0,29,39,28,974,24.35,141.98,3,61,55,26,8.01,33.23,24.88,85,8.21,27.75,20.27,delhi-capitals,2015,3000000
+Nicholas Pooran,West Indies,27,,wk-batsman,left-handed-bat,right-arm-offbreak,8,1427,25.48,129.02,9,101,83,9,912,26.06,151.24,4,51,65,-,-,-,-,-,-,-,-,mumbai-indians,2017,3000000
+Nicholas Pooran,West Indies,27,,wk-batsman,left-handed-bat,right-arm-offbreak,8,1427,25.48,129.02,9,101,83,9,912,26.06,151.24,4,51,65,-,-,-,-,-,-,-,-,punjab-kings,2019,42000000
+Sarfaraz Khan,India,25,,batsman,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,11,532,24.18,137.82,1,59,13,-,-,-,-,0,0.0,0.0,0.0,punjab-kings,2019,2500000
+Sarfaraz Khan,India,25,,batsman,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,11,532,24.18,137.82,1,59,13,-,-,-,-,0,0.0,0.0,0.0,royal-challengers-bangalore,2015,5000000
+Shahbaz Ahmed,India,27,,bowling-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,4,279,18.6,118.72,0,18,11,-,-,-,-,13,8.58,36.31,25.38,royal-challengers-bangalore,2020,2000000
+Shahbaz Ahmed,India,27,,bowling-allrounder,left-handed-bat,left-arm-orthodox,-,-,-,-,-,-,-,4,279,18.6,118.72,0,18,11,-,-,-,-,13,8.58,36.31,25.38,royal-challengers-bangalore,2022,24000000
+Krishnappa Gowtham,India,34,,bowling-allrounder,right-handed-bat,right-arm-offbreak,-,-,-,-,-,-,-,6,186,13.29,167.57,0,13,12,-,-,-,-,18,8.26,36.72,26.67,lucknow-super-giants,2022,9000000
+Washington Sundar,India,23,,batting-allrounder,left-handed-bat,right-arm-offbreak,4,47,5.88,142.42,0,4,3,11,318,14.45,120.45,0,26,9,26,7.34,29.77,24.35,33,7.23,33.52,27.82,royal-challengers-bangalore,2018,32000000
+Murugan Ashwin,India,32,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,4,35,3.89,70.0,0,2,1,-,-,-,-,35,7.87,31.69,24.17,delhi-capitals,2017,10000000
+Murugan Ashwin,India,32,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,4,35,3.89,70.0,0,2,1,-,-,-,-,35,7.87,31.69,24.17,royal-challengers-bangalore,2018,22000000
+Murugan Ashwin,India,32,,bowler,right-handed-bat,right-arm-legbreak,-,-,-,-,-,-,-,4,35,3.89,70.0,0,2,1,-,-,-,-,35,7.87,31.69,24.17,punjab-kings,2019,2000000
+Varun Chakravarthy,India,31,,bowler,right-handed-bat,right-arm-legbreak,0,0,0.0,0.0,0,0,0,7,24,8.0,64.86,0,2,0,2,5.87,66.0,67.5,42,7.23,27.88,23.14,kolkata-knight-riders,2020,40000000
+Varun Chakravarthy,India,31,,bowler,right-handed-bat,right-arm-legbreak,0,0,0.0,0.0,0,0,0,7,24,8.0,64.86,0,2,0,2,5.87,66.0,67.5,42,7.23,27.88,23.14,punjab-kings,2019,84000000
+Mujeeb Ur Rahman,Afghanistan,21,,bowler,right-handed-bat,right-arm-offbreak,5,32,8.0,103.23,0,4,1,4,12,4.0,80.0,0,2,0,49,6.22,17.02,16.41,19,8.18,31.16,22.84,punjab-kings,2018,40000000
+Mujeeb Ur Rahman,Afghanistan,21,,bowler,right-handed-bat,right-arm-offbreak,5,32,8.0,103.23,0,4,1,4,12,4.0,80.0,0,2,0,49,6.22,17.02,16.41,19,8.18,31.16,22.84,sunrisers-hyderabad,2021,15000000
+Rashid Khan,Afghanistan,24,,bowling-allrounder,right-handed-bat,right-arm-legbreak,18,328,14.26,127.63,0,20,20,15,313,11.18,151.94,0,20,22,122,6.26,14.38,13.79,112,6.38,20.83,19.6,sunrisers-hyderabad,2017,40000000
+Rashid Khan,Afghanistan,24,,bowling-allrounder,right-handed-bat,right-arm-legbreak,18,328,14.26,127.63,0,20,20,15,313,11.18,151.94,0,20,22,122,6.26,14.38,13.79,112,6.38,20.83,19.6,sunrisers-hyderabad,2018,90000000
