@@ -1,3 +1,4 @@
+import os
 import locale
 import joblib
 import streamlit as st
@@ -7,6 +8,8 @@ from model.crawlers import utils
 
 # Use the full page instead of a narrow central column
 st.set_page_config(layout="wide")
+os.environ['LC_ALL'] = 'en_IN.UTF-8'
+os.environ['LC_CTYPE'] = 'en_IN.UTF-8'
 locale.setlocale(locale.LC_ALL, 'en_IN.UTF-8')
 
 @st.cache(persist=True)
