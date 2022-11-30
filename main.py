@@ -1,16 +1,12 @@
-import os
-import locale
 import joblib
 import streamlit as st
 import pandas as pd
 import altair as alt
 from model.crawlers import utils
+from babel.numbers import format_currency
 
 # Use the full page instead of a narrow central column
 st.set_page_config(layout="wide")
-os.environ['LC_ALL'] = 'en_IN.UTF-8'
-os.environ['LC_CTYPE'] = 'en_IN.UTF-8'
-locale.setlocale(locale.LC_ALL, 'en_IN.UTF-8')
 
 @st.cache(persist=True)
 def get_data(file_name):
@@ -322,7 +318,7 @@ try:
                 st.error(f'Oops! Could not fetch player: {player_name}')
         with st.spinner(text=f'Making predictions for player: {player_name}'):
             if player_name != '' and player is not None:
-                predicted_price = locale.currency(reg_model.predict(player)[0], grouping=True)
+                predicted_price = format_currency(reg_model.predict(player)[0], 'INR', locale='en_IN')
                 predicted_team = clf_model.predict(player)[0].replace('-', ' ').title()
                 player_copy = player.copy()
                 player_copy['name'] = player_name.title()
