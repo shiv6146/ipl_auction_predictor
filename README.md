@@ -15,4 +15,4 @@ In the highly competitive IPL auctions, understanding player valuations can be k
 
 ## Demo
 
-Check out the (app)[https://shiv6146-ipl-auction-predictor-main-d1d81w.streamlit.app/]
+Check out the app [here](https://shiv6146-ipl-auction-predictor-main-d1d81w.streamlit.app/)
