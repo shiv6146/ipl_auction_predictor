@@ -35,7 +35,7 @@ def train():
         ('str_ord_enc', OrdinalEncoder(handle_unknown='use_encoded_value', unknown_value=-1), ord_cols)
     ])
 
-    automl = AutoSklearnRegressor(time_left_for_this_task=60, n_jobs=-1, max_models_on_disc=1, ensemble_size=50)
+    automl = AutoSklearnRegressor(time_left_for_this_task=600, per_run_time_limit=60, n_jobs=-1, max_models_on_disc=50, ensemble_size=50)
 
     # train pipeline
     pipe = Pipeline([

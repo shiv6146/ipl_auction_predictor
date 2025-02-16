@@ -2,14 +2,15 @@ import os
 import pandas as pd
 from .cricbuzz import Player
 
-def get_player_features(name, year):
+def get_player_features(url, year):
     player = None
     try:
-        player = Player(name)
+        player = Player(link=url)
     except Exception as e:
-        return None
+        print(f'Failed to construct player: {url}, {e}')
+        return None, None
     if player is None or player.info is None or player.bat_stats is None or player.bowl_stats is None:
-        return None
+        return None, None
     # feature vector column names
     feature_names = [
         "name", "country", "age", "height", "role", "bat_style", "bowl_style", "t20_no", "t20_runs", "t20_avg", "t20_sr", "t20_50", "t20_4s", "t20_6s",
@@ -23,7 +24,7 @@ def get_player_features(name, year):
     # process player info
     for k,v in player.info.items():
         if k == 'age':
-            features.append(int(v))
+            features.append(year - player.yob if player.yob is not None else int(v) if v is not None else None)
         elif k != 'age' and k != 'height':
             features.append(v.replace(' ', '-'))
         else:
@@ -41,7 +42,7 @@ def get_player_features(name, year):
     for bowl_stat in player.bowl_stats.loc['ipl'][bowl_stat_cols]:
         features.append(bowl_stat)
     features.append(year)
-    return preprocess(pd.DataFrame([features], columns=feature_names))
+    return preprocess(pd.DataFrame([features], columns=feature_names)), player
 
 def load_data(data_file: str) -> pd.DataFrame:
     if not os.path.isfile(data_file):

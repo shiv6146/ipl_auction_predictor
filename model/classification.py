@@ -32,7 +32,7 @@ def train():
         ('str_ord_enc', OrdinalEncoder(handle_unknown='use_encoded_value', unknown_value=-1), ord_cols)
     ])
 
-    automl = AutoSklearnClassifier(time_left_for_this_task=60, n_jobs=-1, ensemble_size=50, max_models_on_disc=1)
+    automl = AutoSklearnClassifier(time_left_for_this_task=600, per_run_time_limit=60, n_jobs=-1, max_models_on_disc=50, ensemble_size=50)
     # rf = RandomForestClassifier(verbose=2, n_jobs=-1)
 
     # train pipeline
@@ -52,6 +52,10 @@ def train():
 
     print(y_train.head())
     print(pipe.predict(df.head()))
+
+    print(automl.leaderboard())
+    print(automl.show_models())
+    print(automl.sprint_statistics())
 
 if __name__ == '__main__':
     train()

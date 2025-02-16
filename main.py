@@ -4,20 +4,34 @@ import pandas as pd
 import altair as alt
 from model.crawlers import utils
 from babel.numbers import format_currency
+from datetime import datetime
+from urllib.parse import urlparse
 
 # Use the full page instead of a narrow central column
 st.set_page_config(layout="wide")
 
-@st.cache(persist=True)
+# @st.cache(persist=True)
+@st.cache_data
 def get_data(file_name):
     df = pd.read_csv(file_name)
     return df
 
-@st.cache(persist=True, allow_output_mutation=True)
+# @st.cache(persist=True, allow_output_mutation=True)
+@st.cache_resource
 def load_models():
     reg = joblib.load('./model/auto_reg_v1.joblib')
-    clf = joblib.load('./model/clf_v1.joblib')
+    clf = joblib.load('./model/auto_clf_v1.joblib')
     return reg, clf
+
+def is_valid_url(url: str) -> bool:
+    """
+    Validate a URL by checking if it has a scheme and a netloc.
+    """
+    try:
+        result = urlparse(url)
+        return all([result.scheme, result.netloc])
+    except Exception:
+        return False
 
 def preprocess(df: pd.DataFrame) -> pd.DataFrame:
     processed_df = None
@@ -47,15 +61,17 @@ def show_price_spent_vs_six_hitting_ability_plot(df):
         'sixes_count':df.groupby(["year", "team"])['total_6s'].sum(),
         'total_price': df.groupby(["year", "team"])['price'].sum()
         }).reset_index()
+    
+    tdf['total_price'] = tdf['total_price'] / 10000000
 
 
     c = alt.Chart(tdf).mark_trail().encode(
-        x=alt.X('year', bin = False, scale=alt.Scale(domain=[2013, 2023])), y='sixes_count', size='total_price', color='team', tooltip=['team', 'year', 'total_price', 'sixes_count']
+        x=alt.X('year', bin = False, scale=alt.Scale(domain=[2013, 2025]), axis=alt.Axis(format='d')), y='sixes_count', size='total_price', color='team', tooltip=['team', 'year', 'total_price', 'sixes_count']
         )
     
     # Create a selection that chooses the nearest point & selects based on x-value
     nearest = alt.selection(type='multi', nearest=True, on='mouseover',
-                            fields=['year', 'sixes_count', 'total_price', 'team'], empty='none')
+                            fields=['year', 'sixes_count', 'total_price', 'team'], empty=False)
     
     # Transparent selectors across the chart. This is what tells us
     # the x-value of the cursor
@@ -65,7 +81,7 @@ def show_price_spent_vs_six_hitting_ability_plot(df):
         size='total_price',
         color='team',
         opacity=alt.value(0),
-    ).add_selection(
+    ).add_params(
         nearest
     )
 
@@ -85,8 +101,8 @@ def show_price_spent_vs_six_hitting_ability_plot(df):
     final = alt.layer(
         c, selectors, points, rules
     ).properties(
-        title="Six hitting ability of teams (vs) amount spent over the years"
-    )
+        title="Six hitting ability of teams (vs) amount spent"
+    ).interactive()
 
     st.altair_chart(final, use_container_width=True)
 
@@ -95,15 +111,17 @@ def show_price_spent_vs_crucial_roles_plot(df):
         'role_count':df.groupby(["year", "role"])['role'].count(),
         'total_price': df.groupby(["year", "role"])['price'].sum()
         }).reset_index()
+    
+    tdf['total_price'] = tdf['total_price'] / 10000000
 
     c = alt.Chart(tdf).mark_trail().encode(
-        x=alt.X('year', bin = False, scale=alt.Scale(domain=[2013, 2023])), y='total_price', size='role_count', color='role', 
+        x=alt.X('year', bin = False, scale=alt.Scale(domain=[2013, 2025]), axis=alt.Axis(format='d')), y='total_price', size='role_count', color='role', 
         tooltip=['year', 'role', 'role_count', 'total_price']
         )
     
     # Create a selection that chooses the nearest point & selects based on x-value
     nearest = alt.selection(type='multi', nearest=True, on='mouseover',
-                            fields=['year', 'role', 'role_count', 'total_price'], empty='none')
+                            fields=['year', 'role', 'role_count', 'total_price'], empty=False)
     
     # Transparent selectors across the chart. This is what tells us
     # the x-value of the cursor
@@ -113,7 +131,7 @@ def show_price_spent_vs_crucial_roles_plot(df):
         color='role',
         size='role_count',
         opacity=alt.value(0),
-    ).add_selection(
+    ).add_params(
         nearest
     )
 
@@ -133,28 +151,28 @@ def show_price_spent_vs_crucial_roles_plot(df):
     final = alt.layer(
         c, selectors, points, rules
     ).properties(
-        title="Crucial roles (vs) amount spent over the years"
-    )
+        title="Crucial roles (vs) amount spent"
+    ).interactive()
 
     st.altair_chart(final, use_container_width=True)
 
 def show_avg_age_per_team_over_the_years_plot(df):
     tdf = df.copy()
     # update age col offset vs curr year and curr age
-    tdf['age'] = tdf['age'] - (2022 - tdf['year'])
+    # tdf['age'] = tdf['age'] - (2025 - tdf['year'])
     tdf = pd.DataFrame({
         'avg_age': df.groupby(["year", "team"])['age'].mean()
         }).reset_index()
 
     c = alt.Chart(tdf).mark_trail().encode(
-        x=alt.X('year', bin = False, scale=alt.Scale(domain=[2013, 2023])), 
-        y=alt.Y('avg_age', bin = False, scale=alt.Scale(domain=[25, 40])), color='team', 
+        x=alt.X('year', bin = False, scale=alt.Scale(domain=[2013, 2025]), axis=alt.Axis(format='d')), 
+        y=alt.Y('avg_age', bin = False, scale=alt.Scale(domain=[20, 35]), axis=alt.Axis(format='d')), color='team', 
         tooltip=['year', 'team', 'avg_age']
         )
     
     # Create a selection that chooses the nearest point & selects based on x-value
     nearest = alt.selection(type='multi', nearest=True, on='mouseover',
-                            fields=['year', 'team', 'avg_age'], empty='none')
+                            fields=['year', 'team', 'avg_age'], empty=False)
     
     # Transparent selectors across the chart. This is what tells us
     # the x-value of the cursor
@@ -163,7 +181,7 @@ def show_avg_age_per_team_over_the_years_plot(df):
         y='avg_age',
         color='team',
         opacity=alt.value(0),
-    ).add_selection(
+    ).add_params(
         nearest
     )
 
@@ -183,13 +201,14 @@ def show_avg_age_per_team_over_the_years_plot(df):
     final = alt.layer(
         c, selectors, points, rules
     ).properties(
-        title="Average age of players per team targetted in every year auction"
-    )
+        title="Average age of players per team targetted in every auction"
+    ).interactive()
 
     st.altair_chart(final, use_container_width=True)
 
 def show_top_batsr_price_over_the_years_plot(df):
     tdf = df.copy()
+    tdf['price'] = tdf['price'] / 10000000
     bat = tdf[tdf.role.isin(['bowling-allrounder', 'batting-allrounder', 'batsman', 'wk-batsman'])][tdf['total_runs'] >= 500]
     top_5_df = bat.drop_duplicates('name').nlargest(5, 'total_sr')
     players = st.multiselect(
@@ -200,7 +219,7 @@ def show_top_batsr_price_over_the_years_plot(df):
     else:
         data = bat[bat.name.isin(players)]
         c = alt.Chart(data).mark_circle().encode(
-            x=alt.X('year', bin = False, scale=alt.Scale(domain=[2013, 2023])), 
+            x=alt.X('year', bin = False, scale=alt.Scale(domain=[2013, 2025]), axis=alt.Axis(format='d')), 
             y='price', 
             color='name',
             size='total_sr',
@@ -210,7 +229,7 @@ def show_top_batsr_price_over_the_years_plot(df):
         
         # Create a selection that chooses the nearest point & selects based on x-value
         nearest = alt.selection(type='multi', nearest=True, on='mouseover',
-                                fields=['name', 'year', 'price', 'total_sr'], empty='none')
+                                fields=['name', 'year', 'price', 'total_sr'], empty=False)
         
         # Transparent selectors across the chart. This is what tells us
         # the x-value of the cursor
@@ -219,7 +238,7 @@ def show_top_batsr_price_over_the_years_plot(df):
             y='price',
             color='name',
             opacity=alt.value(0),
-        ).add_selection(
+        ).add_params(
             nearest
         )
 
@@ -239,13 +258,14 @@ def show_top_batsr_price_over_the_years_plot(df):
         final = alt.layer(
             c, selectors, points, rules
         ).properties(
-            title="Price of players with best career batting strike rate over the years"
-        )
+            title="Price of players with best career batting strike rate"
+        ).interactive()
 
         st.altair_chart(final, use_container_width=True)
 
 def show_top_bowlsr_price_over_the_years_plot(df):
     tdf = df.copy()
+    tdf['price'] = tdf['price'] / 10000000
     bowl = tdf[tdf.role.isin(['bowling-allrounder', 'bowler'])][tdf['total_wkts'] >= 100]
     top_5_df = bowl.drop_duplicates('name').nsmallest(5, 'total_bowl_econ')
     players = st.multiselect(
@@ -256,7 +276,7 @@ def show_top_bowlsr_price_over_the_years_plot(df):
     else:
         data = bowl[bowl.name.isin(players)]
         c = alt.Chart(data).mark_circle().encode(
-            x=alt.X('year', bin = False, scale=alt.Scale(domain=[2013, 2023])), 
+            x=alt.X('year', bin = False, scale=alt.Scale(domain=[2013, 2025]), axis=alt.Axis(format='d')), 
             y='price', 
             color='name',
             size='total_bowl_econ',
@@ -266,7 +286,7 @@ def show_top_bowlsr_price_over_the_years_plot(df):
         
         # Create a selection that chooses the nearest point & selects based on x-value
         nearest = alt.selection(type='multi', nearest=True, on='mouseover',
-                                fields=['name', 'year', 'price', 'total_bowl_econ'], empty='none')
+                                fields=['name', 'year', 'price', 'total_bowl_econ'], empty=False)
         
         # Transparent selectors across the chart. This is what tells us
         # the x-value of the cursor
@@ -275,7 +295,7 @@ def show_top_bowlsr_price_over_the_years_plot(df):
             y='price',
             color='name',
             opacity=alt.value(0),
-        ).add_selection(
+        ).add_params(
             nearest
         )
 
@@ -295,8 +315,8 @@ def show_top_bowlsr_price_over_the_years_plot(df):
         final = alt.layer(
             c, selectors, points, rules
         ).properties(
-            title="Price of players with best career bowling economy over the years"
-        )
+            title="Price of players with best career bowling economy"
+        ).interactive()
 
         st.altair_chart(final, use_container_width=True)
 
@@ -307,26 +327,26 @@ try:
     st.title('IPL Auction Prediction')
     col1, col2 = st.columns(2)
     with col1:
-        player_name = st.text_input('Type a player name')
-        auction_yr = st.number_input('Year of auction', 2023, 2025)
+        player_url = st.text_input('Paste Cricbuzz profile link of any player')
+        auction_yr = st.number_input('Year of auction', datetime.now().year, datetime.now().year+2)
         
     with col2:
         player = None
         with st.spinner(text='Fetching player info...'):
-            player = utils.get_player_features(player_name, auction_yr)
-            if player_name != '' and player is None:
-                st.error(f'Oops! Could not fetch player: {player_name}')
-        with st.spinner(text=f'Making predictions for player: {player_name}'):
-            if player_name != '' and player is not None:
-                predicted_price = format_currency(reg_model.predict(player)[0], 'INR', locale='en_IN')
-                predicted_team = clf_model.predict(player)[0].replace('-', ' ').title()
-                player_copy = player.copy()
-                player_copy['name'] = player_name.title()
+            player_feat, player = utils.get_player_features(player_url, auction_yr)
+            if player_url != '' and player is None:
+                st.error(f'Oops! Could not fetch player')
+        with st.spinner(text=f'Making predictions for player'):
+            if player_url != '' and player is not None:
+                predicted_price = format_currency(reg_model.predict(player_feat)[0] / 10000000, 'INR', locale='en_IN', format=u"₹#,##0.00 'Cr'")
+                predicted_team = clf_model.predict(player_feat)[0].replace('-', ' ').title()
+                player_copy = player_feat.copy()
+                player_copy['name'] = player.name.title()
                 st.write('Player Stats Summary')
                 st.write(player_copy.set_index('name'))
-                st.success(f'**{predicted_team}** could place a bid of **{predicted_price}** for **{player_name.title()}** in the **{auction_yr}** IPL auction')
+                st.success(f'**{predicted_team}** could place a bid of **{predicted_price}** for **{player.name.title()}** in the **{auction_yr}** IPL auction')
 
-    st.title('IPL Auction Data Analysis [2013 - 2022]')
+    st.title('IPL Auction Data Analysis [2013 - 2025](https://www.iplt20.com/auction/2025)')
     show_price_spent_vs_six_hitting_ability_plot(df)
     col3, col4 = st.columns(2)
     with col3:
