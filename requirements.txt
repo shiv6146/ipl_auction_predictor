@@ -8,3 +8,4 @@ scikit-learn
 pandas
 numpy
 auto-sklearn
+googlesearch-python
